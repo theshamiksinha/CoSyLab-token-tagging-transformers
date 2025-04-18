@@ -1,0 +1,16928 @@
+6	B-QUANTITY
+poblano	B-NAME
+peppers	I-NAME
+-LRB-	O
+wide	O
+and	O
+long	O
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+pork	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1-inch	I-STATE
+cubes	I-STATE
+
+1/3	B-QUANTITY
+cup	B-UNIT
+pitted	B-NAME
+Greek	I-NAME
+olives	I-NAME
+or	O
+1/3	B-QUANTITY
+cup	B-UNIT
+ripe	O
+california	O
+olive	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+frozen	O
+green	B-NAME
+peas	I-NAME
+
+4	B-QUANTITY
+cups	B-UNIT
+cooked	B-NAME
+rice	I-NAME
+,	O
+chilled	B-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+fresh	O
+green	B-NAME
+peas	I-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+floury	B-NAME
+potatoes	I-NAME
+,	O
+quartered	B-STATE
+
+4	B-QUANTITY
+large	B-SIZE
+garlic	B-NAME
+cloves	I-NAME
+,	O
+lightly	B-STATE
+smashed	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chili-garlic	B-NAME
+sauce	I-NAME
+,	O
+plus	O
+more	O
+if	O
+necessary	O
+
+100	B-QUANTITY
+g	B-UNIT
+marzipan	B-NAME
+,	O
+shredded	B-STATE
+-LRB-	O
+try	O
+to	O
+find	O
+Danish	O
+marzipan	B-NAME
+,	O
+it	O
+is	O
+sold	O
+in	O
+most	O
+major	O
+stores	O
+in	O
+Canada	O
+,	O
+in	O
+the	O
+bakery	O
+aisle	O
+-RRB-	O
+
+4	B-QUANTITY
+green	B-NAME
+onions	I-NAME
+,	O
+diagonally	B-STATE
+sliced	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+extra	B-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+whole	B-NAME
+wheat	I-NAME
+self-rising	I-NAME
+flour	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+clarified	B-NAME
+butter	I-NAME
+,	O
+warm	B-STATE
+
+1	B-QUANTITY
+stalk	B-UNIT
+lemongrass	B-NAME
+,	O
+the	B-STATE
+fleshy	I-STATE
+part	I-STATE
+bruised	I-STATE
+
+250	B-QUANTITY
+ml	B-UNIT
+coconut	B-NAME
+
+3/4	B-QUANTITY
+lb	B-UNIT
+extra	B-NAME
+lean	I-NAME
+ground	B-STATE
+beef	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+olive	B-NAME
+oil	I-NAME
+-LRB-	O
+more	O
+or	O
+less	O
+as	O
+needed	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+parsley	B-NAME
+or	O
+2	O
+tablespoons	O
+dried	O
+parsley	B-NAME
+
+3	B-QUANTITY
+coriander	B-NAME
+sprigs	I-NAME
+,	O
+a	B-STATE
+special	I-STATE
+one	O
+,	O
+called	B-STATE
+Ngo	I-STATE
+gai	O
+,	O
+chopped	B-STATE
+
+8	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+jiffy	O
+box	B-NAME
+cornmeal	I-NAME
+mix	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+white	B-NAME
+wine	I-NAME
+vinegar	I-NAME
+-LRB-	O
+or	O
+try	O
+malt	O
+or	O
+cider	O
+vinegar	B-NAME
+-RRB-	O
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+sun-dried	B-NAME
+tomato	I-NAME
+tapenade	I-NAME
+
+1	B-QUANTITY
+large	B-SIZE
+onion	B-NAME
+,	O
+chop	O
+&	O
+amp	O
+,	O
+saute	O
+
+peach	B-NAME
+,	O
+1	B-QUANTITY
+can	B-UNIT
+-LRB-	O
+or	O
+any	O
+canned	O
+or	O
+bottled	O
+fruit	O
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+red	B-NAME
+wine	I-NAME
+-LRB-	O
+cooking	O
+-RRB-	O
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+beef	B-NAME
+bouillon	I-NAME
+
+3	B-QUANTITY
+heads	B-UNIT
+bibb	B-NAME
+lettuce	I-NAME
+
+1	B-QUANTITY
+pinch	B-UNIT
+thyme	B-NAME
+,	O
+dried	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+cooked	O
+shrimp	B-NAME
+-LRB-	O
+peeled	B-STATE
+and	I-STATE
+deveined	I-STATE
+-RRB-	O
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+baking	B-NAME
+powder	I-NAME
+,	O
+sifted	B-STATE
+
+cilantro	B-NAME
+-LRB-	O
+minced	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+package	B-UNIT
+fat-free	B-NAME
+cream	I-NAME
+cheese	I-NAME
+
+3	B-QUANTITY
+lbs	B-UNIT
+chicken	B-NAME
+breasts	I-NAME
+,	O
+1/2	B-STATE
+inch	I-STATE
+x	I-STATE
+2	I-STATE
+inch	I-STATE
+chucks	O
+
+12	B-QUANTITY
+ounces	I-QUANTITY
+hi-gluten	I-QUANTITY
+flour	I-QUANTITY
+-LRB-	I-QUANTITY
+such	I-QUANTITY
+as	I-QUANTITY
+Bouncer	I-QUANTITY
+-RRB-	I-QUANTITY
+
+3	B-QUANTITY
+lemons	B-NAME
+,	O
+juice	B-FORM
+of	O
+
+2	B-QUANTITY
+cups	B-UNIT
+chicken	B-NAME
+stock	I-NAME
+-LRB-	O
+fresh	O
+or	O
+canned	O
+-RRB-	O
+
+pizza	B-NAME
+crust	I-NAME
+-LRB-	O
+Garlic-Herb	O
+Pizza	O
+Crust	O
+-LRB-	O
+Gluten	O
+Free	O
+-RRB-	O
+or	O
+your	O
+own	O
+pizza	B-NAME
+crust	I-NAME
+recipe	O
+-RRB-	O
+
+3	B-QUANTITY
+-4	O
+carrots	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+1	I-STATE
+inch	I-STATE
+pieces	I-STATE
+
+4	B-QUANTITY
+boneless	B-NAME
+pork	I-NAME
+loin	I-NAME
+steaks	I-NAME
+,	O
+trimmed	B-STATE
+of	I-STATE
+excess	I-STATE
+fat	I-STATE
+
+1	B-QUANTITY
+package	B-UNIT
+Lipton	B-NAME
+Onion	I-NAME
+Soup	I-NAME
+Mix	I-NAME
+
+4	B-QUANTITY
+ounces	B-UNIT
+cabbage	B-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+jar	B-UNIT
+red	B-NAME
+beets	I-NAME
+,	O
+balls	B-STATE
+drained	I-STATE
+-LRB-	O
+preferably	O
+German	O
+-RRB-	O
+
+3/4	B-QUANTITY
+cup	B-UNIT
+instant	B-NAME
+tea	I-NAME
+-LRB-	O
+unsweetened	B-STATE
+-RRB-	O
+
+7	B-QUANTITY
+ounces	B-UNIT
+phyllo	B-NAME
+pastry	I-NAME
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+ginger	B-NAME
+juice	B-FORM
+
+2	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+couscous	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+meatballs	B-NAME
+
+250	B-QUANTITY
+g	B-UNIT
+low-fat	B-STATE
+plain	B-NAME
+yogurt	I-NAME
+
+30	O
+-32	O
+pitted	B-STATE
+prunes	B-NAME
+
+1	B-QUANTITY
+head	B-UNIT
+boston	O
+lettuce	B-NAME
+,	O
+shredded	B-STATE
+
+12	B-QUANTITY
+precooked	O
+frozen	B-STATE
+meatballs	B-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+cheddar	B-NAME
+cheese	I-NAME
+or	O
+2	B-QUANTITY
+cups	B-UNIT
+monterey	O
+jack	O
+cheese	B-NAME
+,	O
+shredded	B-STATE
+
+1	O
+-2	O
+teaspoon	O
+whole	B-NAME
+mustard	I-NAME
+seeds	B-FORM
+
+diced	B-STATE
+green	B-NAME
+chilis	I-NAME
+-LRB-	O
+that	O
+sort	O
+of	O
+thing	O
+,	O
+what	O
+ever	O
+lights	O
+your	O
+candle	O
+-RRB-	O
+
+3	B-QUANTITY
+heads	B-UNIT
+green	B-NAME
+cabbage	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+mushroom	B-NAME
+,	O
+sliced	B-STATE
+
+10	B-QUANTITY
+small	B-SIZE
+shallots	B-NAME
+,	O
+peeled	B-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+shallots	B-NAME
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+black	B-NAME
+peppercorns	I-NAME
+-LRB-	O
+crushed	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+dried	B-DF
+basil	B-NAME
+or	B-DF
+1	B-QUANTITY
+-2	O
+tablespoon	O
+fresh	B-DF
+basil	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+ground	B-FORM
+beef	B-NAME
+-LRB-	O
+extra	O
+lean	O
+-RRB-	O
+
+2	O
+-3	O
+tablespoons	B-UNIT
+chopped	B-STATE
+pimiento	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+pea	B-NAME
+aubergines	I-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+berry	O
+brinjals	O
+
+colourful	B-NAME
+vegetables	I-NAME
+such	O
+as	O
+carrot	O
+,	O
+peppers	O
+,	O
+cucumbers	O
+and	O
+asparagus	O
+,	O
+cut	B-STATE
+into	I-STATE
+strips	I-STATE
+
+3	B-QUANTITY
+avocados	B-NAME
+,	O
+seeded	B-STATE
+and	I-STATE
+peeled	I-STATE
+
+350	B-QUANTITY
+g	B-UNIT
+potatoes	B-NAME
+,	O
+peeled	B-STATE
+cubed	I-STATE
+
+1	O
+-2	O
+garlic	B-NAME
+clove	I-NAME
+,	O
+cut	B-STATE
+up	I-STATE
+roughly	I-STATE
+
+vegetable	B-NAME
+oil	I-NAME
+-LRB-	O
+for	O
+frying	O
+,	O
+about	O
+1/2	O
+inch	O
+in	O
+the	O
+pan	O
+or	O
+enough	O
+for	O
+deep	O
+fry	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+pistachio	B-NAME
+nut	O
+
+1/4	B-QUANTITY
+lb	B-UNIT
+salt	B-NAME
+pork	I-NAME
+,	O
+finely	B-STATE
+diced	I-STATE
+
+gluten-free	B-NAME
+breadcrumbs	I-NAME
+
+4	B-QUANTITY
+shallots	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+minced	I-STATE
+
+4	B-QUANTITY
+ounces	B-UNIT
+dried	B-DF
+spaghettini	B-NAME
+-LRB-	O
+or	O
+fresh	O
+-RRB-	O
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+organic	B-NAME
+unbleached	I-NAME
+white	I-NAME
+flour	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+sliced	O
+bamboo	B-NAME
+shoot	I-NAME
+-LRB-	O
+canned	O
+,	O
+drained	B-STATE
+-RRB-	O
+
+2	O
+-3	O
+tablespoons	B-UNIT
+mayonnaise	B-NAME
+or	O
+2	O
+-3	O
+tablespoons	B-UNIT
+salad	O
+dressing	O
+
+1	B-QUANTITY
+granny	B-NAME
+smith	I-NAME
+apple	I-NAME
+,	O
+peeled	O
+,	O
+cored	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+9	B-QUANTITY
+ounces	B-UNIT
+Baby	O
+Spinach	O
+
+1	B-QUANTITY
+jar	B-UNIT
+mushrooms	B-NAME
+,	O
+sliced	B-STATE
+-LRB-	O
+with	O
+sauce	O
+-RRB-	O
+
+chopped	B-STATE
+red	B-NAME
+onion	I-NAME
+
+1	O
+-2	O
+teaspoon	O
+brown	B-NAME
+sugar	I-NAME
+
+1/3	B-QUANTITY
+cup	B-UNIT
+fine	B-NAME
+breadcrumbs	I-NAME
+or	O
+1/3	B-QUANTITY
+cup	B-UNIT
+cracker	O
+crumb	O
+
+Chinese	B-NAME
+red	I-NAME
+rice	I-NAME
+wine	I-NAME
+
+3	B-QUANTITY
+beef	B-NAME
+bouillon	I-NAME
+cubes	I-NAME
+,	O
+crumbled	B-STATE
+
+2	B-QUANTITY
+-3	O
+stalks	B-UNIT
+lemongrass	B-NAME
+-LRB-	O
+bottoms	O
+only	O
+,	O
+minced	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+pushed	B-STATE
+through	I-STATE
+a	I-STATE
+press	I-STATE
+
+8	B-QUANTITY
+ounces	B-UNIT
+Crab	B-NAME
+Delights	I-NAME
+Imitation	I-NAME
+Crab	I-NAME
+-LRB-	O
+or	O
+other	O
+imitation	O
+crab	O
+-RRB-	O
+
+cilantro	B-NAME
+,	O
+to	O
+serve	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+shelled	B-STATE
+pistachio	B-NAME
+nut	B-FORM
+
+some	O
+rosemary	B-NAME
+
+1	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+1/2	I-QUANTITY
+teaspoon	B-UNIT
+pepper	B-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+Frank	O
+'s	O
+red	O
+hot	O
+sauce	O
+
+1	B-QUANTITY
+jalapeno	B-NAME
+pepper	I-NAME
+,	O
+seeded	B-STATE
+and	I-STATE
+diced	I-STATE
+small	B-SIZE
+
+1	B-QUANTITY
+small	B-SIZE
+tomatoes	B-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+-LRB-	O
+about	O
+1/4	O
+cup	O
+-RRB-	O
+
+5	B-QUANTITY
+lbs	B-UNIT
+ham	B-NAME
+-LRB-	O
+boneless	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+cold	O
+boiled	B-STATE
+potato	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+-	I-QUANTITY
+2	I-QUANTITY
+cups	B-UNIT
+Italian	B-NAME
+seasoned	I-NAME
+breadcrumbs	I-NAME
+
+1	B-QUANTITY
+large	B-SIZE
+cooking	B-NAME
+apple	I-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+coarsely	I-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+ground	B-FORM
+cinnamon	B-NAME
+,	O
+more	O
+to	O
+taste	O
+
+2	B-QUANTITY
+slices	B-UNIT
+white	B-NAME
+bread	I-NAME
+-LRB-	O
+white	B-NAME
+works	O
+best	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+pickled	B-STATE
+jalapeno	B-NAME
+pepper	I-NAME
+juice	B-FORM
+,	O
+from	O
+a	O
+jar	O
+of	O
+pickled	B-STATE
+jalapenos**	O
+
+5	O
+.	O
+set	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+tbsp	B-UNIT
+soy	B-NAME
+sauce	I-NAME
+
+3/4	B-QUANTITY
+lb	B-UNIT
+steak	B-NAME
+,	O
+cube	O
+-LRB-	O
+your	O
+choice	O
+of	O
+steak	B-NAME
+-RRB-	O
+
+salad	B-NAME
+leaves	B-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+3	B-QUANTITY
+cups	B-UNIT
+Bisquick	B-NAME
+baking	I-NAME
+mix	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+walnut	B-NAME
+pieces	I-NAME
+,	O
+chopped	B-STATE
+fine	I-STATE
+
+8	B-QUANTITY
+ounces	B-UNIT
+canned	B-SIZE
+corn	B-NAME
+-LRB-	O
+drained	B-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+tamarind	B-NAME
+juice	B-FORM
+or	B-STATE
+2	I-STATE
+teaspoons	I-STATE
+tamarind	B-NAME
+paste	B-STATE
+
+2	B-QUANTITY
+small	B-SIZE
+zucchini	B-NAME
+-LRB-	O
+cut	B-STATE
+lengthwise	I-STATE
+in	I-STATE
+half	O
+,	O
+then	B-STATE
+crosswise	I-STATE
+into	I-STATE
+1/2-inch	I-STATE
+thick	I-STATE
+slices	I-STATE
+-RRB-	O
+
+30	B-QUANTITY
+ml	B-UNIT
+apricot	B-NAME
+jam	I-NAME
+
+1	B-QUANTITY
+box	B-UNIT
+jumbo	B-NAME
+pasta	I-NAME
+shells	I-NAME
+-LRB-	O
+cooked	B-STATE
+al	I-STATE
+dente	I-STATE
+only	I-STATE
+!	I-STATE
+-RRB-	O
+
+4	B-QUANTITY
+cups	B-UNIT
+swiss	B-NAME
+chard	I-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+about	O
+12	O
+ounces	O
+-RRB-	O
+
+salt	B-NAME
+&	I-NAME
+pepper	I-NAME
+-LRB-	O
+for	O
+dredging	O
+-RRB-	O
+
+3	B-QUANTITY
+cans	B-UNIT
+pineapple	B-NAME
+juice	B-FORM
+
+1/4	B-QUANTITY
+cup	B-UNIT
+coarsely	B-STATE
+chopped	I-STATE
+fresh	B-DF
+coriander	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+ground	B-STATE
+roasted	I-STATE
+peanuts	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+fresh	B-DF
+strong	O
+coffee	B-NAME
+
+28	B-QUANTITY
+ounces	B-UNIT
+crushed	B-STATE
+tomatoes	O
+or	O
+28	B-QUANTITY
+ounces	B-UNIT
+spaghetti	O
+sauce	O
+
+1/4	B-QUANTITY
+-	I-QUANTITY
+1/2	I-QUANTITY
+teaspoon	B-UNIT
+seasoning	B-NAME
+,	O
+your	O
+choice	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+stew	I-NAME
+meat	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+pieces	I-STATE
+
+200	B-QUANTITY
+g	B-UNIT
+smoked	O
+salmon	B-NAME
+,	O
+slices	B-STATE
+roughly	I-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+thinly	B-STATE
+slied	O
+green	B-NAME
+onions	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+French	B-NAME
+beans	I-NAME
+,	O
+washed	O
+,	O
+ends	B-STATE
+trimmed	I-STATE
+and	I-STATE
+chopped	I-STATE
+in	O
+1	B-QUANTITY
+inch	O
+size	B-STATE
+pieces	I-STATE
+
+3	B-QUANTITY
+cups	B-UNIT
+prepared	B-STATE
+basmati	B-NAME
+rice	I-NAME
+
+2	B-QUANTITY
+hard-cooked	O
+eggs	B-NAME
+,	O
+chilled	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+extra	B-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+,	O
+1	B-QUANTITY
+turn	O
+of	O
+the	O
+pan	O
+
+4	B-QUANTITY
+1/3	I-QUANTITY
+ounces	B-UNIT
+bacon	B-NAME
+,	O
+Hormel	O
+50	O
+%	O
+less	O
+fat	O
+real	O
+crumbles	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+mini	B-NAME
+marshmallows	I-NAME
+
+2	B-QUANTITY
+small	B-SIZE
+boneless	B-STATE
+skinless	I-STATE
+chicken	B-NAME
+breasts	I-NAME
+-LRB-	O
+about	O
+1	O
+pound	O
+-RRB-	O
+
+4	B-QUANTITY
+sun-dried	B-NAME
+tomatoes	I-NAME
+,	O
+drained	B-STATE
+of	I-STATE
+oil	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+cream-style	B-NAME
+corn	I-NAME
+
+2	B-QUANTITY
+stalks	B-UNIT
+celery	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+thin	I-STATE
+rounds	I-STATE
+
+50	B-QUANTITY
+g	B-UNIT
+green	B-NAME
+peas	I-NAME
+,	O
+boiled	B-STATE
+
+150	B-QUANTITY
+g	B-UNIT
+serrano	B-NAME
+ham	I-NAME
+,	O
+chopped	B-STATE
+
+2	O
+-3	O
+cups	B-UNIT
+cooked	B-STATE
+chicken	B-NAME
+-LRB-	O
+cubed	B-STATE
+or	I-STATE
+shredded	I-STATE
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+olive	B-NAME
+oil	I-NAME
+-LRB-	O
+approximate	O
+-RRB-	O
+
+3	B-QUANTITY
+ounces	B-UNIT
+butter	B-NAME
+,	O
+chilled	B-STATE
+and	I-STATE
+cubed	I-STATE
+
+250	B-QUANTITY
+ml	B-UNIT
+vegetable	B-NAME
+broth	I-NAME
+-LRB-	O
+or	O
+1	O
+tsp	O
+.	O
+vegetable	B-NAME
+broth	I-NAME
+granules	O
++	O
+water	O
+-RRB-	O
+
+4	B-QUANTITY
+cups	B-UNIT
+cooked	B-STATE
+rigatoni	B-NAME
+pasta	I-NAME
+-LRB-	O
+do	O
+not	O
+overcook	O
+the	O
+pasta	B-NAME
+as	O
+it	O
+will	O
+cook	O
+more	O
+in	O
+the	O
+oven	O
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+jalapeno	B-NAME
+peppers	I-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+wear	O
+gloves	O
+!	O
+-RRB-	O
+
+100	B-QUANTITY
+g	B-UNIT
+bacon	B-NAME
+-LRB-	O
+dried	B-DF
+,	O
+smoked	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+of	O
+chopped	B-STATE
+celery	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+arborio	B-NAME
+rice	I-NAME
+,	O
+uncooked	B-STATE
+white	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+canned	B-FORM
+chick-peas	B-NAME
+,	O
+drained	B-STATE
+and	I-STATE
+rinsed	I-STATE
+-LRB-	O
+garbanzo	O
+beans	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+vegetarian	B-NAME
+baked	I-NAME
+beans	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+green	B-NAME
+bell	I-NAME
+peppers	I-NAME
+,	O
+rough	B-STATE
+chopped	I-STATE
+
+1/2	B-QUANTITY
+ounce	B-UNIT
+baking	B-NAME
+chocolate	I-NAME
+,	O
+grated	B-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+zucchini	O
+-LRB-	O
+optional	O
+-RRB-	O
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+yellow	O
+squash	O
+,	O
+diced	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+3	B-QUANTITY
+3/4	I-QUANTITY
+cups	B-UNIT
+cold	B-NAME
+water	I-NAME
+
+2	B-QUANTITY
+-3	O
+dried	B-DF
+chilies	B-NAME
+-LRB-	O
+chiles	O
+de	O
+arbol	O
+-RRB-	O
+
+6	B-QUANTITY
+medium	B-SIZE
+tomatoes	B-NAME
+-LRB-	O
+sliced	B-STATE
+in	I-STATE
+half	O
+,	O
+then	B-STATE
+quartered	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+raspberry	B-NAME
+liqueur	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+tarragon	B-NAME
+leaves	B-FORM
+
+bacon	B-NAME
+fat	I-NAME
+
+8	B-QUANTITY
+cups	B-UNIT
+water	B-NAME
+,	O
+plus	B-STATE
+1/4	I-STATE
+cup	I-STATE
+cold	I-STATE
+water	B-NAME
+separated	B-STATE
+
+1	B-QUANTITY
+egg	B-NAME
+,	O
+at	B-STATE
+room	I-STATE
+temperature	O
+,	O
+well	B-STATE
+beaten	I-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+red	B-NAME
+peppers	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/4-inch	O
+slices	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+oil	B-NAME
+,	O
+for	B-STATE
+oiling	I-STATE
+the	I-STATE
+grill	I-STATE
+or	O
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+oil	B-NAME
+,	O
+for	B-STATE
+oiling	I-STATE
+the	I-STATE
+oven	O
+tray	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+pesto	B-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+baby	B-NAME
+clams	I-NAME
+,	O
+drained	B-STATE
+
+1/3	B-QUANTITY
+cup	B-UNIT
+palm	B-NAME
+sugar	I-NAME
+,	O
+grated	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+cauliflower	B-NAME
+florets	I-NAME
+,	O
+cut	B-STATE
+bite-size	I-STATE
+
+1	B-QUANTITY
+bunch	B-UNIT
+fresh	B-DF
+thyme	B-NAME
+,	O
+finely	B-STATE
+minced	I-STATE
+
+1	B-QUANTITY
+medium	B-SIZE
+cucumber	B-NAME
+,	O
+grated	B-STATE
+&	O
+squeezed	B-STATE
+dry	I-STATE
+
+2	B-QUANTITY
+lbs	B-UNIT
+Japanese	B-NAME
+pumpkin	I-NAME
+-LRB-	O
+kabocha	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+maggi	B-NAME
+low-sodium	I-NAME
+instant	I-NAME
+chicken	I-NAME
+bouillon	I-NAME
+granules	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+diluted	B-STATE
+instant	B-NAME
+coffee	I-NAME
+-LRB-	O
+or	O
+1	O
+tablespoon	O
+diluted	B-STATE
+instant	B-NAME
+coffee	I-NAME
+and	O
+1	O
+tablespoon	O
+vandermint	O
+liqueur	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+soy	B-NAME
+protein	I-NAME
+,	O
+powder	B-FORM
+
+1/2	B-QUANTITY
+cup	B-UNIT
+small	B-SIZE
+florets	B-STATE
+cauliflower	B-NAME
+
+1/3	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+chopped	O
+fresh	B-DF
+parsley	B-NAME
+
+1	B-QUANTITY
+jar	B-UNIT
+mandarin	B-NAME
+orange	I-NAME
+wedges	I-NAME
+with	I-NAME
+juice	I-NAME
+
+1	B-QUANTITY
+red	B-NAME
+onion	I-NAME
+,	O
+half	B-STATE
+cut	I-STATE
+into	I-STATE
+chunks	O
+,	O
+half	B-STATE
+sliced	I-STATE
+
+12	B-QUANTITY
+slices	B-UNIT
+white	B-NAME
+bread	I-NAME
+,	O
+toasted	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+barbecue	B-NAME
+sauce	I-NAME
+,	O
+Bullseye	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+anchovy	B-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+cheese	B-NAME
+tortellini	I-NAME
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+grated	B-STATE
+with	I-STATE
+microplane	I-STATE
+zester	I-STATE
+or	I-STATE
+minced	I-STATE
+
+150	B-QUANTITY
+g	B-UNIT
+unsalted	B-STATE
+butter	B-NAME
+,	B-STATE
+softened	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+dried	B-DF
+sage	B-NAME
+
+3	B-QUANTITY
+-4	O
+lbs	B-UNIT
+back	B-NAME
+bacon	I-NAME
+-LRB-	O
+or	O
+loin	O
+of	O
+bacon	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+low-fat	B-NAME
+monterey	I-NAME
+jack	I-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+3	B-QUANTITY
+pears	B-NAME
+,	O
+ripened	B-STATE
+
+3	B-QUANTITY
+-	I-QUANTITY
+3	I-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+chicken	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+8	I-STATE
+serving	I-STATE
+pieces	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+dried	B-DF
+parsley	B-NAME
+flakes	B-FORM
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+fresh	O
+parsley	B-NAME
+,	O
+chopped	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+red	B-NAME
+wine	I-NAME
+-LRB-	O
+cheap	O
+stuff	O
+!	O
+-RRB-	O
+
+red	B-NAME
+jalapeno	I-NAME
+chile	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+for	I-STATE
+garnish	I-STATE
+-LRB-	O
+or	O
+red	B-NAME
+bell	O
+pepper	O
+strips	O
+-RRB-	O
+
+8	B-QUANTITY
+boneless	B-UNIT
+chicken	B-NAME
+breast	I-NAME
+halves	I-NAME
+,	O
+with	B-STATE
+skin	I-STATE
+left	I-STATE
+on	I-STATE
+
+6	B-QUANTITY
+teaspoons	B-UNIT
+tikka	B-NAME
+paste	I-NAME
+
+1/2	B-QUANTITY
+ounce	B-UNIT
+rose	O
+'s	O
+sweetened	B-NAME
+lime	I-NAME
+juice	B-FORM
+
+water	B-NAME
+,	O
+as	O
+needed	O
+depends	O
+on	O
+how	O
+dry	O
+flour	O
+is	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+plain	B-NAME
+flour	I-NAME
+,	O
+sifted	B-STATE
+-LRB-	O
+or	O
+use	O
+gluten-free	O
+flour	B-NAME
+-RRB-	O
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+melted	B-STATE
+oil	B-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+thyme	B-NAME
+leaves	B-FORM
+-LRB-	O
+or	O
+1	O
+tablespoon	O
+dried	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+dried	B-DF
+cherries	B-NAME
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+potatoes	B-NAME
+,	O
+pared	B-STATE
+and	I-STATE
+thinly	I-STATE
+sliced	I-STATE
+
+2	B-QUANTITY
+1/3	I-QUANTITY
+cups	B-UNIT
+flour	B-NAME
+or	O
+300	O
+g	O
+flour	B-NAME
+
+1/3	B-QUANTITY
+cup	B-UNIT
+instant	B-NAME
+tea	I-NAME
+
+1	B-QUANTITY
+clove	B-UNIT
+of	O
+chopped	B-STATE
+garlic	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+butter	B-NAME
+or	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+margarine	O
+,	O
+at	O
+room	O
+temperature	O
+
+20	B-QUANTITY
+ml	B-UNIT
+coffee	B-NAME
+,	O
+decoction	O
+concentrate	O
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+softened	O
+butter	B-NAME
+,	O
+broken	B-STATE
+into	I-STATE
+pieces	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+dried	O
+apricots	B-NAME
+,	O
+sliced	B-STATE
+1/4	I-STATE
+inch	I-STATE
+thick	I-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+portabella	B-NAME
+mushrooms	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+handful	B-UNIT
+flat	B-NAME
+leaf	I-NAME
+parsley	I-NAME
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+parmesan	B-NAME
+cheese	I-NAME
+,	O
+Grated	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+la	B-NAME
+choy	I-NAME
+soy	I-NAME
+sauce	I-NAME
+
+6	B-QUANTITY
+ounces	B-UNIT
+of	O
+dried	B-DF
+pigeon	B-NAME
+peas	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+oil	B-NAME
+or	O
+1	B-QUANTITY
+tablespoon	B-UNIT
+ghee	O
+
+cumin	B-NAME
+,	O
+to	O
+taste	O
+just	O
+dust	O
+each	O
+layer	O
+
+1	B-QUANTITY
+cup	B-UNIT
+presidents	O
+choice	O
+splendido	O
+original	O
+magic	B-NAME
+Italian	I-NAME
+sauce	I-NAME
+-LRB-	O
+see	O
+note	O
+*	O
+below	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+Atkins	B-NAME
+baking	I-NAME
+mix	I-NAME
+
+1	B-QUANTITY
+pint	B-UNIT
+grape	B-NAME
+tomatoes	I-NAME
+,	O
+halved	B-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+low-sodium	B-NAME
+crushed	B-STATE
+tomatoes	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+cornstarch	B-NAME
+,	O
+mixed	B-STATE
+with	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+ground	B-FORM
+sichuan	B-NAME
+pepper	I-NAME
+
+1	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+whole	B-NAME
+milk	I-NAME
+,	O
+NOT	B-STATE
+low-fat	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+mint	B-NAME
+leaf	B-FORM
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+ground	B-FORM
+pork	B-NAME
+,	O
+10	O
+%	O
+fat	O
+
+1	B-QUANTITY
+can	B-UNIT
+diced	O
+tomatoes	B-NAME
+,	O
+undrained	B-STATE
+-LRB-	O
+or	O
+equivalent	O
+of	O
+fresh	B-DF
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+kalamata	B-NAME
+olive	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+thinnly	O
+sliced	B-STATE
+carrot	B-NAME
+,	B-STATE
+diagonally	I-STATE
+cut	I-STATE
+
+2	B-QUANTITY
+apples	B-NAME
+-LRB-	O
+peeled	B-STATE
+&	O
+cut	B-STATE
+into	I-STATE
+pieces	I-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+snipped	B-STATE
+fresh	B-DF
+chives	B-NAME
+
+1	B-QUANTITY
+cucumber	B-NAME
+-LRB-	O
+unwaxed	O
+is	O
+preferable	O
+-RRB-	O
+
+1	B-QUANTITY
+stalk	B-UNIT
+lemongrass	B-NAME
+,	O
+coarsely	B-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+snow	B-NAME
+peas	I-NAME
+-LRB-	O
+fresh	O
+or	O
+frozen	O
+-RRB-	O
+
+40	B-QUANTITY
+curry	B-NAME
+leaves	I-NAME
+
+40	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+from	O
+about	O
+3	O
+to	O
+4	O
+large	O
+heads	O
+outer	O
+papery	O
+skins	O
+removed	O
+,	O
+cloves	B-UNIT
+separated	O
+and	O
+unpeeled	O
+-LRB-	O
+about	O
+8	O
+ounces	O
+-RRB-	O
+
+pot	B-NAME
+water	I-NAME
+,	O
+boiling	B-STATE
+
+sifted	B-STATE
+confectioners	O
+'	O
+sugar	B-NAME
+,	O
+for	O
+garnish	O
+-LRB-	O
+icing	O
+sugar	B-NAME
+-RRB-	O
+
+3	B-QUANTITY
+green	B-NAME
+onions	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+small	I-STATE
+pieces	I-STATE
+
+400	B-QUANTITY
+g	B-UNIT
+fresh	B-DF
+mushrooms	B-NAME
+-LRB-	O
+any	O
+mix	O
+of	O
+oyster	O
+,	O
+cremini	O
+,	O
+button	O
+,	O
+portobello	O
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+jicama	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+red	O
+river	O
+cereal	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+rice	B-NAME
+,	O
+cooked	B-STATE
+-LRB-	O
+I	O
+used	O
+brown	O
+rice	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+onion	B-NAME
+,	O
+minced	B-STATE
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+dark	B-NAME
+molasses	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+jeera	B-NAME
+powder	B-FORM
+
+2	B-QUANTITY
+ounces	B-UNIT
+pina	B-NAME
+colada	I-NAME
+nonalcoholic	O
+drink	O
+mix	O
+
+6	B-QUANTITY
+shiitake	B-NAME
+mushrooms	I-NAME
+,	O
+stems	B-STATE
+removed	O
+-LRB-	O
+soak	B-STATE
+in	I-STATE
+water	I-STATE
+30	I-STATE
+minutes	I-STATE
+-RRB-	O
+
+4	O
+-6	O
+cups	B-UNIT
+beef	B-NAME
+broth	I-NAME
+
+750	B-QUANTITY
+g	B-UNIT
+beef	B-NAME
+,	O
+diced	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+cooking	B-NAME
+apple	I-NAME
+,	O
+peeled	O
+,	O
+cored	B-STATE
+and	I-STATE
+chopped	I-STATE
+very	I-STATE
+small	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+provolone	B-NAME
+cheese	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+strips	I-STATE
+
+sea	B-NAME
+salt	I-NAME
+,	O
+and	B-NAME
+freshly	O
+ground	B-STATE
+black	B-NAME
+pepper	I-NAME
+to	O
+taste	O
+
+500	B-QUANTITY
+g	B-UNIT
+pumpkin	B-NAME
+-LRB-	O
+kent	O
+or	O
+jap	O
+is	O
+best	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+Anjou	B-NAME
+pear	I-NAME
+,	O
+mi	O
+arroz	O
+rice	O
+seasoning	O
+mix	O
+
+1	B-QUANTITY
+can	B-UNIT
+quartered	B-STATE
+artichoke	B-NAME
+hearts	I-NAME
+
+1	O
+-2	O
+clove	B-UNIT
+crushed	B-STATE
+garlic	B-NAME
+
+4	B-QUANTITY
+sun-dried	B-NAME
+tomatoes	I-NAME
+,	O
+garnish	B-STATE
+
+2	B-QUANTITY
+fresh	B-DF
+yeast	B-NAME
+cakes	I-NAME
+
+1	B-QUANTITY
+1	I-QUANTITY
+cup	B-UNIT
+rice	B-NAME
+vinegar	I-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+coconut	O
+vinegar	B-NAME
+
+20	B-QUANTITY
+leaves	B-UNIT
+Thai	B-NAME
+basil	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+smoked	B-STATE
+salmon	B-NAME
+,	B-STATE
+chopped	I-STATE
+
+300	B-QUANTITY
+g	B-UNIT
+panir	B-NAME
+-LRB-	O
+Indian	O
+Cottage	O
+Cheese	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+cheddar	B-NAME
+cheese	I-NAME
+,	O
+grated	B-STATE
+-LRB-	O
+or	O
+mozzarella	O
+or	O
+other	O
+cheese	B-NAME
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+of	O
+fresh	O
+mint	B-NAME
+or	O
+1/4	B-QUANTITY
+cup	B-UNIT
+basil	O
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+kosher	B-NAME
+salt	I-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+brown	B-NAME
+rice	I-NAME
+,	O
+raw	O
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+white	O
+rice	B-NAME
+
+7	B-QUANTITY
+ounces	B-UNIT
+piece	O
+butternut	B-NAME
+squash	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+beef	B-NAME
+broth	I-NAME
+-LRB-	O
+bouillon	O
+-RRB-	O
+
+8	B-QUANTITY
+cooked	B-STATE
+lasagna	B-NAME
+noodles	I-NAME
+
+chocolate	B-NAME
+sprinkles	I-NAME
+,	O
+to	O
+decorate	O
+-LRB-	O
+or	O
+jimmies	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+plain	B-NAME
+flour	I-NAME
+-LRB-	O
+heaped	O
+measure	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+kalamata	B-NAME
+olive	I-NAME
+,	O
+thinly	B-STATE
+sliced	O
+and	O
+pitted	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+sherry	B-NAME
+wine	I-NAME
+vinegar	I-NAME
+-LRB-	O
+may	O
+sub	O
+red-wine	O
+vinegar	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+tomato	B-NAME
+paste	I-NAME
+-LRB-	O
+or	O
+ketchup	O
+-RRB-	O
+
+4	B-QUANTITY
+white	B-NAME
+asparagus	I-NAME
+,	O
+canned	B-STATE
+and	I-STATE
+halved	I-STATE
+crosswise	I-STATE
+-LRB-	O
+the	O
+best	B-STATE
+are	I-STATE
+from	I-STATE
+Navarra	O
+-RRB-	O
+
+lime	B-NAME
+,	O
+halved	B-STATE
+
+1	B-QUANTITY
+bottle	B-UNIT
+anise	B-NAME
+extract	I-NAME
+or	O
+2	O
+teaspoons	O
+anise	B-NAME
+oil	O
+
+coriander	B-NAME
+,	O
+to	O
+garnish	O
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+roasted	O
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+6	B-QUANTITY
+ounces	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+torn	B-STATE
+into	I-STATE
+chunks	I-STATE
+
+4	B-QUANTITY
+ounces	B-UNIT
+mushrooms	B-NAME
+,	O
+drained	B-STATE
+-LRB-	O
+whole	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+coconut	B-NAME
+milk	I-NAME
+,	O
+thick	B-STATE
+
+3	O
+-6	O
+fresh	B-DF
+chili	B-NAME
+peppers	I-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+havanero	O
+or	O
+jalapeno	O
+depending	O
+on	O
+the	O
+level	O
+of	O
+heat	O
+desired	O
+-RRB-	O
+
+2	B-QUANTITY
+large	B-SIZE
+carrots	B-NAME
+,	O
+coarsely	B-STATE
+grated	I-STATE
+
+4	B-QUANTITY
+tomatoes	B-NAME
+,	O
+skinned	B-STATE
+and	I-STATE
+peeled	O
+,	O
+if	B-STATE
+desired	I-STATE
+chopped	I-STATE
+fine	I-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+chopped	O
+garlic	B-NAME
+,	O
+in	B-STATE
+juice	I-STATE
+-LRB-	O
+from	O
+jar	O
+-RRB-	O
+
+2	B-QUANTITY
+white	B-NAME
+potatoes	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+canned	O
+diced	B-STATE
+green	B-NAME
+chiles	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+fresh	O
+ginger	B-NAME
+,	O
+grated	O
+,	O
+peeled	B-STATE
+
+2	B-QUANTITY
+king	B-NAME
+prawns	I-NAME
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+apricot	B-NAME
+brandy	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+potatoes	B-NAME
+-LRB-	O
+diced	B-STATE
+-RRB-	O
+
+3/4	O
+cup	B-UNIT
+cold	O
+unsalted	O
+butter	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2-inch	I-STATE
+cubes	I-STATE
+
+600	B-QUANTITY
+ml	B-UNIT
+water	B-NAME
+,	O
+hot	O
+
+6	B-QUANTITY
+semi-sweet	B-NAME
+chocolate	I-NAME
+baking	I-NAME
+squares	I-NAME
+
+1	O
+8	O
+inch	B-UNIT
+tart	B-NAME
+pastry	I-NAME
+dough	I-NAME
+,	O
+in	O
+tart	B-NAME
+pan	O
+with	O
+removable	O
+sides	O
+
+8	B-QUANTITY
+8	I-QUANTITY
+slices	B-UNIT
+bananas	B-NAME
+or	O
+8	B-QUANTITY
+dates	O
+
+1	B-QUANTITY
+chicken	B-NAME
+stock	I-NAME
+cube	I-NAME
+
+3	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+,	O
+3/4	B-STATE
+inch	I-STATE
+cube	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+yucca	B-NAME
+root	I-NAME
+-LRB-	O
+fresh	B-STATE
+or	I-STATE
+frozen	I-STATE
+-RRB-	O
+or	B-STATE
+1	B-QUANTITY
+lb	B-UNIT
+cassava	O
+-LRB-	O
+fresh	B-STATE
+or	I-STATE
+frozen	I-STATE
+-RRB-	O
+
+8	B-QUANTITY
+tablespoons	B-UNIT
+raspberry	B-NAME
+jam	I-NAME
+
+80	B-QUANTITY
+ml	B-UNIT
+light	B-NAME
+olive	I-NAME
+oil	I-NAME
+
+5	B-QUANTITY
+teaspoons	B-UNIT
+Worcestershire	B-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+low-fat	B-NAME
+plain	O
+yogurt	B-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+pork	B-NAME
+tenderloin	I-NAME
+-LRB-	O
+cut	B-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+squares	I-STATE
+-RRB-	O
+
+4	B-QUANTITY
+lemons	B-NAME
+,	O
+juice	B-STATE
+of	O
+,	O
+divided	B-STATE
+use	I-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+olive	B-NAME
+oil	I-NAME
+or	O
+2	B-QUANTITY
+teaspoons	B-UNIT
+peanut	O
+oil	B-NAME
+
+3/4	B-QUANTITY
+cup	B-UNIT
+Burgundy	B-NAME
+wine	I-NAME
+,	O
+plus	O
+more	O
+if	O
+needed	O
+
+1/3	B-QUANTITY
+jalapeno	B-NAME
+pepper	I-NAME
+,	O
+minced	B-STATE
+
+2	B-QUANTITY
+ripe	B-NAME
+medium	B-UNIT
+tomatoes	B-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+light	B-NAME
+coconut	I-NAME
+milk	I-NAME
+-LRB-	O
+not	O
+cream	O
+of	O
+coconut	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+green	B-NAME
+curry	I-NAME
+paste	I-NAME
+,	O
+M-Ploy	O
+brand	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+peanuts	B-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+lemon	B-NAME
+peel	I-NAME
+,	O
+finely	B-STATE
+shredded	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+citrus	B-NAME
+zest	I-NAME
+or	O
+2	O
+teaspoons	O
+lemon	O
+juice	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+coriander	B-NAME
+-LRB-	O
+cilantro	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+peanut	B-NAME
+oil	I-NAME
+-LRB-	O
+or	O
+vegetable	O
+oil	B-NAME
+-RRB-	O
+
+3	B-QUANTITY
+cups	B-UNIT
+quartered	B-STATE
+thinly-sliced	I-STATE
+onions	B-NAME
+
+snipped	B-STATE
+chives	B-NAME
+,	O
+to	O
+garnish	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+3	B-QUANTITY
+knockwurst	B-NAME
+,	O
+diced	B-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+cubes	I-STATE
+-LRB-	O
+or	O
+substitute	O
+3	B-QUANTITY
+extra	O
+brats	O
+-RRB-	O
+
+48	B-QUANTITY
+uncooked	O
+medium	B-SIZE
+shrimp	B-NAME
+,	O
+peeled	O
+,	O
+deveined	B-STATE
+-LRB-	O
+about	O
+1	O
+1/2	O
+pounds	O
+-RRB-	O
+
+15	B-QUANTITY
+ounces	B-UNIT
+crushed	B-STATE
+tomatoes	B-NAME
+,	B-STATE
+undrained	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+whole	B-STATE
+blanched	I-STATE
+almonds	B-NAME
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+ground	O
+pistachio	O
+nut	O
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+
+20	B-QUANTITY
+saltines	B-NAME
+-LRB-	O
+about	O
+1/2	O
+sleeve	O
+crushed	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+bratwursts	B-NAME
+or	O
+1	B-QUANTITY
+lb	B-UNIT
+knockwurst	O
+,	O
+precooked	O
+and	O
+thinly	O
+sliced	O
+into	O
+disks	O
+
+50	B-QUANTITY
+dried	B-DF
+chipotles	B-NAME
+moritas	I-NAME
+chilies	I-NAME
+-LRB-	O
+small	O
+reddish-black	O
+chipotles	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+your	O
+choice	O
+sliced	B-STATE
+steak	B-NAME
+-LRB-	O
+I	O
+use	O
+cubed	O
+-RRB-	O
+
+3	B-QUANTITY
+medium	B-SIZE
+onions	B-NAME
+,	O
+thinly	B-STATE
+slices	O
+
+500	B-QUANTITY
+g	B-UNIT
+Italian	B-NAME
+sausages	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+oil	B-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+Crisco	O
+shortening	O
+
+200	B-QUANTITY
+g	B-UNIT
+gorgonzola	B-NAME
+,	O
+cubed	B-STATE
+
+1	B-QUANTITY
+ounce	B-UNIT
+shallot	B-NAME
+,	O
+minced	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+dried	B-DF
+cannellini	B-NAME
+beans	I-NAME
+,	O
+picked	B-STATE
+over	I-STATE
+and	I-STATE
+rinsed	I-STATE
+
+1	B-QUANTITY
+chili	B-NAME
+serrano	I-NAME
+peppers	I-NAME
+or	O
+1	B-QUANTITY
+jalapeno	O
+
+1	B-QUANTITY
+cup	B-UNIT
+converted	B-NAME
+white	I-NAME
+rice	I-NAME
+
+2	B-QUANTITY
+bottles	B-UNIT
+jamaica	O
+mistake	O
+salad	B-NAME
+dressing	I-NAME
+
+3	B-QUANTITY
+cups	B-UNIT
+35	O
+%	O
+cream	B-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+flank	B-NAME
+steaks	I-NAME
+,	O
+slice	O
+
+200	B-QUANTITY
+g	B-UNIT
+cabbage	B-NAME
+,	O
+shredded	B-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+seasoned	B-STATE
+breadcrumbs	B-NAME
+
+3	B-QUANTITY
+slices	B-UNIT
+bacon	B-NAME
+,	O
+cooked	B-STATE
+and	I-STATE
+crumbled	I-STATE
+-LRB-	O
+I	O
+use	O
+the	O
+thick	O
+cut	O
+variety	O
+-RRB-	O
+
+1	B-QUANTITY
+chili	B-NAME
+pepper	I-NAME
+,	O
+left	B-STATE
+intact	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+self	B-NAME
+raising	I-NAME
+flour	I-NAME
+-LRB-	O
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+flour	B-NAME
+and	O
+2	O
+tsp	O
+baking	O
+powder	O
+-RRB-	O
+
+1	B-QUANTITY
+onion	B-NAME
+,	O
+white	O
+,	O
+medium	O
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+1/3	I-QUANTITY
+cups	B-UNIT
+dry	O
+roasted	B-STATE
+peanuts	B-NAME
+
+4	B-QUANTITY
+cups	B-UNIT
+chicken	B-NAME
+stock	I-NAME
+or	O
+4	B-QUANTITY
+cups	B-UNIT
+low	O
+sodium	O
+chicken	B-NAME
+broth	O
+
+cooking	B-NAME
+spray	I-NAME
+or	O
+4	O
+tablespoons	O
+canola	O
+oil	O
+,	O
+if	O
+frying	O
+
+1	B-QUANTITY
+eggplant	B-NAME
+,	O
+sliced	B-STATE
+into	I-STATE
+thin	I-STATE
+cubes	I-STATE
+-LRB-	O
+peeled	O
+or	O
+not	O
+,	O
+your	O
+choice	O
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+boneless	O
+skinless	O
+chicken	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+strips	I-STATE
+
+4	B-QUANTITY
+sweet	B-NAME
+sausages	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2-inch	I-STATE
+slices	I-STATE
+
+1	B-QUANTITY
+cucumber	B-NAME
+,	O
+Chopped	O
+
+3/4	B-QUANTITY
+lb	B-UNIT
+baby	B-NAME
+carrots	I-NAME
+
+mexican	B-NAME
+sour	I-NAME
+cream	I-NAME
+-LRB-	O
+or	O
+Ranch	O
+dressing	O
+-RRB-	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+ginger	B-NAME
+,	O
+crushed	B-STATE
+
+8	B-QUANTITY
+poblano	B-NAME
+chiles	I-NAME
+,	O
+roasted	O
+,	O
+seeded	O
+,	O
+peeled	B-STATE
+and	I-STATE
+slit	I-STATE
+up	I-STATE
+one	I-STATE
+side	I-STATE
+
+1	B-QUANTITY
+jar	B-UNIT
+dried	O
+beef	B-NAME
+,	O
+shreaded	O
+
+5	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+yeast	B-NAME
+,	O
+dissolved	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+2	O
+%	O
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+fat-free	B-STATE
+honey-dijon	B-NAME
+salad	I-NAME
+dressing	I-NAME
+
+5	B-QUANTITY
+cloves	B-UNIT
+garlic	B-NAME
+,	O
+peeled	B-STATE
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+heavy	B-NAME
+cream	I-NAME
+
+soy	B-NAME
+sauce	I-NAME
+-LRB-	O
+mushroom	O
+soy	B-NAME
+sauce	I-NAME
+recommended	O
+-RRB-	O
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+chopped	B-STATE
+dates	B-NAME
+
+6	B-QUANTITY
+ounces	B-UNIT
+shiitake	O
+mushrooms	B-NAME
+or	O
+6	B-QUANTITY
+ounces	B-UNIT
+portabella	O
+mushrooms	B-NAME
+,	O
+stemmed	B-STATE
+and	I-STATE
+sliced	I-STATE
+thing	O
+
+26	B-QUANTITY
+ounces	B-UNIT
+ragu	B-NAME
+tomato	I-NAME
+and	O
+basil	O
+pasta	O
+sauce	O
+
+2	B-QUANTITY
+slightly	B-STATE
+beaten	I-STATE
+egg	B-NAME
+whites	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+green	B-NAME
+pepper	I-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+sambal	B-NAME
+oelek	I-NAME
+or	O
+1	B-QUANTITY
+teaspoon	B-UNIT
+other	O
+chili	O
+sauce	O
+
+3	B-QUANTITY
+ounces	B-UNIT
+romano	B-NAME
+cheese	I-NAME
+,	O
+grated	B-STATE
+
+1	B-QUANTITY
+package	B-UNIT
+regular	B-NAME
+crescent	I-NAME
+rolls	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+toasted	B-STATE
+white	B-NAME
+sesame	I-NAME
+seeds	B-FORM
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+parsley	B-NAME
+or	O
+1	B-QUANTITY
+teaspoon	O
+dried	O
+parsley	B-NAME
+flakes	O
+
+2	B-QUANTITY
+tomatoes	B-NAME
+,	O
+home-grown	O
+rather	O
+than	O
+supermarket	O
+variety	O
+
+8	B-QUANTITY
+tablespoons	B-UNIT
+panang	O
+curry	B-NAME
+paste	I-NAME
+-LRB-	O
+red	O
+curry	B-NAME
+-RRB-	O
+
+2	B-QUANTITY
+whole	O
+juniper	B-NAME
+berries	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+english	B-NAME
+mustard	I-NAME
+powder	B-FORM
+
+1	B-QUANTITY
+cup	B-UNIT
+cucumber	B-NAME
+,	O
+peeled	O
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+green	B-NAME
+chilies	I-NAME
+,	O
+2	B-QUANTITY
+-LRB-	O
+or	O
+as	O
+many	O
+as	O
+you	O
+wish	O
+!	O
+-RRB-	O
+
+2/3	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+cooked	I-STATE
+chicken	B-NAME
+
+1/4	B-QUANTITY
+lb	B-UNIT
+fresh	B-DF
+shiitake	B-NAME
+mushroom	I-NAME
+,	O
+sliced	B-STATE
+
+2/3	B-QUANTITY
+cup	B-UNIT
+uncooked	B-STATE
+arborio	B-NAME
+rice	I-NAME
+
+3	B-QUANTITY
+jars	B-UNIT
+beef	B-NAME
+gravy	I-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+fresh	B-DF
+rhubarb	O
+or	O
+2	B-QUANTITY
+lbs	B-UNIT
+frozen	O
+rhubarb	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+walnuts	B-NAME
+,	O
+chopped	B-STATE
+and	I-STATE
+toasted	I-STATE
+-LRB-	O
+see	O
+note	O
+-RRB-	O
+
+2	B-QUANTITY
+large	B-SIZE
+russet	B-NAME
+potatoes	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+portuguese	O
+grape	B-NAME
+liquor	I-NAME
+
+1	B-QUANTITY
+bunch	B-UNIT
+fresh	B-DF
+flat-leaf	B-NAME
+parsley	I-NAME
+,	O
+leaves	B-FORM
+picked	O
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+vinegar	B-NAME
+or	O
+4	B-QUANTITY
+teaspoons	B-UNIT
+red	O
+wine	O
+vinegar	B-NAME
+
+6	B-QUANTITY
+ounces	B-UNIT
+solid	B-NAME
+white	I-NAME
+tuna	I-NAME
+packed	B-STATE
+in	I-STATE
+water	I-STATE
+,	I-STATE
+drained	I-STATE
+
+1	B-QUANTITY
+onion	B-NAME
+-LRB-	O
+chopped	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+-LRB-	O
+or	O
+more	O
+-RRB-	O
+frozen	B-NAME
+whole	I-NAME
+kernel	I-NAME
+corn	I-NAME
+,	O
+thawed	B-STATE
+
+1	B-QUANTITY
+jar	B-UNIT
+marinara	B-NAME
+sauce	I-NAME
+-LRB-	O
+Bertolli	O
+ï¿½	O
+s	O
+Burgundy	O
+Wine	O
+is	O
+the	O
+best	O
+-RRB-	O
+
+4	B-QUANTITY
+potatoes	B-NAME
+-LRB-	O
+peeled	B-STATE
+and	I-STATE
+cubed	I-STATE
+-RRB-	O
+
+3/4	B-QUANTITY
+cup	B-UNIT
+creamed	B-NAME
+corn	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+dry	B-DF
+white	B-NAME
+wine	I-NAME
+-LRB-	O
+white	B-NAME
+Rioja	O
+suggested	O
+-RRB-	O
+
+3	B-QUANTITY
+eggs	B-NAME
+,	O
+adjust	O
+quantity	O
+according	O
+to	O
+package	O
+directions	O
+
+4	B-QUANTITY
+slices	B-UNIT
+round	O
+provolone	B-NAME
+cheese	I-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+quart	B-UNIT
+green	B-NAME
+chili	I-NAME
+pepper	I-NAME
+-LRB-	O
+diced	B-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+chopped	O
+peanuts	B-NAME
+,	O
+for	B-STATE
+garnish	O
+-LRB-	O
+optional	B-STATE
+-RRB-	O
+
+15	O
+-20	O
+curry	B-NAME
+leaves	B-FORM
+
+1/2	B-QUANTITY
+kg	B-UNIT
+chicken	B-NAME
+breast	I-NAME
+,	O
+boneless	B-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+small	O
+onion	B-NAME
+,	O
+peeled	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+of	O
+shredded	B-STATE
+mild	B-NAME
+cheddar	I-NAME
+cheese	I-NAME
+-LRB-	O
+add	O
+more	O
+if	O
+desired	O
+-RRB-	O
+
+4	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+minced	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+red	B-NAME
+leaf	I-NAME
+lettuce	I-NAME
+or	O
+chicory	O
+lettuce	B-NAME
+,	O
+leaves	B-FORM
+
+3	B-QUANTITY
+unpeeled	O
+cooked	B-STATE
+chayotes	B-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+v	O
+8	O
+vegetable	B-NAME
+juice	I-NAME
+
+1/4	B-QUANTITY
+bunch	B-UNIT
+Italian	B-NAME
+parsley	I-NAME
+
+1	B-QUANTITY
+-2	O
+fresh	B-UNIT
+hot	B-NAME
+pepper	I-NAME
+,	O
+minced	B-STATE
+and	I-STATE
+seeds	I-STATE
+discarded	I-STATE
+-LRB-	O
+may	O
+substitute	O
+with	O
+cayenne	O
+pepper	B-NAME
+to	O
+taste	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+fresh	B-DF
+rosemary	B-NAME
+,	O
+chopped	B-STATE
+or	O
+1/2	O
+teaspoon	B-UNIT
+dried	O
+rosemary	B-NAME
+
+3	B-QUANTITY
+cups	B-UNIT
+chopped	B-STATE
+lettuce	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+crumbled	B-STATE
+queso	B-NAME
+fresco	I-NAME
+-LRB-	O
+mexican	O
+-RRB-	O
+
+4	B-QUANTITY
+ounces	B-UNIT
+green	B-NAME
+beans	I-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+2-inch	I-STATE
+pieces	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+taco	B-NAME
+sauce	I-NAME
+-LRB-	O
+or	O
+to	O
+taste	O
+-RRB-	O
+
+5	B-QUANTITY
+cups	B-UNIT
+fresh	B-DF
+blueberries	B-NAME
+or	O
+5	B-QUANTITY
+cups	B-UNIT
+frozen	O
+blueberries	B-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+shredded	B-STATE
+cheddar	B-NAME
+cheese	I-NAME
+or	O
+2	B-QUANTITY
+cups	B-UNIT
+taco	O
+cheese	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+diced	B-STATE
+sweet	B-NAME
+onion	I-NAME
+-LRB-	O
+such	O
+as	O
+Vidalia	O
+-RRB-	O
+
+18	B-QUANTITY
+medium	B-SIZE
+white	B-NAME
+potatoes	I-NAME
+
+2	B-QUANTITY
+heads	B-UNIT
+little	B-NAME
+gem	I-NAME
+lettuce	I-NAME
+,	O
+separated	B-STATE
+into	I-STATE
+leaves	I-STATE
+-LRB-	O
+i	O
+used	O
+baby	O
+greens	O
+-RRB-	O
+
+green	B-NAME
+chili	I-NAME
+pepper	I-NAME
+,	O
+drained	B-STATE
+
+28	B-QUANTITY
+ounces	B-UNIT
+plum	B-NAME
+tomatoes	I-NAME
+,	O
+un-drained	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+shredded	B-STATE
+cheddar	B-NAME
+cheese	I-NAME
+,	O
+and	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+vegetable	B-NAME
+oil	I-NAME
+,	O
+plus	O
+extra	O
+for	O
+brushing	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+almonds	O
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+pistachios	O
+
+sugared	B-NAME
+mint	I-NAME
+leaf	B-STATE
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+soymilk	B-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+shredded	B-STATE
+rotisserie	B-NAME
+chicken	I-NAME
+meat	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+chinese	O
+gunpowder	B-NAME
+green	I-NAME
+tea	I-NAME
+
+2	B-QUANTITY
+teaspoons	O
+regular	O
+dry	B-DF
+yeast	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+chicken	B-NAME
+,	O
+<	O
+a	O
+href=	O
+''	O
+https	O
+:	O
+//www.geniuskitchen.com/recipe/pan-seared-chicken-with-mustard-sauce-336075	O
+''	O
+>	O
+Pan-Seared	O
+Chicken	O
+With	O
+Mustard	O
+Sauce	O
+<	O
+/a	O
+>	O
+-	O
+shredded	B-STATE
+
+1	B-QUANTITY
+dash	B-UNIT
+cooking	B-NAME
+wine	I-NAME
+
+2	B-QUANTITY
+basil	B-NAME
+leaves	B-FORM
+,	O
+cut	B-STATE
+into	I-STATE
+fine	I-STATE
+ribbons	I-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+Splenda	B-NAME
+granular	I-NAME
+,	O
+sugar	O
+substitute	O
+or	O
+2	B-QUANTITY
+teaspoons	B-UNIT
+equivalent	O
+liquid	O
+Splenda	B-NAME
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+butter	B-NAME
+or	O
+3	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+margarine	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+coriander	B-NAME
+powder	B-FORM
+-LRB-	O
+optional	O
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+rutabagas	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+diced	I-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+fenugreek	B-NAME
+seeds	B-FORM
+,	O
+ground	B-STATE
+
+8	B-QUANTITY
+ounces	B-UNIT
+salmon	B-NAME
+fillets	I-NAME
+,	O
+skinned	B-STATE
+
+1	B-QUANTITY
+lime	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+wedges	I-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+light	B-NAME
+cream	I-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+whipping	O
+cream	B-NAME
+
+2	B-QUANTITY
+apples	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+cored	I-STATE
+
+3	B-QUANTITY
+large	B-SIZE
+carrots	B-NAME
+,	O
+chopped	B-STATE
+
+4	B-QUANTITY
+dried	B-DF
+black	B-NAME
+mushrooms	I-NAME
+,	O
+soaked	B-STATE
+in	I-STATE
+boiling	I-STATE
+water	I-STATE
+20	I-STATE
+minutes	O
+,	O
+stems	B-STATE
+removed	O
+,	O
+julienne	B-STATE
+
+300	B-QUANTITY
+g	B-UNIT
+apples	B-NAME
+
+2/3	B-QUANTITY
+cup	B-UNIT
+strong	B-NAME
+chai	I-NAME
+tea	I-NAME
+,	O
+cooled	B-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+garlic	B-NAME
+cloves	I-NAME
+,	O
+finely	B-STATE
+minced	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+white	B-NAME
+peppercorns	I-NAME
+
+egg	B-NAME
+white	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+carrot	B-NAME
+-LRB-	O
+see	O
+step	O
+2	O
+for	O
+preparation	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+japanese	O
+breadcrumbs	B-NAME
+-LRB-	O
+panko	O
+-RRB-	O
+
+4	B-QUANTITY
+pieces	B-UNIT
+lamb	B-NAME
+or	O
+4	B-QUANTITY
+pieces	B-UNIT
+chicken	O
+,	O
+enough	O
+for	O
+your	O
+family	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+kraft	O
+zesty	O
+Italian	B-NAME
+salad	I-NAME
+dressing	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+walnuts	B-NAME
+,	O
+toasted	B-STATE
+and	I-STATE
+finely	I-STATE
+ground	I-STATE
+in	I-STATE
+a	I-STATE
+food	I-STATE
+processor	I-STATE
+
+slivered	B-NAME
+almonds	I-NAME
+,	O
+toasted	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+instant	O
+coffee	B-NAME
+granules	I-NAME
+
+500	B-QUANTITY
+g	B-UNIT
+casserole	B-NAME
+beef	I-NAME
+,	O
+diced	B-STATE
+and	I-STATE
+rolled	I-STATE
+in	I-STATE
+
+3/4	B-QUANTITY
+teaspoon	B-UNIT
+grated	B-STATE
+fresh	B-DF
+ginger	B-NAME
+
+1	B-QUANTITY
+spray	B-UNIT
+cooking	B-NAME
+spray	B-UNIT
+
+5	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+peeled	B-STATE
+and	I-STATE
+smashed	I-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+diced	B-STATE
+green	B-NAME
+chilies	I-NAME
+-LRB-	O
+mild	O
+or	O
+hot	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+dried	B-DF
+herb	B-NAME
+,	O
+of	O
+choice	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+pesto	B-NAME
+sauce	I-NAME
+
+cinnamon-sugar	B-NAME
+mixture	I-NAME
+
+4	B-QUANTITY
+slices	B-UNIT
+Italian	B-NAME
+bread	I-NAME
+
+Cotija	B-NAME
+cheese	I-NAME
+,	O
+for	O
+serving	O
+
+2	B-QUANTITY
+cups	B-UNIT
+whole	B-NAME
+pitted	B-STATE
+black	B-NAME
+olives	I-NAME
+
+1	B-QUANTITY
+whole	B-UNIT
+star	B-NAME
+anise	I-NAME
+,	O
+smashed	B-STATE
+or	O
+1	B-QUANTITY
+teaspoon	O
+anise	B-NAME
+seed	O
+
+1	B-QUANTITY
+cup	B-UNIT
+uncooked	B-STATE
+long	B-NAME
+grain	I-NAME
+brown	I-NAME
+rice	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+bread	B-NAME
+dough	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+beer	B-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+broth	O
+
+1	B-QUANTITY
+cup	B-UNIT
+granulated	B-STATE
+sugar	B-NAME
+tblsp	O
+sugar	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+boneless	B-STATE
+skinless	I-STATE
+chicken	B-NAME
+thighs	I-NAME
+,	O
+cut	O
+into	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+inch	O
+chunks	O
+
+4	B-QUANTITY
+medium	B-SIZE
+leeks	B-NAME
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+vermicelli	B-NAME
+,	O
+crushed	B-STATE
+-LRB-	O
+please	O
+do	O
+not	O
+substitute	O
+to	O
+another	O
+pasta	O
+-RRB-	O
+
+1	B-QUANTITY
+sweet	B-NAME
+onion	I-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+half	O
+,	O
+then	B-STATE
+sliced	I-STATE
+
+3	B-QUANTITY
+chicken	B-NAME
+breast	I-NAME
+halves	B-STATE
+
+1	B-QUANTITY
+teaspoon	O
+hot	B-NAME
+red	I-NAME
+pepper	I-NAME
+,	O
+ground	B-STATE
+
+1/4	B-QUANTITY
+tablespoon	B-UNIT
+extra	B-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+extra	B-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+-LRB-	O
+EVOO	O
+-RRB-	O
+
+30	B-QUANTITY
+ml	B-UNIT
+Kahlua	B-NAME
+
+bottled	B-NAME
+salsa	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+flank	I-NAME
+steak	I-NAME
+,	O
+cut	B-STATE
+1/4	I-STATE
+inch	I-STATE
+thick	I-STATE
+
+1/4	B-QUANTITY
+lb	B-UNIT
+sliced	B-STATE
+shiitake	B-NAME
+mushroom	I-NAME
+caps	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+carrot	B-NAME
+-LRB-	O
+julienned	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+stalks	B-UNIT
+celery	B-NAME
+,	O
+cut	B-STATE
+up	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+caster	B-NAME
+sugar	I-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+superfine	O
+sugar	B-NAME
+
+3	B-QUANTITY
+cups	B-UNIT
+fresh	B-DF
+broccoli	B-NAME
+,	O
+lightly	B-STATE
+steamed	I-STATE
+
+1	B-QUANTITY
+maraschino	B-NAME
+cherry	I-NAME
+-LRB-	O
+for	O
+garnish	O
+-RRB-	O
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+cloves	B-UNIT
+
+1/2	B-QUANTITY
+cup	B-UNIT
+very	B-STATE
+thinly	I-STATE
+sliced	I-STATE
+red	B-NAME
+onion	I-NAME
+
+70	B-QUANTITY
+g	B-UNIT
+cocoa	B-NAME
+powder	B-FORM
+
+1	B-QUANTITY
+cup	B-UNIT
+pizza	B-NAME
+sauce	I-NAME
+-LRB-	O
+or	O
+spaghetti	O
+-RRB-	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+fish	B-NAME
+sauce	I-NAME
+or	O
+3	B-QUANTITY
+tablespoons	B-UNIT
+soy	O
+sauce	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+tomato	B-NAME
+sauce	I-NAME
+,	O
+thinned	B-STATE
+out	I-STATE
+with	I-STATE
+1/4	B-QUANTITY
+cup	B-UNIT
+water	B-STATE
+
+1/4	B-QUANTITY
+small	B-SIZE
+onion	B-NAME
+,	O
+diced	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+peanut	B-NAME
+oil	I-NAME
+-LRB-	O
+or	O
+similar	O
+oil	B-NAME
+-RRB-	O
+
+3	B-QUANTITY
+lbs	B-UNIT
+ontario	B-NAME
+leg	I-NAME
+of	I-NAME
+lamb	I-NAME
+,	O
+boned	B-STATE
+and	I-STATE
+trimmed	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+thin	B-NAME
+egg	I-NAME
+noodles	I-NAME
+,	O
+precook	B-STATE
+
+0.5	B-QUANTITY
+packet	B-UNIT
+taco	B-NAME
+seasoning	I-NAME
+-LRB-	O
+I	O
+use	O
+McCormick	O
+'s	O
+Brand	O
+Original	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+coriander	B-NAME
+,	O
+ground	B-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+chili	B-NAME
+paste	I-NAME
+-LRB-	O
+sambal	O
+oelek	O
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+stewing	B-NAME
+beef	I-NAME
+,	O
+seasoned	B-STATE
+with	I-STATE
+salt	I-STATE
+and	I-STATE
+pepper	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+peeled	B-STATE
+and	I-STATE
+chopped	I-STATE
+ginger	B-NAME
+
+flour	B-NAME
+or	O
+starch	O
+,	O
+as	O
+needed	O
+
+1	B-QUANTITY
+cup	B-UNIT
+celery	B-NAME
+,	O
+chopped	B-STATE
+into	I-STATE
+1/2	I-STATE
+inch	I-STATE
+pieces	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+spinach	B-NAME
+,	O
+raw	O
+,	O
+chopped	B-STATE
+roughly	I-STATE
+
+sunflower	B-NAME
+seeds	B-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+yellow	B-NAME
+sweet	I-NAME
+onion	I-NAME
+,	O
+chopped	B-STATE
+finely	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+toasted	B-STATE
+pine	B-NAME
+nuts	B-FORM
+-LRB-	O
+or	O
+almonds	O
+,	O
+or	O
+walnuts	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+fresh	B-DF
+coriander	B-NAME
+leaves	B-FORM
+
+6	B-QUANTITY
+chicken	B-NAME
+legs	I-NAME
+with	O
+thigh	O
+,	O
+skin	B-STATE
+and	I-STATE
+fat	I-STATE
+removed	I-STATE
+-LRB-	O
+about	O
+3	O
+lb	O
+.	O
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+fresh	O
+spinach	B-NAME
+,	O
+stemmed	B-STATE
+and	I-STATE
+coarsely	I-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+cucumber	B-NAME
+,	O
+halved	B-STATE
+lengthwise	I-STATE
+and	I-STATE
+sliced	I-STATE
+
+3	B-QUANTITY
+teaspoons	B-UNIT
+italian	B-NAME
+seasoning	I-NAME
+-LRB-	O
+or	O
+use	O
+oregano	O
+,	O
+basil	O
+,	O
+parsley	O
+,	O
+etc	O
+...	O
+-RRB-	O
+
+1	B-QUANTITY
+small	B-SIZE
+shallot	B-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+-LRB-	O
+approx	O
+.	O
+1/4	O
+cup	O
+-RRB-	O
+
+1	B-QUANTITY
+small	B-SIZE
+little	B-NAME
+gem	I-NAME
+lettuce	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+flour	B-NAME
+,	O
+plus	O
+additional	O
+for	O
+dusting	O
+the	O
+work	O
+surface	O
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+1	B-STATE
+minced	I-STATE
+
+2	B-QUANTITY
+slices	B-UNIT
+fresh	B-DF
+ginger	B-NAME
+
+1	B-QUANTITY
+medium	B-SIZE
+bell	B-NAME
+pepper	I-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+any	O
+color	O
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+chickpeas	B-NAME
+,	O
+drained	B-STATE
+-LRB-	O
+garbanzo	O
+beans	O
+-RRB-	O
+
+1	B-QUANTITY
+lebanese	B-NAME
+cucumber	I-NAME
+,	O
+grated	O
+,	O
+drained	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+-	I-QUANTITY
+2	I-QUANTITY
+cups	B-UNIT
+chopped	B-STATE
+tomatoes	B-NAME
+
+2	B-QUANTITY
+medium	B-SIZE
+potatoes	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+diced	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+watermelon	B-NAME
+,	O
+diced	O
+,	O
+seeded	B-STATE
+
+3	B-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+Kahlua	B-NAME
+or	B-SIZE
+88	O
+ml	O
+Kahlua	B-NAME
+
+1	B-QUANTITY
+sazon	B-NAME
+con	I-NAME
+azafran	I-NAME
+seasoning	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+dried	O
+red	B-NAME
+pepper	I-NAME
+flakes	B-FORM
+-LRB-	O
+or	O
+more	O
+if	O
+you	O
+like	O
+spicy	O
+things	O
+-RRB-	O
+
+1	B-QUANTITY
+lemon	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+thin	I-STATE
+semi-circles	I-STATE
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+olive	B-NAME
+oil	I-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+peach	B-NAME
+nectar	I-NAME
+
+2	B-QUANTITY
+packages	B-UNIT
+sliced	O
+dried	B-DF
+beef	B-NAME
+,	O
+chopped	O
+divided	B-STATE
+
+12	B-QUANTITY
+ounces	B-UNIT
+mint	B-NAME
+chocolate	I-NAME
+chips	I-NAME
+
+3	B-QUANTITY
+green	B-NAME
+chilies	I-NAME
+,	O
+slit	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+all-purpose	B-NAME
+flour	I-NAME
+,	O
+rounded	O
+
+1	B-QUANTITY
+box	B-UNIT
+lasanga	O
+noodles	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+mint	B-NAME
+,	O
+roughly	B-STATE
+chopped	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+gingerroot	B-NAME
+
+200	B-QUANTITY
+g	B-UNIT
+spinach	B-NAME
+,	O
+cleaned	O
+,	O
+washed	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+3	B-QUANTITY
+teaspoons	B-UNIT
+cooking	B-NAME
+oil	I-NAME
+
+2	B-QUANTITY
+2	I-QUANTITY
+lbs	B-UNIT
+pork	O
+or	O
+2	B-QUANTITY
+lbs	B-UNIT
+veggie	B-NAME
+crumbles	I-NAME
+
+1	B-QUANTITY
+large	B-SIZE
+banana	B-NAME
+,	O
+diced	B-STATE
+
+3/4	B-QUANTITY
+teaspoon	B-UNIT
+black	B-NAME
+pepper	I-NAME
+
+fresh	B-DF
+mint	B-NAME
+sprig	I-NAME
+,	O
+and	O
+
+550	B-QUANTITY
+ml	B-UNIT
+fish	B-NAME
+stock	I-NAME
+
+1	B-QUANTITY
+jalapeno	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+thin	I-STATE
+rings	I-STATE
+
+1	B-QUANTITY
+orange	B-NAME
+,	O
+peeled	B-STATE
+&	O
+cut	B-STATE
+into	I-STATE
+segments	I-STATE
+
+1	B-QUANTITY
+pint	B-UNIT
+grape	B-NAME
+tomatoes	I-NAME
+,	O
+washed	O
+,	O
+halved	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+cilantro	B-NAME
+,	O
+Chopped	O
+
+2	B-QUANTITY
+cinnamon	B-NAME
+sticks	I-NAME
+,	O
+3	B-STATE
+to	I-STATE
+4	I-STATE
+inches	I-STATE
+long	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+olive	B-NAME
+oil	I-NAME
+-LRB-	O
+I	O
+use	O
+a	O
+little	O
+more	O
+if	O
+needed	O
+-RRB-	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+pecans	B-NAME
+,	O
+coarsely	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+chicken	B-NAME
+,	O
+in	O
+individual	O
+pieces	O
+
+4	B-QUANTITY
+cups	B-UNIT
+peaches	B-NAME
+-LRB-	O
+peeled	O
+,	O
+pitted	O
+,	O
+and	B-STATE
+crushed	I-STATE
+,	O
+measure	B-STATE
+when	I-STATE
+already	I-STATE
+crushed	I-STATE
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+parsley	B-NAME
+,	O
+washed	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+whole	B-NAME
+chicken	I-NAME
+breasts	I-NAME
+-LRB-	O
+skinned	O
+,	O
+boned	O
+,	O
+cut	B-STATE
+in	I-STATE
+strips	I-STATE
+after	I-STATE
+being	I-STATE
+browned	I-STATE
+in	I-STATE
+butter	I-STATE
+or	I-STATE
+margarine	I-STATE
+-RRB-	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+pinot	B-NAME
+grigio	I-NAME
+wine	I-NAME
+
+2	B-QUANTITY
+cans	B-UNIT
+chickpeas	B-NAME
+-LRB-	O
+Pre-cooked	O
+,	O
+liquid	B-STATE
+drained	I-STATE
+&	I-STATE
+reserved	I-STATE
+-RRB-	O
+
+5	B-QUANTITY
+lbs	B-UNIT
+red	B-NAME
+potatoes	I-NAME
+-LRB-	O
+any	O
+variety	O
+of	O
+potato	O
+may	O
+be	O
+used	O
+-RRB-	O
+
+1	B-QUANTITY
+3/4	I-QUANTITY
+cups	B-UNIT
+cubed	O
+peeled	B-STATE
+ripe	B-NAME
+mangoes	I-NAME
+
+3/4	B-QUANTITY
+cup	B-UNIT
+thousand	B-NAME
+island	I-NAME
+dressing	I-NAME
+
+4	B-QUANTITY
+ounces	B-UNIT
+shredded	B-STATE
+gouda	B-NAME
+cheese	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+sweet	B-NAME
+marjoram	I-NAME
+-LRB-	O
+fresh	B-DF
+minced	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+-3	I-QUANTITY
+limes	B-NAME
+,	O
+juice	B-FORM
+of	O
+
+500	B-QUANTITY
+g	B-UNIT
+cream	B-NAME
+cheese	I-NAME
+-LRB-	O
+I	O
+would	O
+use	O
+2	O
+tubs	O
+of	O
+light	O
+Philly	O
+-RRB-	O
+
+3	B-QUANTITY
+ounces	B-UNIT
+goat	B-NAME
+cheese	I-NAME
+,	O
+crumbled	B-STATE
+
+25	B-QUANTITY
+g	B-UNIT
+ground	B-FORM
+almonds	B-NAME
+
+1	B-QUANTITY
+large	B-SIZE
+red	B-NAME
+capsicum	I-NAME
+,	O
+sliced	B-STATE
+thinly	I-STATE
+
+3	O
+-4	O
+cups	B-UNIT
+fresh	B-DF
+spinach	B-NAME
+,	O
+washed	B-STATE
+and	I-STATE
+stems	I-STATE
+removed	I-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+fresh	B-DF
+basil	B-NAME
+leaf	B-FORM
+,	O
+sliced	B-STATE
+thin	I-STATE
+
+1/2	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+cup	B-UNIT
+Italian	B-NAME
+breadcrumbs	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+1	O
+%	O
+low-fat	B-STATE
+milk	B-NAME
+-LRB-	O
+more	O
+or	O
+less	O
+depending	O
+on	O
+how	O
+creamy	O
+you	O
+like	O
+it	O
+-RRB-	O
+
+peanuts	B-NAME
+-LRB-	O
+garnish	O
+-RRB-	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+8	O
+-12	O
+ounces	B-UNIT
+baby	B-NAME
+carrots	I-NAME
+,	O
+sliced	B-STATE
+
+1	B-QUANTITY
+small	B-SIZE
+thin	B-STATE
+cucumber	B-NAME
+,	O
+preferably	B-STATE
+unwaxed	O
+2	B-STATE
+to	I-STATE
+4	I-STATE
+oz	I-STATE
+
+2	B-QUANTITY
+green	B-NAME
+onions	I-NAME
+,	O
+and	O
+tops	B-STATE
+minced	I-STATE
+
+1	B-QUANTITY
+ham	B-NAME
+hocks	I-NAME
+or	O
+3/4	O
+cup	O
+cubed	O
+ham	B-NAME
+
+3	B-QUANTITY
+ounces	B-UNIT
+Roquefort	B-NAME
+cheese	I-NAME
+
+1	B-QUANTITY
+package	B-UNIT
+trimmed	B-STATE
+snow	B-NAME
+peas	I-NAME
+
+6	B-QUANTITY
+lbs	B-UNIT
+red	B-NAME
+cabbage	I-NAME
+-LRB-	O
+about	O
+2	O
+medium	O
+heads	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+olive	B-NAME
+oil	I-NAME
+mayonnaise	I-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+Greek	O
+yogurt	O
+
+600	B-QUANTITY
+g	B-UNIT
+shrimp	B-NAME
+-LRB-	O
+meat	O
+only	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+rum	B-NAME
+or	O
+1	B-QUANTITY
+tablespoon	B-UNIT
+kirsch	O
+
+2	B-QUANTITY
+cups	B-UNIT
+queso	B-NAME
+fresco	I-NAME
+,	O
+crumbled	B-STATE
+queso	B-NAME
+anejo	O
+,	O
+mild	O
+goat	O
+cheese	O
+,	O
+paneer	O
+,	O
+ricotta	O
+silata	O
+,	O
+jack	O
+cheese	O
+-LRB-	O
+according	O
+to	O
+cooks	O
+thesaurus	O
+as	O
+a	O
+sub	O
+,	O
+mix	O
+equal	O
+parts	O
+cottage	O
+cheese	O
+and	O
+feta	O
+cheese	O
+,	O
+farmer	O
+cheese	O
+-RRB-	O
+
+10	O
+-12	O
+square	B-NAME
+spring	I-NAME
+roll	I-NAME
+wrappers	I-NAME
+,	O
+I	O
+use	O
+Wei	O
+Chuan	O
+-LRB-	O
+for	O
+frying	O
+-RRB-	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+parsley	B-NAME
+,	O
+chopped	B-STATE
+plus	O
+more	O
+for	O
+garnishing	O
+
+2	B-QUANTITY
+allspice	B-NAME
+
+2	B-QUANTITY
+whole	O
+carrots	B-NAME
+,	O
+peeled	B-STATE
+
+3	B-QUANTITY
+smoke	B-STATE
+dried	B-DF
+jalapeno	B-NAME
+peppers	I-NAME
+or	O
+1	O
+-2	O
+tablespoon	O
+chipotle	O
+chile	O
+in	O
+adobo	O
+
+6	B-QUANTITY
+eggs	B-NAME
+,	O
+well-beaten	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+baharat	O
+,	O
+spice	O
+mix	O
+recipe	O
+#	O
+224763	O
+or	O
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+ground	O
+allspice	O
+
+5	B-QUANTITY
+garlic	B-NAME
+cloves	I-NAME
+,	O
+minced	B-STATE
+about	O
+1	O
+1/2	O
+tablespoons	O
+
+1	B-QUANTITY
+can	B-UNIT
+green	B-NAME
+chilies	I-NAME
+,	O
+drained	O
+,	O
+seeded	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+4	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+smashed	B-STATE
+
+minced	B-STATE
+green	B-NAME
+onion	I-NAME
+,	O
+to	O
+serve	O
+
+1	B-QUANTITY
+medium	B-SIZE
+onion	B-NAME
+,	O
+Diced	O
+into	B-STATE
+coin-sized	I-STATE
+pieces	I-STATE
+
+3	B-QUANTITY
+medium	B-SIZE
+leeks	B-NAME
+,	O
+white	B-STATE
+part	I-STATE
+halved	I-STATE
+and	I-STATE
+thinly	I-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+small	B-SIZE
+butter	B-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+solo	B-NAME
+almond	I-NAME
+filling	I-NAME
+-LRB-	O
+Substitute	O
+Danish	O
+-	O
+Almond	O
+Filling	O
+,	O
+marzipan	O
+or	O
+the	O
+jam	O
+of	O
+your	O
+choice	O
+if	O
+you	O
+ca	O
+n't	O
+find	O
+the	O
+Solo	O
+Almond	O
+Filli	O
+-RRB-	O
+
+3	B-QUANTITY
+crushed	B-STATE
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+crushed	B-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+parmesan	B-NAME
+cheese	I-NAME
+,	O
+grated	O
+divided	B-STATE
+
+1	B-QUANTITY
+lime	B-NAME
+,	O
+zest	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+coarsely	B-STATE
+shredded	I-STATE
+monterey	O
+jack	O
+pepper	B-NAME
+cheese	I-NAME
+-LRB-	O
+about	O
+6oz	O
+-RRB-	O
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+grated	B-STATE
+orange	B-NAME
+zest	O
+
+1/4	B-QUANTITY
+lb	B-UNIT
+feta	B-NAME
+cheese	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+2/3	B-QUANTITY
+cup	B-UNIT
+seasoned	B-NAME
+bread	I-NAME
+crumbs	I-NAME
+
+4	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+button	B-NAME
+mushrooms	I-NAME
+
+2	O
+fresh	B-DF
+jalapeno	B-NAME
+peppers	I-NAME
+,	O
+sliced	B-STATE
+
+1/2	B-QUANTITY
+capsicum	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+mushrooms	B-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+sweet	B-NAME
+white	I-NAME
+wine	I-NAME
+
+8	B-QUANTITY
+jumbo	B-NAME
+green	I-NAME
+olives	I-NAME
+
+3/4	B-QUANTITY
+cup	B-UNIT
+diced	B-STATE
+raw	O
+chicken	B-NAME
+thigh	I-NAME
+
+6	B-QUANTITY
+cups	B-UNIT
+long	B-NAME
+grain	I-NAME
+rice	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+monterey	B-NAME
+jack	I-NAME
+cheese	I-NAME
+-LRB-	O
+shredded	B-STATE
+-RRB-	O
+
+heavy	B-NAME
+cream	I-NAME
+,	O
+whipped	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+frozen	O
+limeade	B-NAME
+concentrate	I-NAME
+-LRB-	O
+semi-thawed	B-STATE
+-RRB-	O
+
+4	B-QUANTITY
+medium	B-SIZE
+shallots	B-NAME
+,	O
+minced	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+white	B-NAME
+breadcrumbs	I-NAME
+-LRB-	O
+very	O
+stale	O
+and	O
+toasted	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+-2	I-QUANTITY
+garlic	B-NAME
+clove	I-NAME
+-LRB-	O
+pressed	O
+-RRB-	O
+
+150	B-QUANTITY
+g	B-UNIT
+goat	O
+'s	O
+cheese	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+dry	B-DF
+red	B-NAME
+wine	I-NAME
+or	O
+1/4	B-QUANTITY
+cup	B-UNIT
+additional	O
+beef	O
+broth	O
+
+1	B-QUANTITY
+small	B-SIZE
+brown	B-NAME
+onion	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+fat	O
+free	O
+cheese	B-NAME
+
+250	B-QUANTITY
+g	B-UNIT
+cottage	B-NAME
+cheese	I-NAME
+-LRB-	O
+or	O
+ricotta	O
+,	O
+but	O
+I	O
+had	O
+cottage	B-NAME
+cheese	I-NAME
+in	O
+the	O
+fridge	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+sriracha	B-NAME
+hot	I-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+instant	B-NAME
+coffee	I-NAME
+,	O
+crushed	B-STATE
+
+2	B-QUANTITY
+lbs	B-UNIT
+escarole	B-NAME
+
+500	B-QUANTITY
+g	B-UNIT
+puff	B-NAME
+pastry	I-NAME
+,	O
+thawed	B-STATE
+if	I-STATE
+frozen	I-STATE
+
+4	B-QUANTITY
+fluid	B-UNIT
+ounces	O
+vegetable	B-NAME
+oil	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+Italian	B-NAME
+cheese	I-NAME
+,	O
+such	O
+as	O
+mozzarella	O
+and	O
+or	O
+provolone	O
+cheese	B-NAME
+
+5	B-QUANTITY
+ounces	B-UNIT
+blue	B-NAME
+cheese	I-NAME
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+turmeric	B-NAME
+
+100	B-QUANTITY
+g	B-UNIT
+pink	B-NAME
+marshmallows	I-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+rice	B-NAME
+wine	I-NAME
+vinegar	I-NAME
+or	O
+3	B-QUANTITY
+tablespoons	B-UNIT
+white	O
+vinegar	B-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+coarsely	B-STATE
+ground	I-STATE
+beef	B-NAME
+
+10	O
+fresh	B-DF
+basil	B-NAME
+leaves	B-FORM
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+frozen	B-STATE
+lima	B-NAME
+beans	I-NAME
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+finely	B-STATE
+julienned	I-STATE
+fresh	B-DF
+ginger	B-NAME
+
+2	B-QUANTITY
+medium	B-SIZE
+carrots	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+matchstick-sized	I-STATE
+peices	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+red	B-NAME
+curry	I-NAME
+paste	I-NAME
+-LRB-	O
+or	O
+use	O
+one	O
+Thai	O
+Kitchen	O
+packet	O
+-RRB-	O
+
+2	B-QUANTITY
+tomatoes	B-NAME
+,	O
+sliced	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+basil	B-NAME
+pesto	I-NAME
+
+800	B-QUANTITY
+g	B-UNIT
+fresh	B-DF
+spinach	B-NAME
+-LRB-	O
+chopped	B-STATE
+,	O
+or	O
+600g	O
+frozen	O
+-RRB-	O
+
+1/2	B-QUANTITY
+lb	B-UNIT
+diced	B-STATE
+Canadian	B-NAME
+bacon	I-NAME
+
+2	B-QUANTITY
+small	B-SIZE
+red	B-NAME
+potatoes	I-NAME
+,	O
+cubed	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+reindeer	B-NAME
+roast	O
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+125	B-QUANTITY
+ml	B-UNIT
+pure	O
+maple	B-NAME
+syrup	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+minced	B-STATE
+onion	B-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+margarine	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+parsley	B-NAME
+-LRB-	O
+finely	B-STATE
+chopped	I-STATE
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+shell	B-NAME
+pasta	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+yellow	B-NAME
+lentils	I-NAME
+
+2	B-QUANTITY
+-3	O
+tablespoons	B-UNIT
+miso	B-NAME
+,	O
+paste	B-NAME
+
+1	B-QUANTITY
+bunch	B-UNIT
+cilantro	B-NAME
+,	O
+cleaned	B-STATE
+and	I-STATE
+stemmed	I-STATE
+
+6	B-QUANTITY
+slices	B-UNIT
+gouda	B-NAME
+cheese	I-NAME
+-LRB-	O
+again	O
+,	O
+deli	O
+slice	O
+size	O
+is	O
+perfect	O
+-RRB-	O
+
+10	O
+-15	O
+grape	B-NAME
+tomatoes	I-NAME
+,	O
+halved	B-STATE
+
+20	B-QUANTITY
+-22	O
+six-inch	B-NAME
+bamboo	I-NAME
+skewers	I-NAME
+,	O
+soaked	B-STATE
+in	I-STATE
+water	I-STATE
+for	I-STATE
+one	I-STATE
+hour	I-STATE
+
+2	B-QUANTITY
+ounces	B-UNIT
+fresh	B-DF
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+sliced	B-STATE
+1/2	I-STATE
+inch	I-STATE
+thick	I-STATE
+
+4	B-QUANTITY
+cups	B-UNIT
+pulled	O
+cooked	B-STATE
+chicken	B-NAME
+meat	I-NAME
+
+3/4	B-QUANTITY
+lb	B-UNIT
+small	O
+yukon	O
+gold	O
+potato	B-NAME
+
+3	B-QUANTITY
+cups	B-UNIT
+finely	B-STATE
+shredded	I-STATE
+white	B-NAME
+cabbage	I-NAME
+
+11	B-QUANTITY
+ounces	B-UNIT
+mandarin	B-NAME
+oranges	I-NAME
+,	O
+peeled	O
+,	O
+quartered	B-STATE
+if	I-STATE
+fresh	O
+,	O
+drained	B-STATE
+if	I-STATE
+canned	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+-LRB-	O
+melted	B-STATE
+to	O
+top	O
+the	O
+pie	O
+-RRB-	O
+
+250	B-QUANTITY
+g	B-UNIT
+fresh	B-DF
+ricotta	B-NAME
+
+1	B-QUANTITY
+piece	B-UNIT
+cod	B-NAME
+fish	I-NAME
+fillet	I-NAME
+,	O
+per	O
+person	O
+
+1/4	B-QUANTITY
+finely	B-STATE
+chopped	I-STATE
+fresh	B-DF
+herb	B-NAME
+
+4	B-QUANTITY
+ciabatta	B-NAME
+rolls	I-NAME
+,	O
+sliced	B-STATE
+horizontally	O
+,	O
+buttered	B-STATE
+and	I-STATE
+toasted	I-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+mild	O
+chili	B-NAME
+powder	I-NAME
+,	O
+or	O
+to	O
+taste	O
+
+3	B-QUANTITY
+hard-cooked	O
+eggs	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+quartered	I-STATE
+
+1	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+1/2	I-QUANTITY
+lb	B-UNIT
+cubed	B-STATE
+lamb	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+fresh	B-DF
+ripe	B-NAME
+roma	I-NAME
+tomatoes	I-NAME
+,	O
+pureed	B-STATE
+
+16	B-QUANTITY
+slices	B-UNIT
+whole	B-NAME
+wheat	I-NAME
+bread	I-NAME
+
+1	B-QUANTITY
+tablespoon	O
+capers	B-NAME
+,	O
+drained	O
+,	O
+chopped	B-STATE
+
+1/2	B-QUANTITY
+onion	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+grated	I-STATE
+
+2	B-QUANTITY
+tablespoons/	O
+30	O
+ml	B-SIZE
+canola	B-NAME
+oil	I-NAME
+
+1/3	B-QUANTITY
+cup	B-UNIT
+dry	B-DF
+marsala	B-NAME
+or	O
+1/3	B-QUANTITY
+cup	B-UNIT
+brandy	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+dozen	B-UNIT
+corn	B-NAME
+tortillas	I-NAME
+,	O
+divided	B-STATE
+-LRB-	O
+I	O
+prefer	O
+flour	O
+tortillas	B-NAME
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+unsweetened	B-STATE
+plain	I-STATE
+yogurt	B-NAME
+
+12	B-QUANTITY
+large	B-SIZE
+basil	B-NAME
+leaves	B-FORM
+
+1	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+1/2	I-QUANTITY
+cup	B-UNIT
+sugar	B-NAME
+-LRB-	O
+or	O
+less	O
+,	O
+to	O
+taste	O
+-RRB-	O
+
+7	B-QUANTITY
+cans	B-UNIT
+7-Up	B-NAME
+soda	I-NAME
+,	O
+chilled	B-STATE
+
+1	B-QUANTITY
+celery	B-NAME
+,	O
+cut	B-STATE
+on	I-STATE
+the	I-STATE
+diagonal	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+dark	B-NAME
+corn	I-NAME
+syrup	I-NAME
+-LRB-	O
+or	O
+golden	O
+-RRB-	O
+
+cooking	B-NAME
+oil	I-NAME
+-LRB-	O
+enough	O
+to	O
+keep	O
+chicken	O
+from	O
+sticking	O
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+corn	B-NAME
+,	O
+drained	B-STATE
+
+1	B-QUANTITY
+jar	B-UNIT
+white	B-NAME
+pearl	I-NAME
+onions	I-NAME
+-LRB-	O
+not	O
+pickled	O
+&	O
+drained	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+blue	B-NAME
+curacao	I-NAME
+
+1	B-QUANTITY
+beef	B-NAME
+bouillon	I-NAME
+cube	I-NAME
+-LRB-	O
+Oxo	B-STATE
+if	I-STATE
+possible	I-STATE
+-RRB-	O
+
+100	B-QUANTITY
+g	B-UNIT
+butter	B-NAME
+,	O
+approx	O
+
+5	B-QUANTITY
+-6	O
+roma	B-NAME
+tomatoes	I-NAME
+-LRB-	O
+blanch	O
+,	O
+peel	O
+,	O
+remove	B-STATE
+seeds	O
+,	O
+and	B-STATE
+cut	I-STATE
+up	I-STATE
+-RRB-	O
+
+8	B-QUANTITY
+8	I-QUANTITY
+ounces	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+or	O
+8	B-QUANTITY
+ounces	B-UNIT
+muenster	O
+cheese	B-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+greek	O
+extra	B-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+dijon-style	B-NAME
+mustard	I-NAME
+
+1	B-QUANTITY
+ounce	B-UNIT
+black	B-NAME
+olives	I-NAME
+,	O
+sliced	B-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+shredded	B-STATE
+romaine	B-NAME
+lettuce	I-NAME
+
+6	O
+-7	O
+dashes	B-UNIT
+Tabasco	B-NAME
+sauce	I-NAME
+
+8	B-QUANTITY
+pieces	B-UNIT
+fresh	B-DF
+pineapple	B-NAME
+
+coffee	B-NAME
+beans	I-NAME
+or	O
+chocolate-covered	O
+coffee	B-NAME
+beans	I-NAME
+,	O
+to	O
+decorate	O
+
+10	B-QUANTITY
+coconut	B-NAME
+macaroons	I-NAME
+or	O
+10	B-QUANTITY
+coconut	B-NAME
+cookies	O
+,	O
+crushed	B-STATE
+
+1	B-QUANTITY
+7/8	I-QUANTITY
+ounces	B-UNIT
+dried	B-DF
+porcini	B-NAME
+mushrooms	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+olive	B-NAME
+oil	I-NAME
+-LRB-	O
+or	O
+more	O
+if	O
+needed	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+green	B-NAME
+curry	I-NAME
+paste	I-NAME
+-LRB-	O
+available	O
+at	O
+asian	O
+markets	O
+-RRB-	O
+
+2/3	B-QUANTITY
+can	B-UNIT
+diced	B-STATE
+tomato	B-NAME
+-LRB-	O
+cheapest	O
+-RRB-	O
+
+cooked	O
+and	O
+crumbled	B-STATE
+bacon	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+large	B-SIZE
+yucca	B-NAME
+root	I-NAME
+-LRB-	O
+peeled	O
+,	O
+sliced	B-STATE
+into	I-STATE
+1.5	I-STATE
+in	I-STATE
+wide	I-STATE
+round	I-STATE
+pieces	O
+,	O
+then	B-STATE
+that	I-STATE
+piece	I-STATE
+cut	I-STATE
+in	I-STATE
+half	I-STATE
+-RRB-	O
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+grated	B-STATE
+orange	B-NAME
+rind	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+thinly	B-STATE
+sliced	I-STATE
+green	B-NAME
+onions	I-NAME
+
+1	B-QUANTITY
+jar	B-UNIT
+roasted	B-STATE
+red	B-NAME
+peppers	I-NAME
+,	B-STATE
+undrained	I-STATE
+
+9	B-QUANTITY
+ounces	B-UNIT
+your	O
+favorite	O
+pasta	B-NAME
+,	O
+cooked	B-STATE
+al	I-STATE
+dente	I-STATE
+
+1/2	B-QUANTITY
+English	B-NAME
+cucumber	I-NAME
+,	O
+sliced	B-STATE
+thinly	I-STATE
+
+2	B-QUANTITY
+potatoes	B-NAME
+,	O
+medium-size	O
+,	O
+peeled	B-STATE
+and	I-STATE
+boiled	I-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+crushed	B-STATE
+italian	O
+flavored	B-NAME
+tomatoes	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+crushed	B-STATE
+pineapple	B-NAME
+,	B-STATE
+strained	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+salsa	B-NAME
+-LRB-	O
+I	O
+used	O
+Kirkland	O
+organic	O
+salsa	B-NAME
+from	O
+Costco	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+parmesan	B-NAME
+cheese	I-NAME
+,	O
+coarsely	B-STATE
+grated	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+fresh	B-DF
+green	B-NAME
+beans	I-NAME
+,	O
+tipped	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+bite-size	I-STATE
+pieces	I-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+baby	B-NAME
+shrimp	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+coarse	B-NAME
+salt	I-NAME
+-LRB-	O
+sea	O
+salt	B-NAME
+if	O
+possible	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+bread	B-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+cracker	O
+crumb	O
+
+3/4	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+1/4	I-QUANTITY
+cup	B-UNIT
+all-purpose	B-NAME
+flour	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+espresso	B-NAME
+,	O
+fresh	B-DF
+brewed	B-STATE
+
+1	B-QUANTITY
+container	B-UNIT
+mexican	B-NAME
+cheese	I-NAME
+-LRB-	O
+melting	B-STATE
+or	I-STATE
+crumbled	I-STATE
+-RRB-	O
+
+3/4	B-QUANTITY
+tablespoon	B-UNIT
+cayenne	B-NAME
+pepper	I-NAME
+
+5	B-QUANTITY
+-6	O
+sprigs	B-UNIT
+fresh	B-DF
+thyme	B-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+hot	B-NAME
+sauce	I-NAME
+-LRB-	O
+Caribbean	O
+style	O
+-RRB-	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+crushded	O
+red	B-NAME
+pepper	I-NAME
+flakes	B-FORM
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+dulce	B-NAME
+de	I-NAME
+leche	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+ground	B-STATE
+pork	B-NAME
+or	O
+1/2	B-QUANTITY
+lb	B-UNIT
+ground	B-STATE
+beef	O
+
+2	B-QUANTITY
+leaves	B-UNIT
+kaffir	B-NAME
+lime	I-NAME
+leaves	B-UNIT
+
+2	B-QUANTITY
+green	B-NAME
+onions	I-NAME
+-LRB-	O
+scallions	O
+-RRB-	O
+
+8	B-QUANTITY
+strawberries	B-NAME
+
+12	B-QUANTITY
+corn	B-NAME
+tortillas	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+small	I-STATE
+pieces	I-STATE
+
+1/2	B-QUANTITY
+eggplant	B-NAME
+,	O
+peeled	O
+,	O
+cut	B-STATE
+into	I-STATE
+1cm	O
+cubes	B-STATE
+
+strawberry	B-NAME
+syrup	I-NAME
+or	O
+chocolate	O
+flavored	O
+syrup	B-NAME
+
+ground	B-FORM
+red	B-NAME
+chili	I-NAME
+pepper	I-NAME
+-LRB-	O
+piment	O
+d'espelette	O
+-RRB-	O
+or	O
+fresh	O
+black	O
+pepper	B-NAME
+
+4	B-QUANTITY
+to	I-QUANTITY
+6	I-QUANTITY
+clementines	B-NAME
+,	O
+juice	B-STATE
+and	I-STATE
+zest	I-STATE
+of	I-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+sea	B-NAME
+salt	I-NAME
+-LRB-	O
+table	O
+salt	B-NAME
+is	O
+fine	O
+also	O
+-RRB-	O
+
+5	B-QUANTITY
+boneless	B-STATE
+skinless	I-STATE
+chicken	B-NAME
+thighs	I-NAME
+
+12	B-QUANTITY
+ounces	B-UNIT
+colby-monterey	B-NAME
+jack	I-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+red	B-NAME
+wine	I-NAME
+-LRB-	O
+You	O
+could	O
+use	O
+sherry/dry	O
+wine	B-NAME
+as	O
+a	O
+substitute	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+mushrooms	B-NAME
+,	O
+sliced	B-STATE
+-LRB-	O
+mixed	O
+shiitake	O
+and	O
+cremini	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+tomatoes	B-NAME
+-LRB-	O
+canned	O
+,	O
+chopped	B-STATE
+or	O
+3	O
+fresh	O
+-RRB-	O
+
+2	B-QUANTITY
+containers	B-UNIT
+cream	B-NAME
+cheese	I-NAME
+,	O
+softened	B-STATE
+
+3	B-QUANTITY
+lbs	B-UNIT
+ground	B-FORM
+pork	B-NAME
+butt	I-NAME
+-LRB-	O
+or	O
+ground	B-FORM
+pork	B-NAME
+-RRB-	O
+
+12	B-QUANTITY
+ounces	B-UNIT
+pasta	B-NAME
+,	O
+cooked	B-STATE
+warm	I-STATE
+
+1	B-QUANTITY
+jar	B-UNIT
+thick	B-NAME
+and	O
+chunky	O
+pasta	O
+sauce	O
+,	O
+2-3/4	O
+cups	O
+-LRB-	O
+or	O
+spaghetti	O
+sauce	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+black	B-NAME
+bean	I-NAME
+paste	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+shredded	B-STATE
+suet	B-NAME
+
+250	B-QUANTITY
+g	B-UNIT
+syrup	B-NAME
+
+1	B-QUANTITY
+1	I-QUANTITY
+bunch	B-UNIT
+basil	B-NAME
+-LRB-	O
+a	O
+mix	O
+of	O
+all	O
+three	O
+is	O
+yummy	O
+-RRB-	O
+or	O
+1	B-QUANTITY
+bunch	B-UNIT
+parsley	O
+-LRB-	O
+a	O
+mix	O
+of	O
+all	O
+three	O
+is	O
+yummy	O
+-RRB-	O
+
+3	B-QUANTITY
+cans	B-UNIT
+pork	B-NAME
+and	I-NAME
+beans	I-NAME
+
+1	B-QUANTITY
+shallot	B-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+carrot	B-NAME
+,	O
+sliced	O
+,	O
+peeled	B-STATE
+
+4	B-QUANTITY
+medium	B-SIZE
+potatoes	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+cut	I-STATE
+in	I-STATE
+1/2-inch	I-STATE
+cubes	I-STATE
+
+15	O
+-20	O
+six	O
+inch	O
+flour	B-NAME
+tortillas	I-NAME
+
+6	B-QUANTITY
+ounces	B-UNIT
+beef	B-NAME
+steaks	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+thin	I-STATE
+strips	I-STATE
+
+10	B-QUANTITY
+pieces	B-UNIT
+fresh	B-DF
+rosemary	B-NAME
+
+6	B-QUANTITY
+cups	B-UNIT
+dried	B-DF
+chilies	B-NAME
+,	O
+chopped	B-STATE
+into	I-STATE
+1-inch	I-STATE
+chunks	I-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+orange	B-NAME
+extract	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+kg	B-UNIT
+potato	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+20	I-STATE
+mm	I-STATE
+cubes	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+cooked	B-STATE
+farfalle	B-NAME
+pasta	I-NAME
+-LRB-	O
+bowtie	O
+-RRB-	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+crumbled	B-STATE
+feta	B-NAME
+cheese	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+or	O
+1/3	B-QUANTITY
+cup	B-UNIT
+toasted	O
+pine	O
+nuts	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+75	B-QUANTITY
+g	B-UNIT
+taleggio	B-NAME
+
+500	B-QUANTITY
+g	B-UNIT
+prawns	B-NAME
+-LRB-	O
+cooked	O
+peeled	O
+and	O
+deveined	O
+-RRB-	O
+
+2	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+long	B-NAME
+grain	I-NAME
+rice	I-NAME
+
+3	B-QUANTITY
+cups	B-UNIT
+cooked	B-NAME
+green	I-NAME
+cabbage	I-NAME
+,	O
+shredded	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+tandoori	B-NAME
+masala	I-NAME
+paste	I-NAME
+
+24	B-QUANTITY
+-36	O
+flour	B-NAME
+tortillas	I-NAME
+,	O
+warmed	B-STATE
+
+2	B-QUANTITY
+summer	B-NAME
+squash	I-NAME
+,	O
+diced	B-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+cashew	B-NAME
+nuts	I-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+-LRB-	O
+Use	O
+a	O
+GOOD	O
+flavorful	O
+butter	B-NAME
+.	O
+I	O
+use	O
+Plugra	O
+-RRB-	O
+
+2	B-QUANTITY
+dried	B-DF
+chipotle	B-NAME
+chiles	I-NAME
+,	O
+stems	B-STATE
+seeds	I-STATE
+removed	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+brazil	B-NAME
+nut	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+cream	B-NAME
+cheese	I-NAME
+,	O
+at	O
+room	O
+temperature	O
+-LRB-	O
+not	O
+whipped	O
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+tomatoes	B-NAME
+,	O
+including	O
+juice	O
+,	O
+chopped	B-STATE
+coarse	I-STATE
+
+75	B-QUANTITY
+g	B-UNIT
+finely	B-STATE
+grated	I-STATE
+gruyere	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+black	B-NAME
+bean	I-NAME
+sauce	I-NAME
+-LRB-	O
+with	O
+chili	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+milk	B-NAME
+-LRB-	O
+or	B-STATE
+sweetened	I-STATE
+condensed	I-STATE
+milk	B-NAME
+if	O
+you	O
+want	O
+it	O
+to	O
+be	O
+thicker	O
+and	O
+sweeter	O
+,	O
+more	O
+like	O
+a	O
+dessert	O
+-RRB-	O
+
+cooked	B-STATE
+prawns	B-NAME
+and	O
+coriander	O
+sprig	O
+-LRB-	O
+to	O
+garnish	O
+,	O
+cilantro	O
+-RRB-	O
+
+1	B-QUANTITY
+-2	O
+medium	B-SIZE
+tomatoes	B-NAME
+,	O
+sliced	B-STATE
+into	I-STATE
+wedges	I-STATE
+
+1	B-QUANTITY
+green	B-NAME
+chili	I-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+I	O
+use	O
+the	O
+short	O
+fat	O
+ones	O
+,	O
+like	O
+jalapeno	O
+-RRB-	O
+
+7/8	B-QUANTITY
+cup	B-UNIT
+creme	B-NAME
+fraiche	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+roasted	B-NAME
+red	I-NAME
+pepper	I-NAME
+,	O
+chopped	B-STATE
+into	I-STATE
+small	I-STATE
+pieces	I-STATE
+
+1	B-QUANTITY
+hot	B-NAME
+red	I-NAME
+chili	I-NAME
+pepper	I-NAME
+,	O
+finely	B-STATE
+julienned	I-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+fresh	B-DF
+cilantro	B-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+light	B-NAME
+margarine	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+fresh	O
+mint	B-NAME
+leaves	B-FORM
+,	O
+torn	O
+
+12	B-QUANTITY
+medium	B-SIZE
+mushrooms	B-NAME
+,	O
+chopped	B-STATE
+fine	I-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+tomato	B-NAME
+sauce	I-NAME
+-LRB-	O
+Large	O
+Can	O
+-RRB-	O
+
+4	B-QUANTITY
+ounces	B-UNIT
+chopped	B-STATE
+green	B-NAME
+chilies	I-NAME
+
+1/3	B-QUANTITY
+cup	B-UNIT
+zucchini	B-NAME
+,	O
+shredded	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+green	B-NAME
+and	I-NAME
+white	I-NAME
+scallions	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+rings	I-STATE
+-LRB-	O
+green	B-NAME
+onion	O
+-RRB-	O
+
+252	B-QUANTITY
+inches	B-UNIT
+bamboo	B-NAME
+skewers	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+chopped	B-STATE
+onions	B-NAME
+-LRB-	O
+about	O
+2	B-QUANTITY
+medium	O
+-RRB-	O
+
+1	B-QUANTITY
+head	B-UNIT
+green	B-NAME
+cabbage	I-NAME
+-LRB-	O
+about	O
+1.5	O
+lbs	O
+.	O
+-RRB-	O
+
+1	B-QUANTITY
+package	B-UNIT
+crumbled	B-STATE
+reduced	B-NAME
+fat	I-NAME
+feta	I-NAME
+cheese	I-NAME
+
+5	B-QUANTITY
+large	B-SIZE
+potatoes	B-NAME
+-LRB-	O
+cut	B-STATE
+into	I-STATE
+apprx	I-STATE
+.	I-STATE
+1/2	I-STATE
+inch	I-STATE
+cubes	I-STATE
+-RRB-	O
+
+1	O
+fresh	B-DF
+chili	B-NAME
+pepper	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+strips	I-STATE
+
+4	B-QUANTITY
+fresh	B-STATE
+chilean	B-NAME
+sea	I-NAME
+bass	I-NAME
+fillets	I-NAME
+
+40	B-QUANTITY
+40	I-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+turkey	B-NAME
+broth	I-NAME
+or	O
+40	B-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+vegetable	O
+stock	O
+
+1	B-QUANTITY
+-3	O
+tablespoon	B-UNIT
+fresh	B-DF
+herb	B-NAME
+-LRB-	O
+such	O
+as	O
+dill	O
+,	O
+parsley	O
+,	O
+chives	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+tomato	B-NAME
+bouillon	I-NAME
+-LRB-	O
+I	O
+recommend	O
+Knorr	O
+-RRB-	O
+
+flat	B-NAME
+leaf	I-NAME
+parsley	I-NAME
+,	O
+chopped	B-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+2	O
+-4	O
+lbs	B-UNIT
+beef	B-NAME
+roast	I-NAME
+-LRB-	O
+I	O
+use	O
+rump	O
+roast	B-NAME
+,	O
+but	O
+any	O
+cut	O
+will	O
+work	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+onion	B-NAME
+,	O
+for	O
+garnish	O
+
+1	B-QUANTITY
+can	B-UNIT
+original	B-NAME
+rotel	I-NAME
+,	O
+drained	B-STATE
+
+2	B-QUANTITY
+ounces	B-UNIT
+cheese	B-NAME
+,	O
+grated	B-STATE
+
+1	B-QUANTITY
+whole	O
+vanilla	B-NAME
+pod	I-NAME
+,	O
+plump	O
+and	O
+juicy	O
+
+4	B-QUANTITY
+cups	B-UNIT
+cooked	B-STATE
+rice	B-NAME
+-LRB-	O
+cool	O
+to	O
+the	O
+touch	O
+-RRB-	O
+
+450	B-QUANTITY
+g	B-UNIT
+freshly	B-STATE
+chopped	I-STATE
+tomatoes	B-NAME
+-LRB-	O
+about	O
+6	O
+small	O
+ones	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+carrot	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1	O
+inch	O
+pieces	B-STATE
+
+1	B-QUANTITY
+bunch	B-UNIT
+parsley	B-NAME
+,	O
+stemmed	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+3	B-QUANTITY
+ounces	B-UNIT
+chopped	B-STATE
+unsweetened	I-STATE
+chocolate	B-NAME
+
+1	B-QUANTITY
+orange	B-NAME
+,	O
+juice	B-FORM
+of	O
+-LRB-	O
+reserving	O
+2	O
+tbsps	O
+.	O
+for	O
+dressing	O
+-RRB-	O
+
+24	B-QUANTITY
+wonton	B-NAME
+skins	I-NAME
+-LRB-	O
+about	O
+3	O
+1/4-inch	O
+squares	O
+,	O
+from	O
+16-oz	O
+package	O
+-RRB-	O
+
+8	B-QUANTITY
+tablespoons	B-UNIT
+packed	O
+light	B-NAME
+brown	I-NAME
+sugar	I-NAME
+,	O
+divided	B-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+dried	O
+oregano	B-NAME
+,	O
+lightly	B-STATE
+crushed	I-STATE
+in	I-STATE
+the	I-STATE
+palm	O
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+fresh	B-DF
+ginger	B-NAME
+,	O
+grated	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+medium	B-SIZE
+grain	B-NAME
+rice	I-NAME
+-LRB-	O
+uncooked	B-STATE
+-RRB-	O
+
+250	B-QUANTITY
+g	B-UNIT
+dried	B-DF
+apricots	B-NAME
+
+12	B-QUANTITY
+-18	O
+asparagus	B-NAME
+,	O
+trimmed	B-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+pineapple	B-NAME
+ring	I-NAME
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+sour	B-NAME
+cream	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+mixed	O
+vegetables	B-NAME
+,	O
+boiled	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+whole	B-NAME
+milk	I-NAME
+ricotta	I-NAME
+cheese	I-NAME
+
+candied	B-NAME
+peel	I-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+pickle	B-NAME
+,	O
+minced	B-STATE
+
+6	B-QUANTITY
+large	B-SIZE
+baking	B-NAME
+potatoes	I-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+1/4-inch	I-STATE
+slices	I-STATE
+-LRB-	O
+about	O
+2	O
+1/2	O
+lb	O
+.	O
+-RRB-	O
+
+1	B-QUANTITY
+tomatoes	B-NAME
+,	O
+peeled	O
+,	O
+seeded	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+diced	I-STATE
+papaya	B-NAME
+
+1	B-QUANTITY
+medium	B-SIZE
+head	B-NAME
+cauliflower	I-NAME
+-LRB-	O
+bloemkool	O
+-RRB-	O
+
+16	B-QUANTITY
+new	O
+potatoes	B-NAME
+-LRB-	O
+about	O
+1	O
+pound	O
+-RRB-	O
+
+3	B-QUANTITY
+teaspoons	B-UNIT
+dried	B-DF
+oregano	B-NAME
+-LRB-	O
+you	O
+can	O
+add	O
+in	O
+more	O
+at	O
+the	O
+end	O
+of	O
+making	O
+the	O
+salad	O
+-RRB-	O
+
+700	B-QUANTITY
+g	B-UNIT
+minced	B-STATE
+chicken	O
+-LRB-	O
+a	O
+mixture	O
+of	O
+breast	O
+and	O
+leg	O
+meat	O
+without	O
+the	O
+skin	O
+taken	O
+straight	O
+from	O
+the	O
+refrigerator	O
+-RRB-	O
+or	O
+700	B-QUANTITY
+g	B-UNIT
+turkey	O
+-LRB-	O
+a	O
+mixture	O
+of	O
+breast	O
+and	O
+leg	O
+meat	O
+without	O
+the	O
+skin	O
+taken	O
+straight	O
+from	O
+the	O
+refrigerator	O
+-RRB-	O
+
+5	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+vegetable	B-NAME
+stock	I-NAME
+-LRB-	O
+or	O
+chicken	O
+stock	B-NAME
+-RRB-	O
+
+3/4	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+3/4-1	O
+lb	B-UNIT
+spaghetti	B-NAME
+or	O
+3/4-1	O
+lb	B-UNIT
+angel	O
+hair	O
+pasta	O
+
+14	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+slicely	B-STATE
+thinly	I-STATE
+length-wise	I-STATE
+
+1	B-QUANTITY
+capsicum	B-NAME
+,	O
+red	O
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+brown	B-NAME
+mustard	I-NAME
+seeds	B-FORM
+
+6	B-QUANTITY
+small	B-SIZE
+potatoes	B-NAME
+,	O
+halved	B-STATE
+
+6	B-QUANTITY
+cups	B-UNIT
+unsalted	B-STATE
+dry	O
+roasted	B-STATE
+peanuts	B-NAME
+
+1	B-QUANTITY
+medium	B-SIZE
+home	O
+grown	O
+cucumber	B-NAME
+
+1/2	B-QUANTITY
+pint	B-UNIT
+whipping	B-NAME
+cream	I-NAME
+
+10	B-QUANTITY
+g	B-UNIT
+turmeric	B-NAME
+powder	B-FORM
+
+6	B-QUANTITY
+tablespoons	B-UNIT
+instant	O
+potato	B-NAME
+flakes	B-FORM
+-LRB-	O
+Idaho	O
+suggested	O
+-RRB-	O
+
+3	B-QUANTITY
+ripe	B-NAME
+pears	I-NAME
+,	O
+peeled	O
+,	O
+cored	O
+and	B-STATE
+cut	I-STATE
+into	I-STATE
+chunks	I-STATE
+
+1	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+almonds	B-NAME
+,	O
+sliced	B-STATE
+and	I-STATE
+lightly	I-STATE
+toasted	I-STATE
+
+steamed	B-STATE
+broccoli	B-NAME
+and	O
+couscous	O
+,	O
+to	O
+serve	O
+
+10	B-QUANTITY
+ounces	B-UNIT
+by	O
+weight	O
+marshmallow	B-NAME
+creme	I-NAME
+,	O
+such	O
+as	O
+<	O
+a	O
+href=	O
+''	O
+https	O
+:	O
+//www.geniuskitchen.com/recipe/vegallow-fluff-479560	O
+''	O
+>	O
+Vegallow	O
+Fluff	O
+<	O
+/a	O
+>	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+cheddar	B-NAME
+cheese	I-NAME
+
+150	B-QUANTITY
+g	B-UNIT
+whole	B-NAME
+wheat	I-NAME
+flour	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+cilantro	B-NAME
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+green	O
+onion	O
+tops	O
+
+10	B-QUANTITY
+ounces	B-UNIT
+fettuccine	O
+or	O
+10	B-QUANTITY
+ounces	B-UNIT
+spaghetti	O
+,	O
+uncooked	B-STATE
+
+chocolate-covered	B-NAME
+almonds	I-NAME
+
+12	B-QUANTITY
+baby	B-NAME
+potatoes	I-NAME
+-LRB-	O
+quartered	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+drop	B-UNIT
+Angostura	B-NAME
+bitters	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+shredded	B-STATE
+ginger	B-NAME
+
+6	O
+-10	O
+pitted	B-STATE
+green	B-NAME
+olives	I-NAME
+
+30	B-QUANTITY
+ml	B-UNIT
+prepared	B-NAME
+sweet-and-sour	I-NAME
+mix	I-NAME
+
+2	B-QUANTITY
+red	B-NAME
+onions	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+wedges	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+carrot	B-NAME
+,	O
+coarsly	O
+chopped	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chopped	O
+green	B-NAME
+chilies	I-NAME
+,	O
+drained	B-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+cold	B-STATE
+water	B-NAME
+-LRB-	O
+to	O
+bloom	O
+gelatin	O
+-RRB-	O
+
+4	O
+-6	O
+curry	B-NAME
+leaves	B-FORM
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/2	B-QUANTITY
+lb	B-UNIT
+beef	B-NAME
+sirloin	I-NAME
+steak	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+large	B-SIZE
+purple	B-NAME
+onion	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+ground	B-STATE
+turkey	B-NAME
+-LRB-	O
+you	O
+can	O
+sub	O
+ground	B-STATE
+chicken	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+tightly	B-STATE
+packed	O
+fresh	B-DF
+cilantro	B-NAME
+,	O
+roughly	B-STATE
+chopped	I-STATE
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+hot	B-NAME
+sauce	I-NAME
+or	O
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+red	O
+pepper	O
+flakes	O
+
+1	B-QUANTITY
+-2	I-QUANTITY
+tablespoon	B-UNIT
+maple	B-NAME
+extract	I-NAME
+,	O
+to	O
+taste	O
+
+6	B-QUANTITY
+ounces	B-UNIT
+chipotle	B-NAME
+chiles	I-NAME
+in	I-NAME
+adobo	I-NAME
+-LRB-	O
+minced	O
+removing	B-STATE
+seeds	I-STATE
+is	I-STATE
+optional	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+crushed	B-STATE
+red	B-NAME
+pepper	I-NAME
+powder	B-FORM
+
+10	B-QUANTITY
+3/4	I-QUANTITY
+ounces	B-UNIT
+onion	B-NAME
+soup	I-NAME
+-LRB-	O
+condensed	O
+and	O
+blended	B-STATE
+to	I-STATE
+liquid	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+,	O
+room	B-STATE
+temperature	I-STATE
+
+5	B-QUANTITY
+cloves	B-UNIT
+chopped	B-STATE
+garlic	B-NAME
+
+6	B-QUANTITY
+vegetable	B-NAME
+bouillon	I-NAME
+cubes	I-NAME
+
+250	B-QUANTITY
+g	B-UNIT
+soybeans	B-NAME
+
+3/4	B-QUANTITY
+lb	B-UNIT
+beef	B-NAME
+sirloin	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/4	I-STATE
+inch	I-STATE
+chunks	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+chablis	B-NAME
+or	O
+2	B-QUANTITY
+cups	B-UNIT
+other	O
+very	O
+dry	O
+white	O
+wine	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+finely	O
+ground	O
+black	B-NAME
+pepper	I-NAME
+
+1	B-QUANTITY
+bag	B-UNIT
+frozen	O
+shelled	O
+edamame	B-NAME
+,	O
+thawed	B-STATE
+
+1	B-QUANTITY
+japanese	O
+cucumber	B-NAME
+,	O
+cubed	B-STATE
+3/4	I-STATE
+inch	I-STATE
+
+100	B-QUANTITY
+g	B-UNIT
+vegan	B-NAME
+cookies	I-NAME
+-LRB-	O
+I	B-STATE
+used	I-STATE
+digestives	I-STATE
+-RRB-	O
+
+green	B-NAME
+onions	I-NAME
+or	O
+cilantro	O
+,	O
+garnish	O
+
+6	B-QUANTITY
+slices	B-UNIT
+fresh	B-DF
+galangal	B-NAME
+or	O
+6	B-QUANTITY
+slices	B-UNIT
+fresh	B-DF
+ginger	O
+,	O
+thinly	O
+sliced	O
+
+2	B-QUANTITY
+brinjals	B-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+heavy	B-NAME
+cream	I-NAME
+,	O
+chilled	B-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+crushed	B-STATE
+plain	B-NAME
+sweet	I-NAME
+biscuits	I-NAME
+-LRB-	O
+for	O
+you	O
+Americans	O
+,	O
+that	O
+'s	O
+like	O
+graham	O
+cracker	O
+crumbs	O
+!	O
+-RRB-	O
+
+6	B-QUANTITY
+cups	B-UNIT
+rhubarb	B-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+small	B-SIZE
+cucumber	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+chunks	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+ground	B-STATE
+turkey	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+or	O
+1	B-QUANTITY
+lb	B-UNIT
+lean	O
+ground	B-STATE
+beef	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+golden	B-NAME
+raisin	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+small	I-STATE
+pcs	I-STATE
+.	O
+
+16	B-QUANTITY
+large	B-SIZE
+prawns	B-NAME
+,	O
+peeled	O
+,	O
+deveined	O
+,	O
+tail	B-STATE
+intact	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+reduced-fat	B-NAME
+mozzarella	I-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+2	B-QUANTITY
+lbs	B-UNIT
+fat-trimmed	O
+boned	O
+beef	B-NAME
+chuck	I-NAME
+,	O
+rinsed	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+3/4-inch	I-STATE
+chunks	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+chicken	B-NAME
+stock	I-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+low	O
+sodium	O
+chicken	B-NAME
+broth	O
+
+1/2	B-QUANTITY
+cup	O
+country	O
+Dijon	B-NAME
+mustard	I-NAME
+
+40	B-QUANTITY
+g	B-UNIT
+cornflour	B-NAME
+or	O
+40	B-QUANTITY
+g	B-UNIT
+plain	O
+flour	O
+
+1	B-QUANTITY
+1/3	I-QUANTITY
+cups	B-UNIT
+white	B-NAME
+sugar	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+pasta	B-NAME
+shells	I-NAME
+-LRB-	O
+I	O
+use	O
+small	O
+elbow	O
+roni	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+flat	B-NAME
+leaf	I-NAME
+parsley	I-NAME
+-LRB-	O
+coarsely	B-STATE
+chopped	I-STATE
+-RRB-	O
+
+4	B-QUANTITY
+lbs	B-UNIT
+slab	B-NAME
+chuck	I-NAME
+roast	I-NAME
+-LRB-	O
+smaller	O
+or	O
+larger	O
+is	O
+fine	O
+,	O
+recipe	O
+will	O
+be	O
+the	O
+same	O
+-RRB-	O
+
+sugar	B-NAME
+,	O
+for	O
+dusting	O
+tops	O
+
+1	B-QUANTITY
+box	B-UNIT
+frozen	O
+raspberries	B-NAME
+or	O
+2	O
+cups	O
+fresh	O
+raspberries	B-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+chopped	B-STATE
+mushrooms	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+shredded	B-STATE
+sharp	O
+provolone	B-NAME
+cheese	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+unsalted	B-STATE
+butter	B-NAME
+,	B-STATE
+cut	I-STATE
+into	I-STATE
+pieces	I-STATE
+
+2/3	B-QUANTITY
+cup	B-UNIT
+freshly	O
+grated	B-STATE
+asiago	B-NAME
+cheese	I-NAME
+
+1/2	B-QUANTITY
+sour	B-NAME
+cream	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+wild	B-NAME
+rice	I-NAME
+
+1	B-QUANTITY
+dash	B-UNIT
+chicken	B-NAME
+bouillon	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+dry	B-DF
+fettuccine	B-NAME
+
+12	B-QUANTITY
+tablespoons	O
+unsalted	B-STATE
+butter	B-NAME
+,	B-STATE
+melted	I-STATE
+
+2	B-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+fish	B-NAME
+sauce	I-NAME
+
+4	B-QUANTITY
+medium	B-SIZE
+zucchini	B-NAME
+,	O
+quartered	B-STATE
+lengthwise	I-STATE
+and	I-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+large	B-SIZE
+cucumber	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+fresh	B-DF
+salmon	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1	B-QUANTITY
+inch	B-STATE
+cubes	I-STATE
+
+2	O
+-3	O
+lbs	B-UNIT
+roast	B-NAME
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+-LRB-	O
+separated	O
+-RRB-	O
+
+1	B-QUANTITY
+bunch	B-UNIT
+swiss	B-NAME
+chard	I-NAME
+,	O
+stems	B-STATE
+minced	O
+and	B-STATE
+leaves	I-STATE
+torn	I-STATE
+and	I-STATE
+reserved	I-STATE
+
+1/3	B-QUANTITY
+cup	B-UNIT
+raspberry	B-NAME
+jam	I-NAME
+or	O
+1/3	B-QUANTITY
+cup	B-UNIT
+apricot	O
+jam	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+bucatini	B-NAME
+pasta	I-NAME
+or	O
+1	B-QUANTITY
+lb	B-UNIT
+spaghetti	O
+
+2	B-QUANTITY
+-3	O
+large	B-SIZE
+poblano	B-NAME
+peppers	I-NAME
+,	O
+diced	B-STATE
+
+whipped	B-STATE
+butter	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+butter	B-NAME
+-LRB-	O
+I	O
+use	O
+butter	B-NAME
+-RRB-	O
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+margarine	O
+,	O
+softened	B-STATE
+-LRB-	O
+I	O
+use	O
+butter	B-NAME
+-RRB-	O
+
+confectioners	O
+'	O
+sugar	B-NAME
+-LRB-	O
+OPTIONAL	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+sweet	B-NAME
+Hungarian	I-NAME
+paprika	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+butter	B-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+margarine	O
+
+6	B-QUANTITY
+ounces	B-UNIT
+sliced	B-STATE
+deli	B-NAME
+turkey	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+chilled	O
+unsalted	O
+butter	B-NAME
+,	O
+2	B-STATE
+sticks	I-STATE
+cut	I-STATE
+into	I-STATE
+1/4-inch	I-STATE
+pieces	I-STATE
+
+9	B-QUANTITY
+onions	B-NAME
+
+1	B-QUANTITY
+-2	O
+canned	B-FORM
+chile	B-NAME
+,	O
+rinsed	B-STATE
+and	I-STATE
+seeded	O
+,	O
+and	B-STATE
+sliced	I-STATE
+
+5	B-QUANTITY
+medium	B-SIZE
+red	B-NAME
+onions	I-NAME
+-LRB-	O
+about	O
+3	O
+pounds	O
+,	O
+sliced	B-STATE
+thinly	I-STATE
+-RRB-	O
+
+2	B-QUANTITY
+hard-boiled	B-NAME
+eggs	I-NAME
+,	O
+peeled	B-STATE
+
+8	B-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+white	B-NAME
+wine	I-NAME
+
+3	B-QUANTITY
+green	B-NAME
+bell	I-NAME
+peppers	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2	I-STATE
+inch	I-STATE
+squares	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+hot	B-STATE
+cooked	I-STATE
+brown	B-NAME
+rice	I-NAME
+-LRB-	O
+long	O
+cooking	O
+tastes	O
+best	O
+-RRB-	O
+
+1	B-QUANTITY
+large	B-STATE
+avocado	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+large	I-STATE
+dice	I-STATE
+
+2	B-QUANTITY
+braeburn	O
+apples	B-NAME
+,	O
+cut	B-STATE
+horizontally	I-STATE
+into	I-STATE
+1/2	I-STATE
+cm	I-STATE
+slices	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+zucchini	B-NAME
+,	O
+grated	B-STATE
+
+200	B-QUANTITY
+g	B-UNIT
+cookie	B-NAME
+crumbs	I-NAME
+
+2	B-QUANTITY
+clementines	B-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+powdered	B-STATE
+milk	B-NAME
+,	O
+plus	O
+
+fresh	B-DF
+parsley	B-NAME
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+or	O
+thyme	O
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+
+8	B-QUANTITY
+scallions	B-NAME
+,	O
+but	O
+in	O
+large	O
+pieces	O
+
+2	B-QUANTITY
+large	B-SIZE
+zucchini	B-NAME
+,	O
+cut	B-STATE
+into1cm-thick	O
+slices	B-STATE
+
+10	B-QUANTITY
+large	B-SIZE
+potatoes	B-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+5	B-QUANTITY
+-6	O
+sprigs	B-UNIT
+fresh	B-DF
+cilantro	B-NAME
+,	O
+roughly	B-STATE
+chopped	I-STATE
+-LRB-	O
+long	O
+bottom	O
+stems	O
+removed	O
+-RRB-	O
+
+6	B-QUANTITY
+boneless	O
+skinless	O
+chicken	B-NAME
+breast	I-NAME
+halves	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1-inch	I-STATE
+
+3	B-QUANTITY
+cups	B-UNIT
+cooked	O
+rice	B-NAME
+-LRB-	O
+Make	B-STATE
+sure	I-STATE
+it	I-STATE
+is	I-STATE
+still	I-STATE
+HOT	I-STATE
+-RRB-	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+french	O
+'s	O
+classic	B-NAME
+yellow	I-NAME
+mustard	I-NAME
+or	O
+1/3	B-QUANTITY
+cup	B-UNIT
+honey	O
+mustard	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+light	O
+cream	B-NAME
+cheese	I-NAME
+
+pure	B-NAME
+vanilla	I-NAME
+extract	I-NAME
+-LRB-	O
+to	O
+taste	O
+-RRB-	O
+
+4	O
+-6	O
+tablespoons	B-UNIT
+butter	B-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+medium	B-SIZE
+zucchini	B-NAME
+,	O
+quartered	B-STATE
+and	I-STATE
+sliced	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+spaghetti	B-NAME
+sauce	I-NAME
+-LRB-	O
+homemade	O
+or	O
+store-bought	O
+like	O
+Prego	O
+-RRB-	O
+
+1	B-QUANTITY
+top	B-NAME
+sirloin	I-NAME
+beef	I-NAME
+roast	I-NAME
+,	O
+trimmed	B-STATE
+
+6	B-QUANTITY
+tablespoons	B-UNIT
+flavored	B-NAME
+breadcrumbs	I-NAME
+
+1	B-QUANTITY
+1/3	I-QUANTITY
+cups	B-UNIT
+coarse	B-NAME
+salt	I-NAME
+
+6	B-QUANTITY
+cups	B-UNIT
+fish	B-NAME
+stock	I-NAME
+or	O
+6	B-QUANTITY
+cups	B-UNIT
+water	O
+
+olive	B-NAME
+oil	I-NAME
+,	O
+to	O
+saute	O
+the	O
+chicken	O
+
+2	B-QUANTITY
+chilies	B-NAME
+,	O
+red	O
+or	O
+green	O
+seeded	B-STATE
+and	I-STATE
+minced	I-STATE
+
+1	B-QUANTITY
+package	B-UNIT
+frozen	B-STATE
+wax	B-NAME
+beans	I-NAME
+,	B-STATE
+,	I-STATE
+cooked	I-STATE
+and	I-STATE
+drained	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+salted	I-STATE
+cashews	B-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+cut	B-NAME
+wax	I-NAME
+beans	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+spicy	B-NAME
+bulk	I-NAME
+sausage	I-NAME
+-LRB-	O
+It	O
+made	O
+a	O
+big	O
+difference	O
+when	O
+we	O
+used	O
+Kroger	O
+'s	O
+brand	O
+.	O
+-RRB-	O
+
+1	B-QUANTITY
+baby	B-NAME
+chicken	I-NAME
+
+1	B-QUANTITY
+small	B-SIZE
+Spanish	B-NAME
+onion	I-NAME
+,	O
+chopped	B-STATE
+
+16	B-QUANTITY
+ounces	B-UNIT
+sauerkraut	B-NAME
+,	O
+drained	B-STATE
+
+200	B-QUANTITY
+g	B-UNIT
+cheese	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+maple	B-NAME
+sugar	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+fresh	O
+orange	B-NAME
+juice	B-FORM
+,	O
+preferably	O
+sour	O
+orange	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+elbow	B-NAME
+macaroni	I-NAME
+-LRB-	O
+uncooked	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+frozen	B-STATE
+plain	I-STATE
+French	B-NAME
+fries	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+pitted	B-STATE
+black	B-NAME
+olives	I-NAME
+
+600	B-QUANTITY
+ml	B-UNIT
+milk	B-NAME
+
+1	B-QUANTITY
+-2	O
+teaspoon	B-UNIT
+marjoram	B-NAME
+-LRB-	O
+Start	O
+with	O
+1	B-QUANTITY
+tsp.	O
+,	O
+let	O
+sauce	O
+cook	O
+a	O
+bit	O
+,	O
+taste	O
+and	O
+add	O
+more	O
+if	O
+desired	O
+.	O
+Sometimes	O
+I	O
+add	O
+up	O
+to	O
+3	O
+tsp	O
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+green	B-NAME
+beans	I-NAME
+-LRB-	O
+Fresh	O
+Blue	O
+Lake	O
+,	O
+Trimmed	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+ground	B-NAME
+beef	I-NAME
+,	O
+cooked	B-STATE
+
+1	B-QUANTITY
+refrigerated	B-STATE
+pie	B-NAME
+crust	I-NAME
+
+10	B-QUANTITY
+low-fat	B-NAME
+tortillas	I-NAME
+
+1	B-QUANTITY
+potato	B-NAME
+,	O
+boiled	B-STATE
+and	I-STATE
+grated	I-STATE
+
+3	B-QUANTITY
+lbs	B-UNIT
+boneless	O
+lamb	B-NAME
+shoulder	I-NAME
+,	O
+trimmed	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+1-inch	I-STATE
+pieces	I-STATE
+
+1	B-QUANTITY
+medium	B-SIZE
+zucchini	B-NAME
+,	O
+sliced	B-STATE
+into	I-STATE
+1	B-QUANTITY
+inch	B-STATE
+strips	I-STATE
+
+1/2	B-QUANTITY
+ounce	B-UNIT
+quick-rising	B-NAME
+yeast	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+reduced-sodium	B-STATE
+fat-free	I-STATE
+chicken	B-NAME
+broth	I-NAME
+or	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+vegetable	O
+broth	B-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+extra	B-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+,	O
+1	B-QUANTITY
+turn	O
+of	O
+the	O
+pan	O
+in	O
+a	O
+slow	O
+stream	O
+
+1	B-QUANTITY
+kg	B-UNIT
+water	O
+,	O
+with	O
+pork	B-NAME
+broth	I-NAME
+cubes	O
+or	O
+1	B-QUANTITY
+kg	B-UNIT
+pork	B-NAME
+broth	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+frozen	B-STATE
+cut	O
+green	B-NAME
+beans	I-NAME
+,	B-STATE
+thawed	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+queso	B-NAME
+fresco	I-NAME
+,	O
+shredded	B-STATE
+-LRB-	O
+can	O
+substitute	O
+with	O
+jack	O
+cheese	O
+-RRB-	O
+
+4	B-QUANTITY
+mushrooms	B-NAME
+,	O
+quartered	B-STATE
+
+1/2	B-QUANTITY
+kg	B-UNIT
+plain	B-NAME
+wheat	I-NAME
+flour	I-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+pineapple	B-NAME
+chunks	I-NAME
+,	O
+with	O
+juice	O
+
+5	B-QUANTITY
+medium	B-SIZE
+onions	B-NAME
+,	O
+peeled	O
+,	O
+washed	O
+and	O
+thinly	B-STATE
+sliced	I-STATE
+
+2	B-QUANTITY
+onions	B-NAME
+,	O
+1	B-STATE
+coarsely	I-STATE
+chopped	O
+,	O
+1	B-STATE
+quartered	I-STATE
+
+1	O
+-2	O
+tablespoon	B-UNIT
+raw	B-NAME
+sugar	I-NAME
+or	O
+1	O
+-2	O
+tablespoon	B-UNIT
+honey	O
+
+2	O
+-3	O
+drops	B-UNIT
+kewra	B-NAME
+essence	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+chickpeas	B-NAME
+-LRB-	O
+washed	O
+,	O
+picked	B-STATE
+over	I-STATE
+and	I-STATE
+soaked	I-STATE
+in	I-STATE
+2	I-STATE
+quarts	I-STATE
+water	I-STATE
+for	I-STATE
+six	I-STATE
+hours	I-STATE
+or	I-STATE
+overnight	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+of	O
+pitted	B-STATE
+green	B-NAME
+olives	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+fire	B-NAME
+oil	I-NAME
+,	O
+Mongolian	O
+-LRB-	O
+found	O
+in	O
+the	O
+asian	O
+section	O
+of	O
+your	O
+grocery	O
+store	O
+-RRB-	O
+
+1	B-QUANTITY
+butternut	B-NAME
+squash	I-NAME
+,	O
+peeled	O
+,	O
+seeded	O
+,	O
+cut	B-STATE
+lengthwise	I-STATE
+in	I-STATE
+quarters	O
+,	O
+then	B-STATE
+crosswise	I-STATE
+in	I-STATE
+1/2-inch-thick	I-STATE
+slices	O
+-LRB-	O
+about	B-STATE
+2	I-STATE
+1/2	I-STATE
+lbs	I-STATE
+-RRB-	O
+
+6	B-QUANTITY
+stalks	B-UNIT
+celery	B-NAME
+,	O
+finely	B-STATE
+diced	I-STATE
+
+4	B-QUANTITY
+chicken	B-NAME
+breasts	I-NAME
+or	O
+4	B-QUANTITY
+meat	O
+,	O
+of	O
+choice	O
+
+1	B-QUANTITY
+can	B-UNIT
+diced	B-STATE
+tomatoes	B-NAME
+,	O
+Italian-herb	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+fat-free	B-NAME
+Italian	I-NAME
+salad	I-NAME
+dressing	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+uncooked	B-STATE
+jasmine	B-NAME
+rice	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+fresh	O
+ginger	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+shredded	I-STATE
+
+HP	O
+steak	B-NAME
+sauce	I-NAME
+,	O
+to	O
+serve	O
+
+4	B-QUANTITY
+cups	B-UNIT
+cubed	B-STATE
+bread	B-NAME
+-LRB-	O
+about	O
+1/2	O
+lb	O
+.	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+green	B-NAME
+peppercorns	I-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+tomatillo	B-NAME
+,	O
+husked	O
+,	O
+washed	O
+,	O
+and	B-STATE
+roasted	I-STATE
+
+1	B-QUANTITY
+medium	B-SIZE
+onion	B-NAME
+,	O
+halved	B-STATE
+lengthwise	O
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+kg	B-UNIT
+potato	B-NAME
+,	O
+scrubbed	B-STATE
+and	I-STATE
+cubed	I-STATE
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+light	B-NAME
+soy	I-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+sake	B-NAME
+or	O
+1	B-QUANTITY
+teaspoon	B-UNIT
+white	O
+wine	O
+
+2-3	O
+tablespoons	B-UNIT
+dried	B-DF
+shiitake	B-NAME
+mushrooms	I-NAME
+,	O
+soaked	B-STATE
+and	I-STATE
+diced	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+gluten-free	B-NAME
+cereal	I-NAME
+,	O
+chex	O
+honey	O
+nut	O
+
+3/4	B-QUANTITY
+cup	B-UNIT
+dry	O
+white	B-NAME
+wine	I-NAME
+-LRB-	O
+sauvignon	O
+blanc	O
+works	O
+nicely	O
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+mushroom	B-NAME
+,	O
+stems	B-STATE
+discarded	O
+,	O
+caps	B-STATE
+thickly	I-STATE
+sliced	I-STATE
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+curry	B-NAME
+powder	I-NAME
+-LRB-	O
+I	O
+think	O
+this	O
+would	O
+work	O
+with	O
+almost	O
+any	O
+type	O
+but	O
+I	O
+used	O
+Madras	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+light	O
+corn	B-NAME
+syrup	I-NAME
+-LRB-	O
+Lyle	O
+'s	O
+Golden	O
+Syrup	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+slivered	B-NAME
+almonds	I-NAME
+,	O
+chopped	B-STATE
+fine	I-STATE
+
+200	B-QUANTITY
+ml	B-UNIT
+wine	B-NAME
+-LRB-	O
+white	O
+,	O
+dry	B-DF
+-RRB-	O
+
+1/2	B-QUANTITY
+lb	B-UNIT
+minute	B-NAME
+steaks	I-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+carrots	B-NAME
+,	O
+shredded	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+Thai	B-NAME
+red	I-NAME
+curry	I-NAME
+paste	I-NAME
+-LRB-	O
+for	O
+less	O
+heat	O
+use	O
+only	O
+1/4	O
+teaspoon	B-UNIT
+-RRB-	O
+
+1	B-QUANTITY
+dash	B-UNIT
+cayenne	B-NAME
+pepper	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+or	O
+1	B-QUANTITY
+dash	B-UNIT
+Tabasco	O
+sauce	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+1	I-QUANTITY
+teaspoon	B-UNIT
+sambal	B-NAME
+oelek	I-NAME
+chili	I-NAME
+paste	B-FORM
+or	O
+1	B-QUANTITY
+teaspoon	B-UNIT
+sriracha	O
+sauce	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+grated	B-STATE
+manchego	B-NAME
+cheese	I-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+cheddar	O
+cheese	B-NAME
+
+1/8	B-QUANTITY
+teaspoon	B-UNIT
+rosemary	B-NAME
+,	O
+ground	B-STATE
+
+5	B-QUANTITY
+ml	B-UNIT
+coarsely	B-STATE
+ground	I-STATE
+green	B-NAME
+peppercorns	I-NAME
+
+2	O
+-4	O
+ounces	B-UNIT
+monterey	B-NAME
+jack	I-NAME
+cheese	I-NAME
+or	O
+2	O
+-4	O
+ounces	B-UNIT
+cheddar	O
+cheese	B-NAME
+,	O
+in	O
+1	O
+inch	O
+by	O
+1/4	O
+inch	O
+sticks	O
+
+2	B-QUANTITY
+ounces	B-UNIT
+reduced-fat	O
+mozzarella	B-NAME
+cheese	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+dried	B-DF
+mushroom	B-NAME
+
+1	B-QUANTITY
+banana	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+circles	I-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+green	B-NAME
+peppers	I-NAME
+,	O
+diced	B-STATE
+
+500	B-QUANTITY
+g	B-UNIT
+pumpkin	B-NAME
+,	O
+butternut	B-STATE
+skin	I-STATE
+on	O
+,	O
+cut	B-STATE
+into	I-STATE
+3	I-STATE
+cm	I-STATE
+chunks	I-STATE
+
+1	B-QUANTITY
+orange	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+sliced	I-STATE
+thinly	I-STATE
+
+1	B-QUANTITY
+head	B-UNIT
+romaine	B-NAME
+lettuce	I-NAME
+,	O
+rinsed	O
+,	O
+dried	O
+&	O
+amp	O
+,	O
+shredded	B-STATE
+
+6	B-QUANTITY
+spring	B-NAME
+onions	I-NAME
+,	O
+trimmed	B-STATE
+
+4	B-QUANTITY
+ounces	B-UNIT
+water	B-NAME
+chestnuts	I-NAME
+,	O
+drained	B-STATE
+,	O
+sliced	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+6	B-QUANTITY
+ounces	B-UNIT
+bittersweet	B-NAME
+chocolate	I-NAME
+,	O
+coarsely	B-STATE
+grated	O
+-LRB-	O
+preferably	O
+60	O
+percent	O
+cocoa	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+red	B-NAME
+jalapeno	I-NAME
+chiles	I-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+anise	O
+or	O
+1	B-QUANTITY
+teaspoon	B-UNIT
+fennel	O
+seed	B-FORM
+,	O
+ground	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+curry	B-NAME
+powder	I-NAME
+-LRB-	O
+mine	O
+has	O
+a	O
+fairly	O
+heavy	O
+cinnamon	O
+note	O
+-RRB-	O
+
+1	B-QUANTITY
+3/4	I-QUANTITY
+cups	B-UNIT
+all-purpose	B-NAME
+flour	I-NAME
+,	O
+plus	O
+additional	O
+for	O
+the	O
+pan	O
+
+2	B-QUANTITY
+2/3	I-QUANTITY
+cups	B-UNIT
+grated	O
+Mexican	B-NAME
+blend	I-NAME
+cheese	I-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+sour	B-NAME
+cream	I-NAME
+,	O
+for	O
+topping	O
+
+6	B-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+pineapple	B-NAME
+juice	B-FORM
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+dried	O
+onion	B-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+lean	B-NAME
+stewing	I-NAME
+beef	I-NAME
+-LRB-	O
+seasoned	B-STATE
+and	I-STATE
+broiled	I-STATE
+til	I-STATE
+lighlty	O
+browned	B-STATE
+-RRB-	O
+
+2	O
+teaspoons	O
+maggi	O
+coconut	O
+milk	O
+powder	O
+
+2	B-QUANTITY
+medium	B-SIZE
+pomfret	B-NAME
+fish	I-NAME
+,	O
+cleaned	B-STATE
+and	I-STATE
+sliced	I-STATE
+
+other	B-NAME
+whole	I-NAME
+white	I-NAME
+fish	I-NAME
+,	O
+scaled	O
+,	O
+gutted	O
+,	O
+gills	B-STATE
+removed	I-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+dried	O
+tart	B-NAME
+cherry	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+thinly	B-STATE
+sliced	I-STATE
+cooked	I-STATE
+turkey	B-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+green	B-NAME
+chilies	I-NAME
+,	O
+2	O
+cans	O
+4	O
+ounce	O
+each	O
+-LRB-	O
+do	O
+not	O
+drain	O
+-RRB-	O
+
+1	B-QUANTITY
+ripe	B-NAME
+papaya	I-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+small	I-STATE
+cubes	O
+,	O
+seeds	B-STATE
+discarded	I-STATE
+
+1	B-QUANTITY
+onion	B-NAME
+,	O
+ground	B-STATE
+
+green	B-NAME
+peppercorn	I-NAME
+,	O
+ground	B-STATE
+
+15	O
+fresh	B-DF
+mint	B-NAME
+leaves	B-FORM
+,	O
+very	B-STATE
+finely	I-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+cans	B-UNIT
+Rotel	B-NAME
+tomatoes	I-NAME
+&	I-NAME
+chilies	I-NAME
+
+200	B-QUANTITY
+g	B-UNIT
+whole	B-NAME
+meal	I-NAME
+bread	I-NAME
+
+1	B-QUANTITY
+box	B-UNIT
+penne	B-NAME
+pasta	I-NAME
+,	O
+cooked	B-STATE
+and	I-STATE
+drained	I-STATE
+-LRB-	O
+or	O
+any	O
+tube	O
+shaped	O
+pasta	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+green	B-NAME
+onion	I-NAME
+-LRB-	O
+chopped	B-STATE
+fine	I-STATE
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+ricotta	B-NAME
+cheese	I-NAME
+
+3	B-QUANTITY
+cooked	B-STATE
+potatoes	B-NAME
+,	B-STATE
+in	I-STATE
+chunks	I-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+prime	B-NAME
+rib	I-NAME
+roast	I-NAME
+
+1/2	B-QUANTITY
+ripe	B-NAME
+avocado	I-NAME
+,	O
+halved	O
+,	O
+pitted	O
+and	B-STATE
+chopped	I-STATE
+
+14	B-QUANTITY
+ounces	B-UNIT
+shredded	B-STATE
+coleslaw	B-NAME
+mix	I-NAME
+-LRB-	O
+from	O
+bag	O
+-RRB-	O
+
+pear	B-NAME
+,	O
+wedges	B-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+chopped	B-STATE
+macadamia	B-NAME
+nuts	B-FORM
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+grated	B-STATE
+orange	B-NAME
+zest	I-NAME
+-LRB-	O
+wash	O
+orange	B-NAME
+well	O
+before	O
+-RRB-	O
+
+8	B-QUANTITY
+ounces	B-UNIT
+fresh	O
+strawberries	B-NAME
+,	O
+hulled	B-STATE
+and	I-STATE
+sliced	I-STATE
+lengthwise	I-STATE
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+vietnamese	O
+fish	B-NAME
+sauce	I-NAME
+
+60	B-QUANTITY
+g	B-UNIT
+bacon	B-NAME
+or	O
+60	B-QUANTITY
+g	B-UNIT
+pancetta	O
+,	O
+chopped	B-STATE
+
+1/2	B-QUANTITY
+small	B-SIZE
+butternut	B-NAME
+squash	I-NAME
+,	O
+cubed	B-STATE
+
+1	B-QUANTITY
+large	B-SIZE
+papaya	B-NAME
+-LRB-	O
+peeled	O
+,	O
+seeded	O
+and	O
+sliced	B-STATE
+thin	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+package	B-UNIT
+refrigerated	O
+basil	B-NAME
+and	I-NAME
+cheese	I-NAME
+tortellini	I-NAME
+,	O
+uncooked	B-STATE
+
+2	B-QUANTITY
+cans	B-UNIT
+refrigerated	B-STATE
+breadstick	B-NAME
+dough	I-NAME
+
+some	O
+demerara	B-NAME
+sugar	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+5	B-QUANTITY
+ounces	B-UNIT
+bamboo	B-NAME
+shoots	I-NAME
+-LRB-	O
+one	O
+can	O
+drained	B-STATE
+,	O
+rinsed	B-STATE
+well	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+pasteurized	B-STATE
+egg	B-NAME
+whites	I-NAME
+
+1/8	B-QUANTITY
+teaspoon	B-UNIT
+caraway	B-NAME
+seed	B-FORM
+,	O
+crushed	B-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+diced	I-STATE
+ham	O
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+bacon	O
+
+2	B-QUANTITY
+cups	B-UNIT
+shredded	B-STATE
+cheddar	B-NAME
+cheese	I-NAME
+,	O
+divide	O
+-LRB-	O
+or	O
+Monterrey	O
+jack	O
+-RRB-	O
+
+8	B-QUANTITY
+shiitake	B-NAME
+mushrooms	I-NAME
+,	O
+roughly	B-STATE
+chopped	I-STATE
+
+12	B-QUANTITY
+ounces	B-UNIT
+block	O
+firm	B-NAME
+silken	I-NAME
+tofu	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2-inch	I-STATE
+cubes	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+turkey	B-NAME
+sausage	I-NAME
+,	O
+italian	O
+links	B-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+lemon	B-NAME
+&	I-NAME
+herb	I-NAME
+seasoning	I-NAME
+
+24	B-QUANTITY
+ounces	B-UNIT
+beef	B-NAME
+stock	I-NAME
+-LRB-	O
+beef	B-NAME
+base	O
++	O
+H2O	O
+-RRB-	O
+
+1	B-QUANTITY
+sweet	B-NAME
+red	I-NAME
+pepper	I-NAME
+,	O
+cored	O
+,	O
+seeded	O
+,	O
+and	B-STATE
+cut	I-STATE
+into	I-STATE
+1/2-inch	I-STATE
+dice	I-STATE
+
+3/4	B-QUANTITY
+lb	B-UNIT
+asparagus	B-NAME
+,	O
+cooked	O
+,	O
+cooled	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+pieces	I-STATE
+
+25	O
+g	B-UNIT
+dried	B-DF
+apricots	B-NAME
+,	O
+chopped	B-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+swiss	O
+gruyere	O
+cheese	B-NAME
+,	O
+grated	B-STATE
+
+4	B-QUANTITY
+large	B-SIZE
+eggs	B-NAME
+,	O
+seperated	O
+
+50	B-QUANTITY
+ml	B-UNIT
+white	B-NAME
+wine	I-NAME
+
+1/3	B-QUANTITY
+cup	B-UNIT
+dried	B-DF
+onion	B-NAME
+flakes	B-FORM
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+mustard	B-NAME
+oil	I-NAME
+-LRB-	O
+or	O
+other	O
+-RRB-	O
+
+3	B-QUANTITY
+cups	B-UNIT
+diced	B-STATE
+potatoes	B-NAME
+-LRB-	O
+diced	B-STATE
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+green	B-NAME
+bell	I-NAME
+pepper	I-NAME
+-LRB-	O
+or	O
+jalapeno	O
+,	O
+etc	O
+.	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+macaroni	B-NAME
+noodles	I-NAME
+
+penne	B-NAME
+
+1/2	B-QUANTITY
+navel	B-NAME
+orange	I-NAME
+,	O
+juice	B-FORM
+of	O
+
+4	B-QUANTITY
+slices	B-UNIT
+firm	B-NAME
+white	I-NAME
+bread	I-NAME
+,	O
+processed	B-STATE
+in	I-STATE
+blender	I-STATE
+to	I-STATE
+make	I-STATE
+crumbs	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+almonds	B-NAME
+,	O
+toasted	O
+,	O
+coarsely	B-STATE
+ground	I-STATE
+
+200	B-QUANTITY
+g	B-UNIT
+sugar	B-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+queso	B-NAME
+fresco	I-NAME
+-LRB-	O
+queso	B-NAME
+blanco	O
+,	O
+farmers	O
+cheese	O
+,	O
+or	O
+other	O
+fresh	O
+,	O
+unaged	O
+white	O
+cheese	O
+-RRB-	O
+
+1	B-QUANTITY
+red	B-NAME
+chili	I-NAME
+pepper	I-NAME
+,	O
+deveined	B-STATE
+-LRB-	O
+Fresh	O
+red	B-NAME
+chilli	O
+-RRB-	O
+
+3	B-QUANTITY
+avocados	B-NAME
+-LRB-	O
+chopped	B-STATE
+into	I-STATE
+bite	I-STATE
+size	I-STATE
+pieces	I-STATE
+-RRB-	O
+
+grated	B-STATE
+parmesan	B-NAME
+cheese	I-NAME
+or	O
+grated	B-STATE
+romano	O
+cheese	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+green	B-NAME
+peppers	I-NAME
+,	O
+sliced	B-STATE
+thinly	I-STATE
+
+powdered	B-STATE
+sugar	B-NAME
+,	O
+to	O
+dredge	O
+cookies	O
+
+350	B-QUANTITY
+g	B-UNIT
+rump	B-NAME
+steak	I-NAME
+,	O
+finely	B-STATE
+sliced	I-STATE
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+dill	B-NAME
+,	O
+chopped	B-STATE
+
+5	B-QUANTITY
+-6	I-QUANTITY
+cucumbers	B-NAME
+
+2	B-QUANTITY
+medium	B-UNIT
+celery	B-NAME
+ribs	I-NAME
+,	O
+chopped	B-STATE
+fine	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+vanilla	B-NAME
+yogurt	I-NAME
+
+sparkling	B-NAME
+water	I-NAME
+-LRB-	O
+or	O
+bottled	O
+fruit	O
+spritzer	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+rice	B-NAME
+vinegar	I-NAME
+-LRB-	O
+available	O
+in	O
+most	O
+supermarkets	O
+or	O
+Asian	O
+stores	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+white	B-NAME
+wine	I-NAME
+-LRB-	O
+I	O
+prefer	O
+red	O
+,	O
+original	O
+recipe	O
+calls	O
+for	O
+white	B-NAME
+-RRB-	O
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+red	O
+wine	B-NAME
+-LRB-	O
+I	O
+prefer	O
+red	O
+,	O
+original	O
+recipe	O
+calls	O
+for	O
+white	B-NAME
+-RRB-	O
+
+2	B-QUANTITY
+spring	B-NAME
+roll	I-NAME
+wrappers	I-NAME
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+dry	O
+pizza	B-NAME
+seasoning	I-NAME
+
+3	B-QUANTITY
+scallions	B-NAME
+,	O
+sliced	B-STATE
+thinly	I-STATE
+,	O
+sprinkled	O
+with	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+crumbled	B-STATE
+gorgonzola	B-NAME
+-LRB-	O
+dont	O
+'	O
+substitute	O
+anything	O
+else	O
+-RRB-	O
+
+2	B-QUANTITY
+large	B-SIZE
+red	B-NAME
+onions	I-NAME
+,	O
+peeled	O
+,	O
+cut	B-STATE
+in	I-STATE
+half	O
+and	B-STATE
+thinly	I-STATE
+sliced	I-STATE
+
+non	B-NAME
+stick	I-NAME
+aluminum	I-NAME
+foil	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+broccoli	B-NAME
+floret	I-NAME
+,	O
+rinsed	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+1-inch	I-STATE
+pieces	I-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+fresh	O
+lemon	B-NAME
+juice	B-FORM
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+minced	B-STATE
+gingerroot	B-NAME
+
+3	B-QUANTITY
+lbs	B-UNIT
+mussels	B-NAME
+,	O
+well	B-STATE
+scrubbed	I-STATE
+and	I-STATE
+beards	I-STATE
+removed	I-STATE
+
+6	B-QUANTITY
+cups	B-UNIT
+fresh	O
+peaches	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+sliced	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+ground	B-STATE
+white	B-NAME
+pepper	I-NAME
+
+1	B-QUANTITY
+small	B-SIZE
+yellow	B-NAME
+onion	I-NAME
+,	O
+1/4-inch	O
+diced	B-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+carrots	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2	I-STATE
+inch	I-STATE
+slices	I-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+cumin	B-NAME
+seed	O
+-LRB-	O
+jeera	O
+-RRB-	O
+
+2	B-QUANTITY
+large	B-SIZE
+egg	B-NAME
+whites	I-NAME
+,	O
+lightly	B-STATE
+beaten	I-STATE
+
+6	B-QUANTITY
+juniper	B-NAME
+berries	I-NAME
+,	O
+slightly	B-STATE
+crushed	I-STATE
+
+6	B-QUANTITY
+bay	B-NAME
+leaves	B-FORM
+,	O
+broken	B-STATE
+in	I-STATE
+half	I-STATE
+for	I-STATE
+more	I-STATE
+flavour	I-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+oregano	O
+or	O
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+italian	O
+seasoning	O
+,	O
+crushed	B-STATE
+
+1	B-QUANTITY
+ounce	B-UNIT
+melon	B-NAME
+liqueur	I-NAME
+,	O
+like	O
+Midori	O
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+chicken	B-NAME
+thighs	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1-inch	I-STATE
+cubes	I-STATE
+-LRB-	O
+boneless	O
+,	O
+skinless	O
+-RRB-	O
+
+1/2	B-QUANTITY
+carrot	B-NAME
+,	O
+medium	O
+dice	O
+
+3	B-QUANTITY
+medium	B-SIZE
+onions	B-NAME
+-LRB-	O
+chopped	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+bunch	B-UNIT
+parsley	B-NAME
+,	O
+tied	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+boneless	B-STATE
+beef	B-NAME
+top	I-NAME
+sirloin	I-NAME
+steaks	I-NAME
+-LRB-	O
+grilling	O
+steak	O
+-RRB-	O
+or	O
+1	B-QUANTITY
+lb	B-UNIT
+boneless	B-STATE
+strip	O
+steak	O
+-LRB-	O
+grilling	O
+steak	O
+-RRB-	O
+
+1	B-QUANTITY
+1/3	I-QUANTITY
+cups	B-UNIT
+fresh	B-DF
+spinach	B-NAME
+leaves	B-FORM
+,	O
+chopped	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+fresh	O
+oregano	B-NAME
+leaves	B-FORM
+
+1/4	B-QUANTITY
+cup	B-UNIT
+mushroom	B-NAME
+,	O
+sliced	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+crushed	B-STATE
+coriander	B-NAME
+
+48	B-QUANTITY
+48	I-QUANTITY
+ounces	B-UNIT
+sirloin	B-NAME
+or	O
+48	B-QUANTITY
+ounces	B-UNIT
+flank	O
+steaks	O
+,	O
+would	O
+work	O
+as	O
+well	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+silken	B-NAME
+tofu	I-NAME
+
+prepared	B-NAME
+mustard	I-NAME
+
+1	B-QUANTITY
+jar	B-UNIT
+pasta	B-NAME
+sauce	I-NAME
+-LRB-	O
+or	O
+spaghetti	O
+sauce	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+msg	B-NAME
+or	O
+1	B-QUANTITY
+teaspoon	B-UNIT
+sugar	O
+
+12	B-QUANTITY
+pickled	O
+plums	B-NAME
+,	O
+rinsed	B-STATE
+drained	I-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+white	B-NAME
+button	I-NAME
+mushrooms	I-NAME
+,	O
+brushed	B-STATE
+clean	I-STATE
+and	I-STATE
+thinly	I-STATE
+sliced	I-STATE
+
+40	B-QUANTITY
+ml	B-UNIT
+olive	B-NAME
+oil	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+flank	B-NAME
+steaks	I-NAME
+,	O
+sliced	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+cilantro	B-NAME
+,	O
+chopped	O
+,	O
+plus	B-STATE
+more	I-STATE
+to	I-STATE
+serve	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+mixed	O
+white	B-NAME
+and	I-NAME
+black	I-NAME
+sesame	I-NAME
+seeds	B-FORM
+
+1/4	B-QUANTITY
+cup	B-UNIT
+mild	B-NAME
+soft	I-NAME
+fresh	B-DF
+goat	B-NAME
+cheese	I-NAME
+
+to	O
+taste	O
+peanuts	B-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+dry	B-DF
+sherry	B-NAME
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+rice	O
+wine	O
+
+1	B-QUANTITY
+package	B-UNIT
+frozen	O
+baby	B-NAME
+lima	I-NAME
+beans	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+cleaned	B-STATE
+squid	B-NAME
+,	B-STATE
+bodies	I-STATE
+sliced	I-STATE
+crosswise	I-STATE
+into	I-STATE
+1/4-inch-wide	I-STATE
+rings	I-STATE
+and	I-STATE
+tentacles	I-STATE
+cut	I-STATE
+into	I-STATE
+pieces	I-STATE
+if	I-STATE
+large	I-STATE
+
+50	B-QUANTITY
+g	B-UNIT
+walnuts	B-NAME
+,	O
+roasted	B-STATE
+and	I-STATE
+finely	I-STATE
+ground	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+soup	B-NAME
+stock	I-NAME
+,	O
+Kikkoman	O
+Memmi	O
+Noodle	O
+Soup	O
+Base	O
+
+2-3	O
+anchovies	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+12	B-QUANTITY
+tablespoons	B-UNIT
+lard	B-NAME
+or	O
+12	B-QUANTITY
+tablespoons	B-UNIT
+vegetable	O
+shortening	O
+,	O
+chilled	B-STATE
+
+6	B-QUANTITY
+-8	O
+saffron	B-NAME
+strands	I-NAME
+,	O
+soaked	B-STATE
+in	I-STATE
+2	I-STATE
+tsp	I-STATE
+boiling	I-STATE
+water	I-STATE
+
+1/2	B-QUANTITY
+can	B-UNIT
+chicken	B-NAME
+broth	I-NAME
+-LRB-	O
+regular	O
+strength	O
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+healthy	O
+choice	O
+low-fat	B-STATE
+low-sodium	O
+chicken	B-NAME
+and	I-NAME
+rice	I-NAME
+soup	I-NAME
+-LRB-	O
+undiluted	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+beefsteak	B-NAME
+tomato	I-NAME
+,	O
+finely	B-STATE
+sliced	I-STATE
+
+relish	B-NAME
+
+10	B-QUANTITY
+fluid	B-UNIT
+ounces	I-UNIT
+plain	B-NAME
+yogurt	I-NAME
+
+12	B-QUANTITY
+ounces	B-UNIT
+hershey	O
+'s	O
+milk	B-NAME
+chocolate	I-NAME
+chips	I-NAME
+
+10	B-QUANTITY
+ounces	B-UNIT
+snow	B-NAME
+peas	I-NAME
+,	O
+ends	B-STATE
+trimmed	I-STATE
+and	I-STATE
+strings	I-STATE
+removed	I-STATE
+-LRB-	O
+about	O
+4	O
+cups	O
+-RRB-	O
+
+2	B-QUANTITY
+-3	I-QUANTITY
+avocados	B-NAME
+-LRB-	O
+ripe	O
+to	O
+very	O
+ripe	O
+-RRB-	O
+
+8	B-QUANTITY
+hard-boiled	B-NAME
+eggs	I-NAME
+,	O
+chopped	B-STATE
+
+4	B-QUANTITY
+hamburger	B-NAME
+buns	I-NAME
+,	O
+split	B-STATE
+&	I-STATE
+toasted	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+parsley	B-NAME
+-LRB-	O
+or	O
+2	O
+tablespoons	O
+dried	O
+parsley	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+vanilla	B-NAME
+essence	I-NAME
+-LRB-	O
+or	O
+a	O
+little	O
+less	O
+extract	O
+-RRB-	O
+
+400	B-QUANTITY
+g	B-UNIT
+beans	B-NAME
+,	O
+drained	B-STATE
+&	I-STATE
+rinsed	I-STATE
+-LRB-	O
+four	O
+bean	O
+mix	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+pink	B-NAME
+peppercorns	I-NAME
+or	O
+1	B-QUANTITY
+teaspoon	B-UNIT
+cracked	O
+black	O
+pepper	O
+,	O
+to	O
+taste	O
+
+500	B-QUANTITY
+g	B-UNIT
+sweet	B-NAME
+potatoes	I-NAME
+
+2	B-QUANTITY
+large	B-SIZE
+red	B-NAME
+chilies	I-NAME
+,	O
+finely	B-STATE
+sliced	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chili	B-NAME
+powder	I-NAME
+-LRB-	O
+pref	O
+.	O
+New	O
+Mexico	O
+-RRB-	O
+
+1/2	B-QUANTITY
+tablespoon	B-UNIT
+fish	B-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+fresh	B-DF
+tomatillo	B-NAME
+,	O
+husks	B-STATE
+removed	I-STATE
+
+8	B-QUANTITY
+teaspoons	B-UNIT
+snipped	B-STATE
+fresh	B-DF
+cilantro	B-NAME
+
+1	B-QUANTITY
+the	O
+lime	B-NAME
+,	O
+juice	B-FORM
+of	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+potato	B-NAME
+flour	I-NAME
+
+thinly	B-STATE
+sliced	I-STATE
+tomatoes	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+heavy	B-NAME
+cream	I-NAME
+or	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+whipping	O
+cream	B-NAME
+
+1	O
+-3	O
+cup	B-UNIT
+cheese	B-NAME
+-LRB-	O
+grated	B-STATE
+-RRB-	O
+
+6	B-QUANTITY
+leaves	B-UNIT
+mace	B-NAME
+,	O
+ground	B-STATE
+
+2	B-QUANTITY
+small	B-SIZE
+jalapenos	B-NAME
+,	O
+seeded	B-STATE
+&	I-STATE
+diced	I-STATE
+finely	I-STATE
+
+2	B-QUANTITY
+serrano	B-NAME
+chilies	I-NAME
+,	O
+seeded	O
+,	O
+minced	B-STATE
+
+1	B-QUANTITY
+package	B-UNIT
+frozen	B-STATE
+corn	B-NAME
+kernels	I-NAME
+,	B-STATE
+thawed	I-STATE
+and	I-STATE
+drained	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+minced	B-STATE
+parsley	B-NAME
+or	O
+1	O
+teaspoon	O
+dried	O
+parsley	B-NAME
+
+1/4	B-QUANTITY
+-	I-QUANTITY
+1/2	I-QUANTITY
+cup	B-UNIT
+sambal	B-NAME
+oelek	I-NAME
+-LRB-	O
+chili	O
+paste	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+small	B-SIZE
+dried	B-DF
+shrimp	B-NAME
+
+3	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+chuck	I-NAME
+,	O
+roast	O
+,	O
+trimmed	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+2	I-STATE
+inch	I-STATE
+chucks	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+peanuts	B-NAME
+,	O
+ground	B-STATE
+
+2	B-QUANTITY
+lbs	B-UNIT
+lean	B-NAME
+ground	B-FORM
+beef	B-NAME
+-LRB-	O
+or	B-STATE
+can	I-STATE
+use	I-STATE
+ground	B-FORM
+turkey	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+dark	B-NAME
+brown	I-NAME
+sugar	I-NAME
+-LRB-	O
+Mexican	O
+panocha	O
+sugar	B-NAME
+,	O
+also	O
+known	O
+as	O
+piloncillo	O
+is	O
+what	O
+I	O
+use	O
+for	O
+this	O
+recipe	O
+-RRB-	O
+
+3	B-QUANTITY
+mint	B-NAME
+leaves	B-FORM
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+garlic	B-NAME
+,	O
+minced	B-STATE
+fresh	B-DF
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+orange	B-NAME
+zest	I-NAME
+,	O
+Finely	B-STATE
+Chopped	I-STATE
+
+24	B-QUANTITY
+little	B-NAME
+sweet	I-NAME
+peppers	I-NAME
+,	O
+tops	B-STATE
+cut	I-STATE
+off	O
+,	O
+seeded	B-STATE
+-LRB-	O
+save	O
+tops	B-STATE
+-RRB-	O
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+fresh	B-DF
+ground	O
+pepper	B-NAME
+,	O
+depending	B-STATE
+on	I-STATE
+taste	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+powdered	B-STATE
+sugar	B-NAME
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+
+pepper	B-NAME
+-LRB-	O
+as	O
+needed	O
+-RRB-	O
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+dark	B-NAME
+beer	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+lemon	B-NAME
+juice	B-FORM
+-LRB-	O
+fresh	B-DF
+-RRB-	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+minced	O
+fresh	O
+parsley	B-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+lean	B-NAME
+hamburger	I-NAME
+-LRB-	O
+veggie	O
+burger	O
+can	O
+be	O
+used	O
+-RRB-	O
+
+4	B-QUANTITY
+cups	B-UNIT
+white	B-NAME
+rice	I-NAME
+,	O
+steamed	B-STATE
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+light	O
+soy	B-NAME
+sauce	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+grated	B-STATE
+Fontina	B-NAME
+cheese	I-NAME
+
+400	B-QUANTITY
+g	B-UNIT
+orzo	B-NAME
+pasta	I-NAME
+
+1/2	B-QUANTITY
+pint	B-UNIT
+cherry	B-NAME
+tomatoes	I-NAME
+,	O
+quartered	B-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+lettuce	B-NAME
+leaves	B-FORM
+,	O
+torn	B-STATE
+to	I-STATE
+fit	I-STATE
+tortillas	I-STATE
+
+gochujang	B-NAME
+,	O
+sauce	B-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+fine	B-NAME
+coconut	I-NAME
+-LRB-	O
+shredded	O
+if	O
+you	O
+prefer	O
+-RRB-	O
+
+175	B-QUANTITY
+g	B-UNIT
+thread	B-NAME
+egg	I-NAME
+noodles	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+celery	B-NAME
+-LRB-	O
+chopped	B-STATE
+in	I-STATE
+1	I-STATE
+inch	I-STATE
+pieces	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+small	B-SIZE
+onion	B-NAME
+,	O
+unpeeled	B-STATE
+quartered	I-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+diced	O
+tomatoes	B-NAME
+with	I-NAME
+juice	I-NAME
+-LRB-	O
+concasse	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+kg	B-UNIT
+plain	B-NAME
+flour	I-NAME
+-LRB-	O
+all-purpose	O
+?	O
+-RRB-	O
+
+6	B-QUANTITY
+-8	O
+large	B-SIZE
+zucchini	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+coins	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+garlic	B-NAME
+sprouts	I-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+chives	O
+
+2	B-QUANTITY
+green	B-NAME
+onions	I-NAME
+,	O
+stalks	B-STATE
+chopped	I-STATE
+fine	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+rice	B-NAME
+,	O
+cooked	B-STATE
+and	I-STATE
+hot	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+crushed	B-STATE
+peanuts	B-NAME
+-LRB-	O
+I	O
+like	O
+them	O
+roasted	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+parsnip	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+coarsely	I-STATE
+grated	I-STATE
+
+2	B-QUANTITY
+bunches	B-UNIT
+cilantro	B-NAME
+,	O
+chopped	B-STATE
+coarsely	I-STATE
+
+5	B-QUANTITY
+cups	B-UNIT
+chicken	B-NAME
+broth	I-NAME
+-LRB-	O
+if	O
+you	O
+want	O
+it	O
+thicker	O
+,	O
+reduce	O
+to	O
+4	O
+cups	B-UNIT
+-RRB-	O
+
+3	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+chopped	B-STATE
+and	I-STATE
+bashed	I-STATE
+a	I-STATE
+bit	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+kielbasa	B-NAME
+,	O
+sliced	B-STATE
+diagonally	I-STATE
+in	I-STATE
+1/8	I-STATE
+inch	I-STATE
+slices	I-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+corn	B-NAME
+oil	I-NAME
+
+400	B-QUANTITY
+ml	B-UNIT
+fresh	B-DF
+cream	B-NAME
+
+2	B-QUANTITY
+ounces	B-UNIT
+dried	B-DF
+mushrooms	B-NAME
+-LRB-	O
+preferably	O
+porcini	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+shiitake	B-NAME
+mushroom	I-NAME
+,	O
+sliced	B-STATE
+1/4	I-STATE
+inch	I-STATE
+thick	I-STATE
+
+1	B-QUANTITY
+poblano	B-NAME
+pepper	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+matchsticks	I-STATE
+-LRB-	O
+or	O
+substitute	O
+another	O
+bell	O
+pepper	B-NAME
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+olives	B-NAME
+or	O
+1/4	B-QUANTITY
+cup	B-UNIT
+corn	O
+oil	O
+
+4	B-QUANTITY
+slices	B-UNIT
+buttered	B-STATE
+toast	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+of	O
+your	O
+favorite	O
+dry	O
+red	B-NAME
+wine	I-NAME
+-LRB-	O
+Shiraz	O
+or	O
+Syrah	O
+pairs	O
+best	O
+with	O
+red	B-NAME
+pasta	O
+sauces	O
+-RRB-	O
+
+0.5	B-QUANTITY
+can	B-UNIT
+pasta	B-NAME
+sauce	I-NAME
+with	I-NAME
+meat	I-NAME
+-LRB-	O
+for	O
+pasta	B-NAME
+-RRB-	O
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+chopped	B-STATE
+Italian	B-NAME
+parsley	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+flank	B-NAME
+steak	I-NAME
+,	O
+sliced	B-STATE
+thin	I-STATE
+across	I-STATE
+the	I-STATE
+grain	I-STATE
+
+4	B-QUANTITY
+slices	B-UNIT
+kraft	O
+singles	O
+American	B-NAME
+cheese	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+pear	B-NAME
+juice	B-FORM
+,	O
+chilled	B-STATE
+
+4	B-QUANTITY
+pieces	B-UNIT
+chicken	B-NAME
+,	O
+poached	B-STATE
+and	I-STATE
+sliced	I-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+strips	I-STATE
+
+1/4	B-QUANTITY
+lb	B-UNIT
+pepperoni	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+chunks	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+heads	B-UNIT
+garlic	B-NAME
+,	O
+peeled	O
+,	O
+large	B-STATE
+cloves	I-STATE
+halved	I-STATE
+-LRB-	O
+yes	O
+,	O
+heads	B-UNIT
+-RRB-	O
+
+4	B-QUANTITY
+yukon	B-NAME
+gold	I-NAME
+potatoes	I-NAME
+-LRB-	O
+peeled	B-STATE
+and	I-STATE
+cubed	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+dried	B-DF
+oregano	B-NAME
+,	O
+Mexican	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+seedless	B-NAME
+raspberry	I-NAME
+all-fruit	I-NAME
+jam	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+leek	B-NAME
+,	O
+sliced	B-STATE
+diagonally	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+part-skim	B-NAME
+mozzarella	I-NAME
+cheese	I-NAME
+
+6	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+orange	B-NAME
+juice	B-FORM
+
+1	B-QUANTITY
+package	B-UNIT
+apple	B-NAME
+tart	I-NAME
+mix	I-NAME
+-LRB-	O
+store	O
+bought	O
+,	O
+Sweet	O
+Tart	O
+Crust	O
+or	O
+your	O
+own	O
+recipe	O
+-RRB-	O
+
+2	B-QUANTITY
+green	B-NAME
+onions	I-NAME
+,	O
+sliced	B-STATE
+,	O
+if	O
+desired	O
+
+3	B-QUANTITY
+tablespoons	O
+irish	B-NAME
+cream	I-NAME
+or	O
+3	B-QUANTITY
+tablespoons	O
+Torani	O
+irish	B-NAME
+cream	I-NAME
+syrup	O
+
+750	B-QUANTITY
+milliliters	O
+white	B-NAME
+wine	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+active	O
+dry	O
+yeast	B-NAME
+,	O
+10	O
+ml	O
+
+10	O
+-15	O
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+separated	B-STATE
+but	I-STATE
+unpeeled	I-STATE
+
+1	B-QUANTITY
+medium	B-SIZE
+tomatoes	B-NAME
+,	O
+seeded	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+pecorino	O
+romano	O
+cheese	B-NAME
+
+3	B-QUANTITY
+tomatoes	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+medium	B-SIZE
+sweet	B-NAME
+onions	I-NAME
+,	O
+chopped	B-STATE
+
+shredded	B-STATE
+red	O
+radishes	B-NAME
+or	O
+white	O
+radish	O
+
+5	B-QUANTITY
+tablespoons	B-UNIT
+korean	O
+red	B-NAME
+pepper	I-NAME
+flakes	B-FORM
+
+3	B-QUANTITY
+cups	B-UNIT
+shredded	O
+Fontina	B-NAME
+cheese	I-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+1	I-QUANTITY
+tablespoon	B-UNIT
+garlic	B-NAME
+paste	I-NAME
+or	O
+2	B-SIZE
+-3	O
+garlic	B-NAME
+cloves	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+garlic	B-NAME
+and	I-NAME
+herb	I-NAME
+seasoning	I-NAME
+
+1	B-QUANTITY
+ounce	B-UNIT
+peanut	B-NAME
+butter	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+-LRB-	O
+grated	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+onion	B-NAME
+,	O
+chopped	B-STATE
+,	O
+to	O
+taste	O
+
+140	B-QUANTITY
+g	B-UNIT
+cassava	B-NAME
+-LRB-	O
+Flour	O
+-RRB-	O
+
+4	B-QUANTITY
+large	B-SIZE
+sweet	B-NAME
+onions	I-NAME
+-LRB-	O
+such	O
+as	O
+Vidalia	O
+,	O
+Walla	O
+Walla	O
+,	O
+or	O
+Oso	O
+Sweet	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+light	O
+corn	B-NAME
+syrup	I-NAME
+
+15	B-QUANTITY
+ml	B-UNIT
+Frangelico	B-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+cooked	B-NAME
+long-grain	I-NAME
+rice	I-NAME
+,	O
+cold	B-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+blackening	B-NAME
+seasoning	I-NAME
+-LRB-	O
+more	O
+or	O
+less	O
+to	O
+taste	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+cilantro	B-NAME
+-LRB-	O
+chopped	B-STATE
+-RRB-	O
+
+1	O
+-2	O
+tablespoon	B-UNIT
+honey	B-NAME
+or	O
+1	O
+-2	O
+tablespoon	B-UNIT
+sugar	O
+
+1/4	B-QUANTITY
+-	I-QUANTITY
+1/3	I-QUANTITY
+cup	B-UNIT
+grated	B-STATE
+parmesan	B-NAME
+cheese	I-NAME
+
+1	B-QUANTITY
+kg	B-UNIT
+minced	B-STATE
+mutton	B-NAME
+
+1	B-QUANTITY
+egg	B-NAME
+,	O
+beaten	B-STATE
+to	I-STATE
+blend	I-STATE
+-glaze-	O
+
+6	B-QUANTITY
+red	B-NAME
+potatoes	I-NAME
+,	O
+washed	O
+cut	B-STATE
+into	I-STATE
+1	I-STATE
+inch	I-STATE
+pieces	I-STATE
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+tapioca	B-NAME
+
+Chambord	B-NAME
+raspberry	I-NAME
+liquor	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+3	B-QUANTITY
+cups	B-UNIT
+cooked	B-STATE
+elbow	B-NAME
+macaroni	I-NAME
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+chat	B-NAME
+masala	I-NAME
+-LRB-	O
+available	O
+in	O
+any	O
+Indian	O
+Grocery	O
+store	O
+-RRB-	O
+
+fresh	B-DF
+milk	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+sweet	B-NAME
+cherries	I-NAME
+,	O
+pitted	B-STATE
+-LRB-	O
+about	O
+6	O
+oz	O
+.	O
+-RRB-	O
+
+peanut	B-NAME
+oil	I-NAME
+-LRB-	O
+for	O
+deep	O
+frying	O
+-RRB-	O
+
+1	B-QUANTITY
+mango	B-NAME
+,	O
+fresh	B-DF
+
+300	B-QUANTITY
+ml	B-UNIT
+cream	B-NAME
+or	O
+300	B-QUANTITY
+ml	B-UNIT
+light	O
+cream	B-NAME
+
+2	B-QUANTITY
+medium	B-SIZE
+bay	B-NAME
+leaves	B-FORM
+
+1	B-QUANTITY
+whole	B-UNIT
+chickens	B-NAME
+,	O
+whole	B-UNIT
+chopped	B-STATE
+into	I-STATE
+12	I-STATE
+chicken	I-STATE
+thighs	I-STATE
+,	O
+and	B-STATE
+cutlets	I-STATE
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+chopped	B-STATE
+up	I-STATE
+finely	I-STATE
+
+5	B-QUANTITY
+teaspoons	B-UNIT
+coffee	B-NAME
+,	O
+freshly	B-STATE
+ground	I-STATE
+
+5	B-QUANTITY
+cups	B-UNIT
+baby	B-NAME
+spinach	I-NAME
+leaves	B-FORM
+,	O
+washed	O
+,	O
+stemmed	O
+,	O
+dried	B-STATE
+and	I-STATE
+torn	I-STATE
+into	I-STATE
+bite-size	I-STATE
+pieces	I-STATE
+
+8	B-QUANTITY
+new	B-NAME
+potatoes	I-NAME
+,	O
+scrubbed	B-STATE
+-LRB-	O
+about	O
+1	O
+lb	O
+-RRB-	O
+
+6	B-QUANTITY
+ounces	B-UNIT
+sliced	O
+mushrooms	B-NAME
+,	O
+shitake	B-NAME
+-LRB-	O
+fresh	B-DF
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+avocado	B-NAME
+,	O
+sliced	B-STATE
+
+2	B-QUANTITY
+eggs	B-NAME
+,	O
+hardboiled	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+quarters	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+plain	B-NAME
+flour	I-NAME
+,	I-NAME
+to	I-NAME
+toss	I-NAME
+lamb	I-NAME
+shanks	I-NAME
+in	I-NAME
+
+3	B-QUANTITY
+-5	O
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+chopped	O
+finely	O
+to	O
+taste	O
+really	O
+,	O
+but	O
+at	O
+least	O
+3	B-QUANTITY
+cloves	B-UNIT
+
+extra	O
+butter	B-NAME
+,	O
+for	O
+frying	O
+the	O
+pikelets	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+brown	B-NAME
+sugar	I-NAME
+,	O
+packed	B-STATE
+-LRB-	O
+more	O
+or	O
+less	O
+according	O
+to	O
+your	O
+taste	O
+-RRB-	O
+
+64	B-QUANTITY
+ounces	B-UNIT
+mild	B-NAME
+salsa	I-NAME
+
+24	B-QUANTITY
+oysters	B-NAME
+
+3	B-QUANTITY
+cans	B-UNIT
+stewed	B-STATE
+tomatoes	B-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+drained	B-STATE
+water	B-NAME
+chestnuts	I-NAME
+
+2/3	B-QUANTITY
+cup	B-UNIT
+Greek	B-NAME
+yogurt	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chopped	B-STATE
+cooked	I-STATE
+ham	B-NAME
+
+3	B-QUANTITY
+teaspoons	B-UNIT
+pesto	B-NAME
+sauce	I-NAME
+-LRB-	O
+see	O
+note	O
+below	O
+-RRB-	O
+
+1	B-QUANTITY
+green	B-NAME
+pepper	I-NAME
+-LRB-	O
+small	B-STATE
+diced	I-STATE
+-RRB-	O
+
+5	B-QUANTITY
+tablespoons	B-UNIT
+white	B-NAME
+wine	I-NAME
+vinegar	I-NAME
+or	O
+5	B-QUANTITY
+tablespoons	B-UNIT
+champagne	O
+vinegar	B-NAME
+,	O
+divided	O
+
+rind	B-NAME
+from	O
+1	O
+lemon	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+fennel	B-NAME
+powder	B-FORM
+-LRB-	O
+saunf	O
+powder	B-FORM
+-RRB-	O
+
+1	B-QUANTITY
+few	B-UNIT
+grates	I-UNIT
+fresh	B-DF
+nutmeg	B-NAME
+
+1/4	B-QUANTITY
+vanilla	B-NAME
+bean	I-NAME
+
+10	B-QUANTITY
+pieces	B-UNIT
+Chinese	B-NAME
+cabbage	I-NAME
+-LRB-	O
+cut	B-STATE
+into	I-STATE
+four	I-STATE
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+orange	B-NAME
+peel	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+slivers	I-STATE
+
+4	B-QUANTITY
+cups	B-UNIT
+fresh	O
+pineapple	B-NAME
+-LRB-	O
+well-chilled	O
+,	O
+cut	B-STATE
+in	O
+1	B-STATE
+1/2-inch	I-STATE
+chunks	I-STATE
+-RRB-	O
+
+50	B-QUANTITY
+g	B-UNIT
+chopped	B-STATE
+garlic	B-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+green	B-NAME
+chilies	I-NAME
+,	O
+chopped	B-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+small	O
+great	O
+northern	O
+bean	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+beef	B-NAME
+stew	I-NAME
+meat	I-NAME
+,	O
+tenderized	B-STATE
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+fennel	B-NAME
+powder	B-FORM
+
+1	B-QUANTITY
+package	B-UNIT
+plain	O
+German	B-NAME
+chocolate	I-NAME
+cake	I-NAME
+mix	I-NAME
+
+4	B-QUANTITY
+chicken	B-NAME
+breasts	I-NAME
+,	O
+cleaned	O
+,	O
+washed	B-STATE
+and	I-STATE
+patted	I-STATE
+dry	I-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+white	B-NAME
+button	I-NAME
+mushrooms	I-NAME
+,	O
+firm	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+Chinese	B-NAME
+hot	I-NAME
+mustard	I-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+tomatoes	B-NAME
+in	I-NAME
+puree	I-NAME
+,	O
+tomatoes	B-NAME
+coarsely	B-STATE
+chopped	I-STATE
+and	I-STATE
+puree	B-NAME
+reserved	B-STATE
+
+10	B-QUANTITY
+ounces	B-UNIT
+mixed	B-NAME
+vegetables	I-NAME
+,	O
+Frozen	B-STATE
+
+2	B-QUANTITY
+cups	B-UNIT
+low-fat	O
+vanilla	B-NAME
+ice	I-NAME
+cream	I-NAME
+-LRB-	O
+low	O
+GI	O
+,	O
+softened	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+coconut	B-NAME
+milk	I-NAME
+-LRB-	O
+available	O
+in	O
+cans	O
+in	O
+most	O
+Asian	O
+food	O
+stores	O
+-RRB-	O
+
+fresh	B-DF
+basil	B-NAME
+leaf	B-FORM
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+lbs	B-UNIT
+fresh	B-DF
+ground	B-STATE
+lamb	B-NAME
+
+2	B-QUANTITY
+hardboiled	B-NAME
+egg	O
+,	O
+quatered	O
+
+broccoli	B-NAME
+floret	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+lean	B-NAME
+pork	I-NAME
+-LRB-	O
+the	O
+recipe	O
+calls	O
+for	O
+pork	B-NAME
+belly	O
+but	O
+this	O
+is	O
+a	O
+lighter	O
+version	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+sliced	B-STATE
+black	B-NAME
+olives	I-NAME
+-LRB-	O
+or	O
+to	O
+taste	O
+-RRB-	O
+
+8	B-QUANTITY
+small	B-SIZE
+tomatillos	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+nuts	B-NAME
+-LRB-	O
+walnuts	O
+or	O
+pecans	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+toasted	I-STATE
+almonds	B-NAME
+
+1	B-QUANTITY
+envelope	B-UNIT
+goya	O
+sazon	O
+goya	O
+,	O
+con	O
+achiote	O
+seasoning	O
+-LRB-	O
+found	O
+in	O
+the	O
+Spanish	O
+food	O
+section	O
+of	O
+your	O
+supermarket	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+rosemary	B-NAME
+-LRB-	O
+dried	B-DF
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+chopped	B-STATE
+ripe	B-NAME
+mangoes	I-NAME
+-LRB-	O
+number	O
+of	O
+mangos	O
+will	O
+depend	O
+on	O
+their	O
+size	O
+-RRB-	O
+
+1/3	B-QUANTITY
+cup	B-UNIT
+dried	O
+split	B-NAME
+green	I-NAME
+peas	I-NAME
+
+100	B-QUANTITY
+g	B-UNIT
+minced	B-STATE
+beef	B-NAME
+
+8	B-QUANTITY
+hot	B-NAME
+dogs	I-NAME
+
+80	B-QUANTITY
+ml	B-UNIT
+red	B-NAME
+wine	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+nonfat	B-NAME
+vanilla	I-NAME
+yogurt	I-NAME
+
+4	B-QUANTITY
+slices	B-UNIT
+pineapple	B-NAME
+,	O
+drained	O
+,	O
+if	B-STATE
+using	I-STATE
+tinned	O
+,	O
+cut	B-STATE
+into	I-STATE
+1	I-STATE
+cm	I-STATE
+size	I-STATE
+pieces	I-STATE
+
+3	B-QUANTITY
+teaspoons	B-UNIT
+butter	B-NAME
+or	O
+3	B-QUANTITY
+teaspoons	B-UNIT
+ghee	O
+
+1	B-QUANTITY
+loaf	B-UNIT
+cinnamon-swirl	B-NAME
+bread	I-NAME
+-LRB-	O
+cubed	B-STATE
+-RRB-	O
+
+25	B-QUANTITY
+ounces	B-UNIT
+pineapple	B-NAME
+juice	B-FORM
+
+240	B-QUANTITY
+g	B-UNIT
+cherry	B-NAME
+tomatoes	I-NAME
+-LRB-	O
+trussed	B-STATE
+,	O
+joined	O
+at	O
+the	O
+stems	O
+-RRB-	O
+
+7	B-QUANTITY
+1/2	I-QUANTITY
+ml	B-UNIT
+Grand	B-NAME
+Marnier	I-NAME
+
+4	B-QUANTITY
+cups	B-UNIT
+flour	B-NAME
+,	O
+preferably	O
+white	O
+bread	O
+flour	B-NAME
+
+2	B-QUANTITY
+heads	B-UNIT
+broccoli	B-NAME
+,	O
+washed	O
+,	O
+trimmed	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+small	I-STATE
+florets	I-STATE
+
+1	B-QUANTITY
+sprig	B-UNIT
+flat	B-NAME
+leaf	I-NAME
+parsley	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+mushrooms	B-NAME
+,	O
+thickly	B-STATE
+sliced	I-STATE
+
+2	B-QUANTITY
+lbs	B-UNIT
+brown	B-NAME
+sugar	I-NAME
+-LRB-	O
+piloncillo	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+kraft	O
+creamy	B-NAME
+peanut	I-NAME
+butter	I-NAME
+
+1	B-QUANTITY
+beef	B-NAME
+brisket	I-NAME
+-LRB-	O
+or	O
+just	O
+the	O
+flat	O
+cut	O
+-RRB-	O
+
+4	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+roast	I-NAME
+,	O
+frozen	B-STATE
+
+2/3	B-QUANTITY
+cup	B-UNIT
+blanched	B-STATE
+almond	B-NAME
+flour	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+raw	O
+cashews	B-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+peanuts	O
+
+2	B-QUANTITY
+slices	B-UNIT
+fat-free	B-NAME
+swiss	O
+cheese	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+tablespoons	B-UNIT
+corn	B-NAME
+oil	I-NAME
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+ground	B-FORM
+fenugreek	B-NAME
+
+450	B-QUANTITY
+g	B-UNIT
+sausages	B-NAME
+,	O
+skinned	B-STATE
+and	I-STATE
+halved	I-STATE
+
+12	O
+-18	O
+wonton	B-NAME
+wrappers	I-NAME
+-LRB-	O
+depending	O
+on	O
+Package	O
+size	O
+-RRB-	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+garlic	B-NAME
+-LRB-	O
+crushed	B-STATE
+-RRB-	O
+
+3	B-QUANTITY
+leeks	B-NAME
+,	O
+white	B-STATE
+&	O
+light	B-STATE
+green	I-STATE
+parts	O
+,	O
+washed	B-STATE
+and	I-STATE
+chopped	I-STATE
+
+15	B-QUANTITY
+ml	B-UNIT
+peanut	B-NAME
+oil	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+sour	B-NAME
+cream	I-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+tofu	O
+sour	B-NAME
+cream	I-NAME
+
+1	B-QUANTITY
+pork	B-NAME
+tenderloin	I-NAME
+
+1/2	B-QUANTITY
+tablespoon	B-UNIT
+refined	B-STATE
+cooking	B-NAME
+olive	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+raw	B-NAME
+sugar	I-NAME
+-LRB-	O
+or	O
+use	O
+white	O
+sugar	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+fresh	B-DF
+link	O
+chorizo	B-NAME
+sausage	I-NAME
+,	O
+casings	B-STATE
+removed	I-STATE
+
+4	B-QUANTITY
+slices	B-UNIT
+bacon	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2	I-STATE
+in	O
+.	O
+pieces	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+basil	B-NAME
+,	O
+chopped	B-STATE
+or	O
+1	O
+teaspoon	O
+dried	O
+basil	B-NAME
+
+1	B-QUANTITY
+courgette	B-NAME
+,	O
+in	O
+chunks	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+kg	B-UNIT
+beef	B-NAME
+,	O
+Cut	B-STATE
+with	I-STATE
+some	I-STATE
+fat	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+of	O
+fresh	B-DF
+butter	B-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+chopped	B-STATE
+mint	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+3	B-QUANTITY
+red	B-NAME
+peppers	I-NAME
+,	O
+roasted	O
+peeled	B-STATE
+and	I-STATE
+diced	I-STATE
+
+12	B-QUANTITY
+walnut	B-NAME
+halves	B-UNIT
+or	O
+12	B-QUANTITY
+almonds	O
+,	O
+unsalted	O
+toasted	B-STATE
+without	I-STATE
+skins	I-STATE
+
+5	B-QUANTITY
+ounces	B-UNIT
+spinach	B-NAME
+,	O
+fresh	B-DF
+baby	O
+
+milk	B-NAME
+-LRB-	O
+if	O
+necessary	O
+-RRB-	O
+
+400	B-QUANTITY
+g	B-UNIT
+pork	B-NAME
+spareribs	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+3cm	I-STATE
+pieces	I-STATE
+
+2	B-QUANTITY
+red	B-NAME
+bell	I-NAME
+peppers	I-NAME
+-LRB-	O
+cored	B-STATE
+and	I-STATE
+sliced	I-STATE
+-RRB-	O
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+-LRB-	O
+minced	B-STATE
+or	O
+use	O
+2teasp	O
+from	O
+a	O
+jar	O
+-RRB-	O
+
+green	B-NAME
+icing	I-NAME
+
+4	B-QUANTITY
+large	B-SIZE
+russet	B-NAME
+potatoes	I-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+diced	I-STATE
+
+3	B-QUANTITY
+chicken	B-NAME
+breasts	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+Honey	B-NAME
+Nut	I-NAME
+Cheerios	I-NAME
+
+200	B-QUANTITY
+g	B-UNIT
+amaretti	B-NAME
+,	O
+finelly	O
+crushed	B-STATE
+
+1	B-QUANTITY
+banana	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+cut	I-STATE
+half	I-STATE
+lengthwise	I-STATE
+and	I-STATE
+each	I-STATE
+half	I-STATE
+cut	I-STATE
+into	I-STATE
+6	I-STATE
+pieces	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+tomato	B-NAME
+paste	I-NAME
+,	O
+<	O
+a	O
+href=	O
+''	O
+https	O
+:	O
+//www.geniuskitchen.com/recipe/thermomix-tomato-paste-no-added-sugar-498897	O
+''	O
+>	O
+Thermomix	O
+Tomato	O
+Paste	O
+-	O
+No	B-STATE
+Added	I-STATE
+Sugar	I-STATE
+<	O
+/a	O
+>	O
+
+1	B-QUANTITY
+lamb	B-NAME
+pluck	I-NAME
+-LRB-	O
+liver	O
+,	O
+lungs	B-STATE
+and	I-STATE
+other	I-STATE
+organs	I-STATE
+together	I-STATE
+-RRB-	O
+
+8	B-QUANTITY
+pickling	B-NAME
+onions	I-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+left	I-STATE
+whole	I-STATE
+
+1	B-QUANTITY
+lb	B-UNIT
+rice	B-NAME
+noodles	I-NAME
+-RRB-	O
+
+1/8	B-QUANTITY
+teaspoon	B-UNIT
+pumpkin	B-NAME
+pie	I-NAME
+spice	I-NAME
+or	O
+1/8	B-QUANTITY
+teaspoon	B-UNIT
+ground	O
+cinnamon	O
+
+6	B-QUANTITY
+ounces	B-UNIT
+coffee	B-NAME
+,	O
+strong	O
+,	O
+cold	O
+,	O
+fresh	B-DF
+brewed	B-STATE
+
+ham	B-NAME
+-LRB-	O
+may	O
+sub	O
+bulgoki	O
+or	O
+Crab	O
+stick	O
+-RRB-	O
+
+6	B-QUANTITY
+cups	B-UNIT
+egg	B-NAME
+noodles	I-NAME
+
+4	B-QUANTITY
+sweet	B-NAME
+onions	I-NAME
+-LRB-	O
+chopped	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+package	B-UNIT
+frozen	O
+chopped	B-STATE
+spinach	B-NAME
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+small	B-SIZE
+zucchini	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+thin	I-STATE
+wedges	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+grated	B-STATE
+nutmeg	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+plain	O
+nonfat	B-NAME
+yogurt	I-NAME
+-LRB-	O
+preferably	B-STATE
+organic	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+water	B-NAME
+chestnuts	I-NAME
+,	O
+rinsed	B-STATE
+and	I-STATE
+drained	I-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+sea	B-NAME
+salt	I-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+potatoes	B-NAME
+-LRB-	O
+chopped	B-STATE
+in	I-STATE
+1/2-inch	I-STATE
+cubes	I-STATE
+and	I-STATE
+boiled	I-STATE
+until	I-STATE
+just	I-STATE
+tender	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+stalk	B-UNIT
+celery	B-NAME
+-LRB-	O
+sliced	B-STATE
+thin	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+pork	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1	B-QUANTITY
+1/2-inch	B-STATE
+cubes	I-STATE
+
+1	B-QUANTITY
+prebaked	B-STATE
+thin	B-NAME
+italian	I-NAME
+pizza	I-NAME
+dough	I-NAME
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+porridge	B-NAME
+oats	I-NAME
+or	O
+3	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+oatmeal	O
+
+100	B-QUANTITY
+g	B-UNIT
+smoked	O
+chicken	B-NAME
+,	O
+chopped	B-STATE
+
+1	B-QUANTITY
+ounce	B-UNIT
+au	B-NAME
+jus	I-NAME
+mix	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+shredded	B-NAME
+muenster	I-NAME
+cheese	I-NAME
+or	O
+2	B-QUANTITY
+cups	B-UNIT
+mild	O
+cheese	B-NAME
+,	O
+of	O
+your	O
+choice	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+lychee	B-NAME
+
+1/2	B-QUANTITY
+green	B-NAME
+capsicum	I-NAME
+,	O
+finely	B-STATE
+diced	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+carrot	B-NAME
+,	O
+chopped	B-STATE
+fine	I-STATE
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+salt	B-NAME
+and	I-NAME
+pepper	I-NAME
+,	O
+to	O
+taste	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+mascarpone	B-NAME
+cheese	I-NAME
+or	I-NAME
+1/4	B-QUANTITY
+cup	B-UNIT
+heavy	B-NAME
+cream	I-NAME
+
+140	B-QUANTITY
+g	B-UNIT
+canned	B-FORM
+tuna	B-NAME
+,	O
+forked	B-STATE
+
+1	B-QUANTITY
+large	B-SIZE
+tilapia	B-NAME
+fillet	I-NAME
+,	O
+filet	B-STATE
+cut	I-STATE
+into	I-STATE
+1	B-QUANTITY
+inch	B-STATE
+pieces	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+salted	B-STATE
+pistachios	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+tomato	B-NAME
+sauce	I-NAME
+,	O
+recipe	O
+follows	O
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+ground	B-FORM
+nutmeg	B-NAME
+-LRB-	O
+to	O
+taste	O
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+whole	B-NAME
+wheat	I-NAME
+egg	I-NAME
+noodles	I-NAME
+-LRB-	O
+uncooked	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+bamboo	B-NAME
+shoots	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+
+1	B-QUANTITY
+eggplant	B-NAME
+,	O
+sliced	B-STATE
+-LRB-	O
+peeling	O
+is	O
+not	O
+necessary	O
+-RRB-	O
+
+80	B-QUANTITY
+ml	B-UNIT
+fresh	B-DF
+squeezed	B-STATE
+lime	B-NAME
+juice	B-FORM
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+shaoxing	B-NAME
+wine	I-NAME
+or	O
+2	B-QUANTITY
+teaspoons	B-UNIT
+dry	O
+sherry	O
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+hot	B-NAME
+red	I-NAME
+red	I-NAME
+chili	I-NAME
+powder	I-NAME
+-LRB-	O
+cayenne	O
+pepper	O
+-RRB-	O
+
+1/2	B-QUANTITY
+black	B-NAME
+truffle	I-NAME
+,	O
+sliced	B-STATE
+thin	I-STATE
+-LRB-	O
+optional	O
+-RRB-	O
+
+3	B-QUANTITY
+sliced	B-STATE
+lemons	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+snipped	B-STATE
+parsley	B-NAME
+
+1	B-QUANTITY
+avocado	B-NAME
+,	O
+halved	O
+,	O
+pitted	O
+,	O
+sliced	B-STATE
+
+1	B-QUANTITY
+apple	B-NAME
+,	O
+peeled	O
+,	O
+de-cored	O
+,	O
+and	B-STATE
+chopped	I-STATE
+
+12	B-QUANTITY
+uncooked	B-STATE
+flour	B-NAME
+tortillas	I-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+Fontina	B-NAME
+cheese	I-NAME
+,	O
+grated	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+salt-free	B-NAME
+lemon	I-NAME
+pepper	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chives	B-NAME
+,	O
+chopped	B-STATE
+for	O
+garnish	O
+
+2	B-QUANTITY
+large	B-SIZE
+green	B-NAME
+peppers	I-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+1	O
+squares	B-STATE
+
+additional	O
+sliced	B-STATE
+almonds	B-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+vegetable	B-NAME
+oil	I-NAME
+-LRB-	O
+or	O
+ghee	O
+if	O
+you	O
+prefer	O
+-RRB-	O
+
+5	B-QUANTITY
+chicken	B-NAME
+legs	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+broad	B-NAME
+egg	I-NAME
+noodle	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+kirsch	B-NAME
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+apricot	O
+brandy	O
+
+1	B-QUANTITY
+large	B-SIZE
+cauliflower	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+small	I-STATE
+florets	I-STATE
+
+7	O
+-9	O
+small	B-SIZE
+red	B-NAME
+potatoes	I-NAME
+,	O
+halved	B-STATE
+-LRB-	O
+about	O
+1-1/4	B-STATE
+pounds	O
+-RRB-	O
+
+12	B-QUANTITY
+ounces	B-UNIT
+egg	B-NAME
+noodles	I-NAME
+-LRB-	O
+Pkg	O
+.	O
+frozen	B-STATE
+-RRB-	O
+
+3	B-QUANTITY
+flat	B-NAME
+anchovy	I-NAME
+fillets	B-UNIT
+,	O
+drained	B-STATE
+and	I-STATE
+minced	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+cilantro	B-NAME
+-LRB-	O
+chopped	B-STATE
+fresh	B-DF
+-RRB-	O
+
+8	B-QUANTITY
+large	B-SIZE
+prawns	B-NAME
+,	O
+Cooked	O
+and	B-STATE
+Diced	O
+for	B-STATE
+garnish	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+Japanese	B-NAME
+eggplants	I-NAME
+,	O
+thinly	B-STATE
+sliced	I-STATE
+crosswise	I-STATE
+
+200	B-QUANTITY
+g	B-UNIT
+green	B-NAME
+beans	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+lengths	I-STATE
+to	I-STATE
+yield	I-STATE
+2	I-STATE
+cups	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+scallions	O
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+chives	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+olive	B-NAME
+oil	I-NAME
+,	O
+for	O
+frying	O
+
+1	B-QUANTITY
+finely	B-STATE
+chopped	O
+onion	B-NAME
+,	O
+to	B-STATE
+garnish	I-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+relish	B-NAME
+sandwich	I-NAME
+spread	I-NAME
+or	O
+2	B-QUANTITY
+teaspoons	B-UNIT
+mayonnaise	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+fresh	B-DF
+coriander	B-NAME
+,	O
+leaves	B-STATE
+and	I-STATE
+stalks	O
+chopped	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+sweet	B-NAME
+and	I-NAME
+sour	I-NAME
+sauce	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+green	B-NAME
+peppers	I-NAME
+,	O
+diced	B-STATE
+
+1	B-QUANTITY
+salsa	B-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+dark	O
+n	O
+yellow	B-NAME
+mustard	I-NAME
+seeds	I-NAME
+
+cyrstallised	O
+rose	B-NAME
+petal	I-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+tenderloin	I-NAME
+,	O
+halved	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+1-inch	I-STATE
+slices	I-STATE
+
+50	B-QUANTITY
+g	B-UNIT
+chickpea	B-NAME
+flour	I-NAME
+-LRB-	O
+replace	O
+with	O
+Coconut	O
+Flour	O
+to	O
+make	O
+this	O
+Paleo	O
+-RRB-	O
+
+3	B-QUANTITY
+cups	B-UNIT
+mixed	B-NAME
+assorted	I-NAME
+fresh	B-DF
+vegetables	B-NAME
+,	O
+chopped	B-STATE
+into	I-STATE
+small	I-STATE
+pieces	I-STATE
+
+5	B-QUANTITY
+cans	B-UNIT
+black	B-NAME
+beans	I-NAME
+
+1	B-QUANTITY
+head	B-UNIT
+butter	B-NAME
+lettuce	I-NAME
+-LRB-	O
+or	O
+other	O
+fancy	O
+leaf	O
+lettuce	B-NAME
+-RRB-	O
+
+12	B-QUANTITY
+ounces	B-UNIT
+lobster	B-NAME
+shells	I-NAME
+
+8	B-QUANTITY
+tablespoons	B-UNIT
+bittersweet	B-NAME
+chocolate	I-NAME
+pieces	I-NAME
+or	O
+8	B-QUANTITY
+tablespoons	B-UNIT
+semisweet	O
+chocolate	B-NAME
+,	O
+finely	O
+chopped	O
+
+4	B-QUANTITY
+ears	B-UNIT
+fresh	B-DF
+corn	B-NAME
+or	O
+2	O
+cups	O
+frozen	O
+corn	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+port	B-NAME
+wine	I-NAME
+or	O
+1/4	B-QUANTITY
+cup	B-UNIT
+sweet	O
+sherry	O
+
+2	B-QUANTITY
+-3	O
+serrano	B-NAME
+peppers	I-NAME
+,	O
+stemmed	B-STATE
+and	I-STATE
+coarsely	I-STATE
+chopped	I-STATE
+-LRB-	O
+or	O
+jalapeno	O
+peppers	B-NAME
+-RRB-	O
+
+4	B-QUANTITY
+carrots	B-NAME
+,	O
+sliced	B-STATE
+thin	I-STATE
+-LRB-	O
+about	O
+1/4	O
+inch	O
+-RRB-	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+mild	O
+curry	B-NAME
+paste	I-NAME
+
+14	B-QUANTITY
+ounces	B-UNIT
+canned	O
+black	B-NAME
+beans	I-NAME
+
+3	B-QUANTITY
+ounces	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+grated	B-STATE
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+whole	B-NAME
+coriander	I-NAME
+seed	B-FORM
+
+1	B-QUANTITY
+lb	B-UNIT
+yellow	B-NAME
+potato	I-NAME
+-LRB-	O
+peeled	B-STATE
+and	I-STATE
+diced	I-STATE
+into	O
+1/2	O
+dice	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+vegetable	B-NAME
+oil	I-NAME
+-LRB-	O
+should	O
+just	O
+coat	O
+the	O
+bottom	O
+of	O
+the	O
+pan	O
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+dried	O
+apricot	B-NAME
+halves	I-NAME
+
+1/2	B-QUANTITY
+small	B-SIZE
+onion	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+root	I-STATE
+end	I-STATE
+intact	I-STATE
+
+2	B-QUANTITY
+liters	B-UNIT
+good	B-STATE
+quality	I-STATE
+vanilla	B-NAME
+ice	I-NAME
+cream	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+dry	B-DF
+white	B-NAME
+wine	I-NAME
+or	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+vermouth	O
+
+1	B-QUANTITY
+dash	B-UNIT
+Tabasco	B-NAME
+sauce	I-NAME
+
+2/3	B-QUANTITY
+cup	B-UNIT
+sweet	B-NAME
+onion	I-NAME
+,	O
+chopped	B-STATE
+
+2	O
+-3	O
+teaspoons	B-UNIT
+fresh	B-DF
+garlic	B-NAME
+,	O
+finely	B-STATE
+minced	I-STATE
+
+2	B-QUANTITY
+-3	O
+lbs	B-UNIT
+corned	B-STATE
+beef	B-NAME
+
+2	B-QUANTITY
+ears	B-UNIT
+corn	B-NAME
+,	O
+grilled	B-STATE
+and	I-STATE
+kernels	I-STATE
+removed	I-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+Italian-style	B-STATE
+diced	I-STATE
+tomatoes	B-NAME
+-LRB-	O
+I	O
+use	O
+Hunt	O
+'s	O
+brand	O
+with	O
+basil	O
+,	O
+oregano	O
+and	O
+garlic	O
+-RRB-	O
+
+1	B-QUANTITY
+slice	B-UNIT
+fresh	B-DF
+ginger	B-NAME
+-LRB-	O
+thumb	O
+-RRB-	O
+
+1	B-QUANTITY
+kg	B-UNIT
+pork	B-NAME
+-LRB-	O
+best	O
+part	O
+is	O
+liempo	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+bunch	O
+fresh	B-DF
+basil	B-NAME
+
+8	B-QUANTITY
+chicken	B-NAME
+thighs	I-NAME
+,	O
+with	B-STATE
+bone	I-STATE
+and	I-STATE
+skin	I-STATE
+each	I-STATE
+5	I-STATE
+to	I-STATE
+6	I-STATE
+ounces	I-STATE
+trimmed	I-STATE
+of	O
+excess	O
+fat	O
+and	B-STATE
+skin	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+powdered	B-FORM
+sugar	B-NAME
+-LRB-	O
+or	O
+a	O
+bit	O
+more	O
+or	O
+less	O
+to	O
+reach	O
+pie	O
+dough	O
+consistency	O
+-RRB-	O
+
+1	B-QUANTITY
+yellow	B-NAME
+onion	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/4-inch-thick	I-STATE
+slices	O
+then	B-STATE
+separated	I-STATE
+into	I-STATE
+rings	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+cinnamon	B-NAME
+schnapps	I-NAME
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+,	O
+divided	B-STATE
+
+1/3	B-QUANTITY
+cup	B-UNIT
+grated	B-STATE
+zucchini	B-NAME
+
+rice	B-NAME
+,	O
+freshly	B-STATE
+cooked	I-STATE
+
+1/3	B-QUANTITY
+cup	B-UNIT
+green	B-NAME
+olives	I-NAME
+,	O
+chopped	B-STATE
+
+3	B-QUANTITY
+cups	B-UNIT
+cold	B-NAME
+cooked	B-STATE
+white	B-NAME
+rice	I-NAME
+
+150	B-QUANTITY
+150	I-QUANTITY
+ml	B-UNIT
+sour	B-NAME
+cream	I-NAME
+or	O
+150	B-QUANTITY
+ml	B-UNIT
+creme	O
+fraiche	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+breadcrumbs	B-NAME
+,	O
+mixed	B-STATE
+with	I-STATE
+the	I-STATE
+butter	I-STATE
+
+14	B-QUANTITY
+baby	B-NAME
+carrots	I-NAME
+,	O
+chopped	B-STATE
+
+26	B-QUANTITY
+ounces	B-UNIT
+spaghetti	B-NAME
+sauce	I-NAME
+,	O
+lowfat	O
+okay	O
+
+5	O
+-10	O
+lbs	B-UNIT
+beef	B-NAME
+tenderloin	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+raw	B-NAME
+shelled	I-NAME
+pumpkin	I-NAME
+seeds	B-FORM
+
+fanta	O
+orange	B-NAME
+soda	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+sun-dried	B-NAME
+tomato	I-NAME
+,	O
+packed	O
+in	O
+oil	O
+,	O
+chopped	B-STATE
+
+coconut	B-NAME
+,	O
+for	O
+coating	O
+
+3	B-QUANTITY
+cups	B-UNIT
+shredded	B-STATE
+low-moisture	I-STATE
+part-skim	O
+mozzarella	B-NAME
+cheese	I-NAME
+
+3/4	B-QUANTITY
+teaspoon	B-UNIT
+black	B-NAME
+pepper	I-NAME
+,	O
+coarsely	B-STATE
+ground	I-STATE
+
+2	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+chicken	B-NAME
+broth	I-NAME
+or	O
+2	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+beef	O
+broth	B-NAME
+
+3/4	B-QUANTITY
+cup	B-UNIT
+brown	B-NAME
+sugar	I-NAME
+,	O
+measured	B-STATE
+firmly	I-STATE
+packed	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+minced	B-STATE
+green	B-NAME
+onion	I-NAME
+-LRB-	O
+I	O
+used	O
+Egyptian	O
+onion	B-NAME
+bulbs	O
+and	O
+greens	O
+-RRB-	O
+
+1	B-QUANTITY
+small	B-SIZE
+baguette	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2-inch	I-STATE
+slices	I-STATE
+
+kosher	B-NAME
+salt	I-NAME
+,	O
+for	O
+the	O
+crust	O
+rim	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+small	I-STATE
+pieces	I-STATE
+
+8	B-QUANTITY
+carrots	B-NAME
+,	O
+Pared	O
+-LRB-	O
+Carrots	O
+should	O
+be	O
+peeled	O
+and	O
+cut	O
+into	O
+2-inch	O
+chunks	O
+.	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+chopped	B-STATE
+tomato	B-NAME
+,	B-STATE
+divided	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+chicken	B-NAME
+broth	I-NAME
+or	O
+1/4	B-QUANTITY
+cup	B-UNIT
+vegetable	O
+broth	B-NAME
+
+2	B-QUANTITY
+Thai	B-NAME
+red	I-NAME
+chili	I-NAME
+peppers	I-NAME
+,	O
+stemmed	B-STATE
+and	I-STATE
+thinly	I-STATE
+sliced	I-STATE
+
+salt	B-NAME
+,	O
+flakes	B-FORM
+to	O
+serve	O
+
+3	B-QUANTITY
+cans	B-UNIT
+red	B-NAME
+gold	I-NAME
+stewed	B-STATE
+tomatoes	B-NAME
+
+8	B-QUANTITY
+cups	B-UNIT
+trimmed	B-STATE
+arugula	B-NAME
+-LRB-	O
+about	O
+8	B-QUANTITY
+ounces	O
+-RRB-	O
+
+4	B-QUANTITY
+slices	B-UNIT
+lemon	B-NAME
+rind	I-NAME
+
+1	B-QUANTITY
+1/4	I-QUANTITY
+cups	B-UNIT
+red	B-NAME
+lentils	I-NAME
+,	O
+rinsed	B-STATE
+
+5	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+vegetable	B-NAME
+stock	I-NAME
+,	O
+simmering	O
+
+2	B-QUANTITY
+ounces	B-UNIT
+buckwheat	B-NAME
+groats	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+fresh	B-DF
+strong	B-STATE
+brewed	O
+coffee	B-NAME
+-LRB-	O
+I	O
+use	O
+decaf	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+Pace	B-NAME
+Picante	I-NAME
+Sauce	I-NAME
+,	O
+medium	O
+
+2	B-QUANTITY
+hard-cooked	O
+eggs	B-NAME
+,	O
+quartered	B-STATE
+
+4	O
+cups	B-UNIT
+small	O
+salad	B-NAME
+leaves	I-NAME
+-LRB-	O
+rocket	O
+and	O
+watercress	O
+work	O
+well	O
+-RRB-	O
+
+1	B-QUANTITY
+medium	B-SIZE
+jalapeno	B-NAME
+pepper	I-NAME
+
+4	B-QUANTITY
+teaspoons	B-UNIT
+coarse	B-NAME
+salt	I-NAME
+
+1	B-QUANTITY
+ham	B-NAME
+hock	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+apple	B-NAME
+,	O
+cored	B-STATE
+and	I-STATE
+thinly	I-STATE
+sliced	I-STATE
+-LRB-	O
+You	O
+may	O
+leave	O
+the	O
+peel	O
+on	O
+if	O
+desired	O
+-RRB-	O
+
+1	B-QUANTITY
+ml	B-UNIT
+salt	B-NAME
+,	O
+to	O
+taste	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+unsweetened	B-STATE
+grated	I-STATE
+coconut	B-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+tamarind	B-NAME
+pulp	B-FORM
+,	O
+soaked	B-STATE
+in	I-STATE
+water	I-STATE
+
+15	B-QUANTITY
+ounces	B-UNIT
+mini	O
+brie	B-NAME
+round	I-NAME
+
+1/2	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+cup	B-UNIT
+granadilla	B-NAME
+,	O
+pulp	B-FORM
+
+2	B-QUANTITY
+pears	B-NAME
+,	O
+peeled	O
+,	O
+cored	B-STATE
+&	I-STATE
+sliced	I-STATE
+
+vegetable	B-NAME
+oil	I-NAME
+,	O
+for	O
+brushing	O
+scallops	O
+
+2	B-QUANTITY
+red	B-NAME
+Thai	I-NAME
+chile	I-NAME
+,	O
+sliced	B-STATE
+thinly	I-STATE
+
+toasted	B-STATE
+almonds	B-NAME
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+or	O
+chopped	O
+coriander	O
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+fish	B-NAME
+sauce	I-NAME
+-LRB-	O
+divided	B-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+rose	B-NAME
+water	I-NAME
+-LRB-	O
+check	O
+your	O
+grocer	O
+'s	O
+bar	O
+section	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+fat-free	B-NAME
+margarine	I-NAME
+
+3/4	B-QUANTITY
+teaspoon	B-UNIT
+fresh	B-DF
+dill	B-NAME
+
+4	B-QUANTITY
+cups	B-UNIT
+of	O
+cut	B-STATE
+up	I-STATE
+steamed	I-STATE
+broccoli	B-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+jalapeno	B-NAME
+juice	B-FORM
+,	O
+from	O
+bottled	O
+jalapeno	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+coconut	B-NAME
+milk	I-NAME
+-LRB-	O
+low	O
+fat	O
+-RRB-	O
+
+butter	B-NAME
+or	O
+nonstick	O
+cooking	O
+spray	O
+,	O
+for	O
+greasing	O
+pan	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+dried	O
+red	B-NAME
+chili	I-NAME
+pepper	I-NAME
+
+75	B-QUANTITY
+g	B-UNIT
+shaved	B-STATE
+ham	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+textured	B-NAME
+vegetable	I-NAME
+protein	I-NAME
+-LRB-	O
+textured	B-NAME
+vegetable	I-NAME
+protein	I-NAME
+240	O
+cal	O
+or	O
+dry	O
+cup	B-UNIT
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+onions	B-NAME
+,	O
+diced	B-STATE
+
+12	B-QUANTITY
+cups	B-UNIT
+sliced	B-STATE
+frozen	I-STATE
+carrots	B-NAME
+
+1/2	B-QUANTITY
+tablespoon	B-UNIT
+chives	B-NAME
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+cilantro	B-NAME
+leaves	B-FORM
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+shredded	B-STATE
+cheddar	B-NAME
+cheese	I-NAME
+or	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+Mexican	O
+blend	O
+cheese	B-NAME
+
+2	B-QUANTITY
+potatoes	B-NAME
+,	O
+cooked	B-STATE
+&	O
+mashed	B-STATE
+
+24	B-QUANTITY
+fresh	B-DF
+oysters	B-NAME
+,	O
+in	O
+their	O
+shells	O
+
+1	B-QUANTITY
+package	B-UNIT
+boneless	O
+skinless	O
+chicken	B-NAME
+thighs	I-NAME
+
+2	B-QUANTITY
+sprigs	B-UNIT
+dill	B-NAME
+or	O
+2	B-QUANTITY
+sprigs	B-UNIT
+about	O
+1/2	O
+teaspoon	O
+dried	O
+dill	B-NAME
+
+3	O
+-4	O
+tablespoons	B-UNIT
+chopped	B-STATE
+fresh	B-DF
+coriander	B-NAME
+-LRB-	O
+cilantro	O
+-RRB-	O
+
+250	B-QUANTITY
+ml	B-UNIT
+double	B-NAME
+cream	I-NAME
+
+1	B-QUANTITY
+can	B-UNIT
+Italian-style	B-NAME
+stewed	I-NAME
+tomatoes	I-NAME
+,	O
+cut	B-STATE
+
+1	O
+-2	O
+bunch	B-UNIT
+watercress	B-NAME
+or	O
+1	O
+-2	O
+bunch	B-UNIT
+spinach	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+grated	O
+cheddar	B-NAME
+cheese	I-NAME
+,	O
+divided	B-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+black	B-NAME
+pepper	I-NAME
+,	O
+coarse	B-STATE
+grind	I-STATE
+
+6	B-QUANTITY
+bolillos	B-NAME
+rolls	I-NAME
+
+avocado	B-NAME
+-LRB-	O
+chopped	O
+-RRB-	O
+
+1	B-QUANTITY
+whole	O
+wheat	B-NAME
+roll	I-NAME
+
+2	B-QUANTITY
+tablespoons	O
+pepperoncini	O
+pepper	O
+juice	O
+
+1	B-QUANTITY
+1/3	I-QUANTITY
+cups	B-UNIT
+canned	B-FORM
+black	B-NAME
+beans	I-NAME
+,	O
+rinsed	B-STATE
+and	I-STATE
+well	I-STATE
+drained	I-STATE
+-LRB-	O
+frijoles	O
+negros	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+fresh	B-DF
+Thai	B-NAME
+basil	I-NAME
+,	O
+chopped	B-STATE
+
+2	B-QUANTITY
+large	B-SIZE
+sweet	B-NAME
+oranges	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+onion	B-NAME
+,	O
+chopped	B-STATE
+
+250	B-QUANTITY
+ml	B-UNIT
+milk	B-NAME
+-LRB-	O
+lukewarm	B-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+purple	B-NAME
+onion	I-NAME
+,	O
+minced	B-STATE
+
+1	B-QUANTITY
+peach	B-NAME
+,	O
+half	B-STATE
+-LRB-	O
+fresh	O
+is	O
+best	O
+but	O
+frozen	O
+or	O
+canned	O
+may	O
+be	O
+used	O
+-RRB-	O
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+ground	B-STATE
+cumin	B-NAME
+,	B-STATE
+divided	I-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+frankfurter	B-NAME
+-LRB-	O
+sliced	B-STATE
+3/8-inch	I-STATE
+thick	I-STATE
+at	I-STATE
+angle	I-STATE
+-RRB-	O
+
+12	B-QUANTITY
+ounces	B-UNIT
+eggplants	B-NAME
+,	O
+sliced	B-STATE
+in	I-STATE
+1/2	I-STATE
+inch	I-STATE
+slices	I-STATE
+-LRB-	O
+approximately	O
+one	O
+small	O
+eggplant	O
+-RRB-	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+beef	B-NAME
+roast	I-NAME
+
+10	B-QUANTITY
+cardamoms	B-NAME
+
+1	B-QUANTITY
+small	B-SIZE
+diced	O
+onions	B-NAME
+,	O
+cooked	B-STATE
+with	I-STATE
+the	I-STATE
+ground	I-STATE
+beef	I-STATE
+or	O
+2	O
+teaspoons	O
+onion	O
+powder	O
+
+12	B-QUANTITY
+dried	B-DF
+shiitake	B-NAME
+mushrooms	I-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+simple	B-NAME
+syrup	I-NAME
+
+2	B-QUANTITY
+bags	B-UNIT
+spinach	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+red	B-NAME
+onion	I-NAME
+,	O
+finely	B-STATE
+minced	I-STATE
+
+12	B-QUANTITY
+dried	B-DF
+shiitake	B-NAME
+mushrooms	I-NAME
+-LRB-	O
+soaked	B-STATE
+in	I-STATE
+hot	I-STATE
+water	I-STATE
+for	I-STATE
+30	I-STATE
+min	I-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+salsa	B-NAME
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+enchilada	O
+sauce	O
+
+mashed	B-STATE
+sweet	B-NAME
+potatoes	I-NAME
+or	O
+hot	O
+cooked	O
+rice	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+flour	B-NAME
+-LRB-	O
+for	O
+coating	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+fresh	O
+dill	B-NAME
+leaves	B-FORM
+-LRB-	O
+NOT	O
+dried	O
+-RRB-	O
+
+2	B-QUANTITY
+bunches	B-UNIT
+parsley	B-NAME
+,	O
+chopped	B-STATE
+
+8	B-QUANTITY
+ounces	B-UNIT
+sliced	B-STATE
+provolone	B-NAME
+cheese	I-NAME
+-LRB-	O
+or	O
+mozzarella	O
+-RRB-	O
+
+1/2	B-QUANTITY
+tablespoon	B-UNIT
+ginger	B-NAME
+,	O
+julienned	B-STATE
+
+1/4	B-QUANTITY
+bolillo	B-NAME
+roll	I-NAME
+,	O
+sliced	B-STATE
+crosswise	I-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+lemon	B-NAME
+zest	I-NAME
+,	O
+finely	B-STATE
+zested	I-STATE
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+pork	B-NAME
+loin	I-NAME
+,	O
+cubed	B-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+pasta	B-NAME
+sauce	I-NAME
+-LRB-	O
+Ragu	O
+,	O
+etc	O
+-RRB-	O
+
+15	B-QUANTITY
+ounces	B-UNIT
+fat-free	B-NAME
+ricotta	I-NAME
+cheese	I-NAME
+or	O
+15	B-QUANTITY
+ounces	B-UNIT
+reduced-fat	O
+ricotta	B-NAME
+cheese	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+allspice	B-NAME
+berry	I-NAME
+
+salt	B-NAME
+,	O
+to	O
+taste	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+dried	O
+oregano	B-NAME
+,	O
+cinnamon	O
+&	O
+seasoned	O
+salt	O
+
+5	B-QUANTITY
+lbs	B-UNIT
+short	B-NAME
+rib	I-NAME
+of	I-NAME
+beef	I-NAME
+
+125	B-QUANTITY
+g	B-UNIT
+shredded	B-STATE
+coconut	B-NAME
+
+225	B-QUANTITY
+g	B-UNIT
+yoghurt	B-NAME
+,	O
+whisked	B-STATE
+
+500	B-QUANTITY
+g	B-UNIT
+lemons	B-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+of	O
+a	O
+robust	B-NAME
+extra	I-NAME
+virgin	I-NAME
+olive	I-NAME
+oil	I-NAME
+-LRB-	O
+it	O
+does	O
+make	O
+a	O
+difference	O
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+rice	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+potato	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+1/2	I-STATE
+inch	I-STATE
+dice	I-STATE
+
+3/4	B-QUANTITY
+teaspoon	B-UNIT
+caraway	B-NAME
+seed	B-FORM
+
+3	B-QUANTITY
+1/4	I-QUANTITY
+-	I-QUANTITY
+4	I-QUANTITY
+cups	B-UNIT
+flour	B-NAME
+
+10	B-QUANTITY
+cm	I-QUANTITY
+lemon	B-NAME
+zest	I-NAME
+
+1	B-QUANTITY
+ripe	B-NAME
+banana	I-NAME
+-LRB-	O
+mashed	B-STATE
+in	I-STATE
+a	I-STATE
+dash	I-STATE
+of	I-STATE
+lemon	I-STATE
+juice	I-STATE
+to	I-STATE
+prevent	I-STATE
+browning	I-STATE
+-RRB-	O
+
+16	B-QUANTITY
+roma	O
+tomatoes	B-NAME
+-LRB-	O
+diced	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+cups	B-UNIT
+glutinous	B-NAME
+rice	I-NAME
+-LRB-	O
+soak	O
+4-6	O
+hrs	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+fennel	B-NAME
+seed	B-FORM
+,	O
+preferably	B-STATE
+freshly	I-STATE
+ground	I-STATE
+or	I-STATE
+crushed	I-STATE
+in	I-STATE
+a	I-STATE
+mortar	I-STATE
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+feta	B-NAME
+cheese	I-NAME
+,	O
+preferably	O
+French	O
+,	O
+crumbled	B-STATE
+
+12	B-QUANTITY
+ounces	B-UNIT
+gravy	B-NAME
+-LRB-	O
+jar	O
+-RRB-	O
+
+3/4	B-QUANTITY
+lb	B-UNIT
+penne	B-NAME
+pasta	I-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+pure	B-NAME
+cream	I-NAME
+-LRB-	O
+thin	O
+-RRB-	O
+
+4	B-QUANTITY
+cups	B-UNIT
+thinly	B-STATE
+sliced	I-STATE
+cabbage	B-NAME
+
+2	B-QUANTITY
+small	B-SIZE
+potatoes	B-NAME
+,	O
+boiled	B-STATE
+and	I-STATE
+mashed	I-STATE
+
+2	B-QUANTITY
+2	I-QUANTITY
+teaspoons	B-UNIT
+nut	B-NAME
+oil	I-NAME
+or	O
+2	B-QUANTITY
+teaspoons	B-UNIT
+seed	O
+oil	B-NAME
+
+3	B-QUANTITY
+ripe	O
+tomatoes	B-NAME
+-LRB-	O
+quartered	B-STATE
+-RRB-	O
+
+600	B-QUANTITY
+g	B-UNIT
+plum	B-NAME
+jam	I-NAME
+or	O
+600	B-QUANTITY
+g	B-UNIT
+apricot	O
+jam	B-NAME
+
+grated	B-STATE
+cheese	B-NAME
+,	O
+is	O
+optional	O
+and	O
+must	O
+be	O
+counted	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+12	B-QUANTITY
+ounces	B-UNIT
+tomatillos	B-NAME
+,	O
+cleaned	B-STATE
+with	I-STATE
+husks	I-STATE
+removed	I-STATE
+-LRB-	O
+Mexican	O
+green	O
+tomatoes	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+crabmeat	B-NAME
+,	O
+fresh	B-DF
+frozen	O
+,	O
+canned	O
+
+2	B-QUANTITY
+inches	B-UNIT
+fresh	O
+gingerroot	B-NAME
+-LRB-	O
+peeled	B-STATE
+&	I-STATE
+cut	I-STATE
+into	I-STATE
+thin	I-STATE
+sticks	I-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+dry	O
+red	B-NAME
+wine	I-NAME
+-LRB-	O
+or	O
+as	O
+needed	O
+-RRB-	O
+
+2	B-QUANTITY
+scallions	B-UNIT
+,	O
+both	O
+green	B-NAME
+and	I-NAME
+white	I-NAME
+parts	I-NAME
+,	O
+thinly	O
+sliced	O
+5	O
+cloves	O
+garlic	O
+,	O
+minced	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+oil	B-NAME
+-LRB-	O
+vegetable	O
+-RRB-	O
+
+1	B-QUANTITY
+package	B-UNIT
+Rhodes	B-NAME
+frozen	I-NAME
+rolls	I-NAME
+-LRB-	O
+found	O
+@	O
+Safeway	O
+-RRB-	O
+
+fish	B-NAME
+sauce	I-NAME
+-LRB-	O
+will	O
+not	O
+be	O
+vegan	O
+if	O
+you	O
+use	O
+this	O
+-RRB-	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+3	B-QUANTITY
+-4	O
+tablespoons	B-UNIT
+kosher	B-NAME
+salt	I-NAME
+
+1	B-QUANTITY
+kg	B-UNIT
+blade	B-NAME
+steaks	I-NAME
+or	O
+1	B-QUANTITY
+kg	B-UNIT
+chuck	O
+steak	O
+,	O
+cut	B-STATE
+into	I-STATE
+cubes	I-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+coriander	B-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1/2	B-QUANTITY
+lb	B-UNIT
+sliced	B-STATE
+deli	B-NAME
+turkey	I-NAME
+
+2	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+washed	O
+,	O
+peeled	B-STATE
+and	I-STATE
+finely	I-STATE
+chopped	I-STATE
+
+1/2	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+cilantro	O
+or	O
+1/2	B-QUANTITY
+cup	B-UNIT
+parsley	O
+
+salad	B-NAME
+greens	I-NAME
+or	O
+baby	O
+spinach	O
+leaves	O
+,	O
+to	O
+serve	O
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+butter	B-NAME
+-LRB-	O
+I	O
+use	O
+unsalted	O
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+red	B-NAME
+kidney	I-NAME
+beans	I-NAME
+,	O
+drained	O
+,	O
+saving	B-STATE
+liquid	I-STATE
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+french	O
+'s	O
+classic	O
+Worcestershire	B-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+whole	O
+chicken	B-NAME
+,	O
+2-3lbs	O
+
+2	B-QUANTITY
+cups	B-UNIT
+white	B-NAME
+sugar	I-NAME
+,	O
+plus	O
+
+1/2	B-QUANTITY
+-	I-QUANTITY
+1	I-QUANTITY
+cup	B-UNIT
+cilantro	B-NAME
+-LRB-	O
+based	O
+on	O
+how	O
+much	O
+flavor	O
+you	O
+want	O
+-RRB-	O
+
+grated	B-STATE
+parmesan	B-NAME
+cheese	I-NAME
+or	O
+romano	O
+cheese	B-NAME
+,	O
+for	O
+garnish	O
+
+1	B-QUANTITY
+chayote	B-NAME
+,	O
+peeled	O
+cored	B-STATE
+and	I-STATE
+diced	I-STATE
+
+2	B-QUANTITY
+jars	B-UNIT
+mushrooms	B-NAME
+
+garlic	B-NAME
+,	O
+finely	B-STATE
+chop	O
+
+1/4	B-QUANTITY
+lb	B-UNIT
+snow	B-NAME
+peas	I-NAME
+,	O
+julienned	B-STATE
+
+4	B-QUANTITY
+quarts	B-UNIT
+tomatoes	B-NAME
+-LRB-	O
+we	O
+prepare	O
+our	O
+own	O
+fresh	B-DF
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	B-UNIT
+whole	B-NAME
+milk	I-NAME
+ricotta	I-NAME
+cheese	I-NAME
+
+6	B-QUANTITY
+cloves	B-NAME
+
+2	B-QUANTITY
+containers	B-UNIT
+of	O
+favorite	O
+pasta	B-NAME
+sauce	I-NAME
+
+1	B-QUANTITY
+kg	O
+large	O
+ripe	B-NAME
+peach	I-NAME
+-LRB-	O
+but	O
+not	O
+overripe	O
+-RRB-	O
+
+225	B-QUANTITY
+g	B-UNIT
+dark	B-NAME
+chocolate	I-NAME
+
+1	B-QUANTITY
+large	B-SIZE
+red	B-NAME
+bell	I-NAME
+pepper	I-NAME
+,	O
+stemmed	O
+,	O
+seeded	O
+and	B-STATE
+cut	I-STATE
+into	I-STATE
+about	I-STATE
+20	I-STATE
+squares	I-STATE
+
+4	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+crushed	B-STATE
+and	I-STATE
+mushed	I-STATE
+
+salsa	B-NAME
+,	O
+for	O
+topping	O
+
+1	B-QUANTITY
+cup	B-UNIT
+mixed	B-NAME
+vegetables	I-NAME
+,	O
+such	O
+as	O
+Carrots	O
+,	O
+Green	O
+peas	O
+,	O
+Cauliflower	O
+,	O
+chopped	B-STATE
+fine	I-STATE
+and	I-STATE
+cooked	I-STATE
+
+8	B-QUANTITY
+ounces	B-UNIT
+corn	B-NAME
+,	O
+drained	B-STATE
+-LRB-	O
+fiesta	O
+corn	B-NAME
+is	O
+great	O
+-RRB-	O
+
+300	B-QUANTITY
+-400	O
+g	B-UNIT
+green	B-NAME
+beans	I-NAME
+,	O
+blanched	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+snow	B-NAME
+peas	I-NAME
+,	O
+ends	B-STATE
+and	I-STATE
+strings	I-STATE
+removed	I-STATE
+
+2	B-QUANTITY
+bolillo	B-NAME
+rolls	I-NAME
+or	O
+2	B-QUANTITY
+French	O
+rolls	B-NAME
+
+2	B-QUANTITY
+lbs	B-UNIT
+panamanian	B-NAME
+pork	I-NAME
+sausage	I-NAME
+
+1	B-QUANTITY
+yellow	B-NAME
+onion	I-NAME
+,	O
+roughly	B-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+cans	B-UNIT
+diced	O
+green	B-NAME
+chilies	I-NAME
+,	O
+drained	B-STATE
+-LRB-	O
+we	O
+used	O
+mild	O
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+caramel	B-NAME
+apple	I-NAME
+dip	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+curry	B-NAME
+powder	I-NAME
+-LRB-	O
+samji	O
+-RRB-	O
+or	O
+2	B-QUANTITY
+tablespoons	B-UNIT
+garam	O
+masala	O
+powder	B-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+instant	B-STATE
+minced	I-STATE
+onion	B-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+candied	B-NAME
+lemon	I-NAME
+peel	I-NAME
+,	O
+finely	B-STATE
+diced	I-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+diced	B-STATE
+red	B-NAME
+bell	I-NAME
+pepper	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1	B-QUANTITY
+can	B-UNIT
+beef	B-NAME
+consomme	I-NAME
+or	O
+-LRB-	O
+10	O
+1/2	O
+ounce	O
+-RRB-	O
+can	B-UNIT
+condensed	O
+beef	B-NAME
+broth	O
+
+2	B-QUANTITY
+cups	B-UNIT
+grated	B-STATE
+gruyere	O
+or	O
+2	B-QUANTITY
+cups	B-UNIT
+swiss	O
+cheese	O
+
+1	B-QUANTITY
+sweet	B-NAME
+onion	I-NAME
+,	O
+julienned	B-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+chopped	O
+scallion	B-NAME
+-LRB-	O
+white	B-STATE
+and	I-STATE
+green	I-STATE
+-RRB-	O
+
+1	B-QUANTITY
+garlic	B-NAME
+clove	O
+,	O
+cut	B-STATE
+into	I-STATE
+thin	I-STATE
+slivers	I-STATE
+
+1	B-QUANTITY
+whole	B-UNIT
+ripe	B-NAME
+medium-sized	I-NAME
+fresh	O
+pineapple	B-NAME
+-LRB-	O
+including	O
+the	O
+rind	O
+-RRB-	O
+
+4	B-QUANTITY
+garlic	B-NAME
+cloves	B-UNIT
+,	O
+smashed	B-STATE
+to	I-STATE
+a	I-STATE
+paste	I-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+ginger	B-NAME
+,	O
+freshly	B-STATE
+grated	I-STATE
+
+4	B-QUANTITY
+ripe	B-NAME
+plum	I-NAME
+tomatoes	I-NAME
+,	O
+cored	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+wedges	I-STATE
+
+2	B-QUANTITY
+inches	B-UNIT
+fresh	B-DF
+turmeric	B-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+oregano	B-NAME
+,	O
+fresh	O
+,	O
+chopped	B-STATE
+
+500	B-QUANTITY
+g	B-UNIT
+pork	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+strips	I-STATE
+
+426	B-QUANTITY
+g	B-UNIT
+salmon	B-NAME
+
+5	O
+-8	O
+crushed	B-STATE
+garlic	B-NAME
+cloves	I-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+rogan	B-NAME
+josh	I-NAME
+curry	I-NAME
+paste	I-NAME
+
+1	B-QUANTITY
+pineapple	B-NAME
+,	O
+juice	B-FORM
+of	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+jalapeno	B-NAME
+
+4	B-QUANTITY
+cups	B-UNIT
+tater	B-NAME
+tots	I-NAME
+,	O
+frozen	B-STATE
+
+2	B-QUANTITY
+carrots	B-NAME
+,	O
+thin	O
+sliced	O
+in	O
+rounds	O
+
+7	B-QUANTITY
+tablespoons	B-UNIT
+coconut	B-NAME
+milk	I-NAME
+
+175	B-QUANTITY
+g	B-UNIT
+softened	B-STATE
+butter	B-NAME
+
+4	B-QUANTITY
+ounces	B-UNIT
+no-salt-added	O
+ketchup	B-NAME
+-LRB-	O
+Heinz	O
+&	O
+Hunt	O
+ï¿½	O
+s	O
+both	O
+make	O
+this	O
+-RRB-	O
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+vanilla	B-NAME
+extract	I-NAME
+-LRB-	O
+grated	B-STATE
+peel	I-STATE
+only	I-STATE
+-RRB-	O
+or	O
+1/2	B-QUANTITY
+lemon	O
+-LRB-	O
+grated	B-STATE
+peel	I-STATE
+only	I-STATE
+-RRB-	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+lemon	B-NAME
+juice	B-FORM
+-LRB-	O
+may	O
+substitute	O
+lime	O
+or	O
+orange	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+grated	B-STATE
+kasseri	B-NAME
+cheese	I-NAME
+
+700	B-QUANTITY
+g	B-UNIT
+French	B-NAME
+beans	I-NAME
+
+8	B-QUANTITY
+ounces	B-UNIT
+penne	B-NAME
+,	O
+cooked	B-STATE
+half	I-STATE
+way	I-STATE
+and	I-STATE
+drain	I-STATE
+
+potato	B-NAME
+,	O
+chip	O
+french	O
+fries	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+cilantro	B-NAME
+,	O
+dried	O
+can	O
+use	O
+fresh	O
+but	O
+add	O
+more	O
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+liquid	B-NAME
+gravy	I-NAME
+browner	I-NAME
+-LRB-	O
+e.g	O
+.	O
+Kitchen	O
+Bouquet	O
+or	O
+similar	O
+-RRB-	O
+
+8	B-QUANTITY
+ounces	B-UNIT
+medium	B-SIZE
+shrimp	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+deveined	I-STATE
+
+1	O
+tablespoon	O
+beef	O
+roast	O
+seasoning	B-NAME
+
+1/4	B-QUANTITY
+cup	B-UNIT
+water	B-NAME
+-LRB-	O
+hot	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+lb	B-UNIT
+asparagus	B-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+1	B-QUANTITY
+inch	B-STATE
+piece	O
+,	O
+break	B-STATE
+off	I-STATE
+the	I-STATE
+tough	I-STATE
+ends	I-STATE
+
+1	B-QUANTITY
+ounce	B-UNIT
+finely	B-STATE
+grated	I-STATE
+parmigiano-reggiano	B-NAME
+cheese	I-NAME
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+oregano	B-NAME
+,	O
+freshly	B-STATE
+chopped	I-STATE
+
+2	B-QUANTITY
+red	B-NAME
+capsicums	I-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+finely	B-STATE
+chopped	I-STATE
+parsley	B-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+sauterne	O
+white	B-NAME
+wine	I-NAME
+
+3	B-QUANTITY
+fresh	B-DF
+jalapenos	B-NAME
+,	O
+stems	B-STATE
+and	I-STATE
+seeds	I-STATE
+removed	O
+,	O
+minced	B-STATE
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+rice	B-NAME
+wine	I-NAME
+-LRB-	O
+can	O
+use	O
+dry	O
+sherry	O
+-RRB-	O
+
+cold	B-NAME
+water	I-NAME
+,	O
+same	O
+volume	O
+of	O
+the	O
+eggs	O
+
+sweet	B-NAME
+Italian	I-NAME
+dressing	I-NAME
+,	O
+to	O
+taste	O
+-LRB-	O
+Marzetti	O
+'s	O
+Sweet	O
+Italian	B-NAME
+-RRB-	O
+
+2	B-QUANTITY
+mcintosh	O
+apples	B-NAME
+,	O
+diced	B-STATE
+
+1/2	B-QUANTITY
+teaspoon	B-UNIT
+ground	B-STATE
+nutmeg	B-NAME
+-LRB-	O
+fresh	B-DF
+is	O
+best	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+finely	B-STATE
+dried	O
+apricot	B-NAME
+,	O
+diced	B-STATE
+
+3	B-QUANTITY
+plum	B-NAME
+tomatoes	I-NAME
+,	I-NAME
+medium	I-NAME
+
+100	B-QUANTITY
+ml	B-UNIT
+mirin	B-NAME
+
+4	B-QUANTITY
+london	B-NAME
+broil	I-NAME
+beef	I-NAME
+or	O
+4	B-QUANTITY
+sirloin	O
+strip	O
+steaks	O
+
+6	B-QUANTITY
+slices	B-UNIT
+white	B-NAME
+bread	I-NAME
+,	O
+large	B-STATE
+thin	I-STATE
+slices	B-UNIT
+
+750	B-QUANTITY
+ml	B-UNIT
+soaking	B-NAME
+water	I-NAME
+,	O
+from	O
+the	O
+prunes	O
+
+1	B-QUANTITY
+can	B-UNIT
+tomatoes	B-NAME
+,	O
+drained	O
+,	O
+chopped	B-STATE
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+oregano	B-NAME
+,	O
+Dried	O
+
+1/2	B-QUANTITY
+fluid	B-UNIT
+ounce	I-UNIT
+orange	B-NAME
+liqueur	I-NAME
+
+4	B-QUANTITY
+slices	B-UNIT
+thinly	B-STATE
+sliced	I-STATE
+ham	B-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+lbs	O
+green	B-NAME
+beans	I-NAME
+,	O
+in	B-STATE
+1	B-QUANTITY
+inch	B-STATE
+pieces	I-STATE
+
+chicken	B-NAME
+giblets	I-NAME
+,	O
+washed	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+parsley	B-NAME
+root	I-NAME
+,	O
+peeled	O
+and	O
+coarsely	B-STATE
+grated	I-STATE
+
+4	B-QUANTITY
+cups	B-UNIT
+packed	B-STATE
+baby	B-NAME
+greens	I-NAME
+-LRB-	O
+about	O
+half	O
+of	O
+4.5-ounce	O
+package	O
+-RRB-	O
+
+6	B-QUANTITY
+-8	O
+ounces	B-UNIT
+fresh	O
+baby	B-NAME
+spinach	I-NAME
+leaves	B-FORM
+
+6	B-QUANTITY
+ounces	B-UNIT
+pearl	B-NAME
+wheat	I-NAME
+,	O
+uncooked	B-STATE
+
+1	B-QUANTITY
+thin	O
+strip	B-FORM
+lemon	B-NAME
+peel	I-NAME
+
+500	B-QUANTITY
+g	B-UNIT
+asparagus	B-NAME
+spears	I-NAME
+
+12	B-QUANTITY
+corn	B-NAME
+tortillas	I-NAME
+-LRB-	O
+fresh	O
+as	O
+possible	O
+-RRB-	O
+
+hard-boiled	B-NAME
+egg	I-NAME
+,	O
+slices	O
+optional	O
+for	O
+garnish	O
+
+2/3	B-QUANTITY
+cup	B-UNIT
+warm	B-STATE
+water	B-NAME
+,	O
+as	O
+needed	O
+
+2	B-QUANTITY
+fresh	B-DF
+cucumbers	B-NAME
+
+1	B-QUANTITY
+large	B-SIZE
+yellow	B-NAME
+zucchini	I-NAME
+-LRB-	O
+about	O
+1	B-QUANTITY
+pound	O
+-RRB-	O
+
+4	B-QUANTITY
+slices	B-UNIT
+bacon	B-NAME
+,	O
+rashers	O
+-LRB-	O
+chopped	O
+and	O
+cooked	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+salt	B-NAME
+-LRB-	O
+Do	O
+Not	O
+Exceed	O
+1	B-QUANTITY
+1/2	I-QUANTITY
+Teaspoon	O
+of	O
+Salt	O
+-RRB-	O
+
+1	B-QUANTITY
+collard	B-NAME
+greens	I-NAME
+,	O
+trimmed	B-STATE
+and	I-STATE
+cut	I-STATE
+roughly	I-STATE
+
+300	B-QUANTITY
+g	B-UNIT
+tomatoes	B-NAME
+,	O
+pureed	B-STATE
+
+1	B-QUANTITY
+large	B-SIZE
+thickly-sliced	O
+onion	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+chicken	B-NAME
+,	O
+diced	B-STATE
+
+1	B-QUANTITY
+can	B-UNIT
+black	B-NAME
+beans	I-NAME
+or	O
+-LRB-	O
+15	O
+ounce	O
+-RRB-	O
+can	B-UNIT
+dark	O
+red	O
+kidney	O
+beans	B-NAME
+,	O
+rinsed	O
+and	O
+drained	O
+
+2	B-QUANTITY
+bone-in	B-UNIT
+lamb	B-NAME
+shanks	I-NAME
+-LRB-	O
+about	O
+3	O
+1/2	O
+pounds	O
+-RRB-	O
+
+2	B-QUANTITY
+pieces	B-UNIT
+fresh	O
+ginger	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+grated	I-STATE
+
+1	B-QUANTITY
+vanilla	B-NAME
+bean	I-NAME
+,	O
+seeds	B-STATE
+scraped	I-STATE
+-LRB-	O
+or	O
+1	B-QUANTITY
+tsp	O
+vanilla	B-NAME
+extract	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+palm	B-NAME
+sugar	I-NAME
+-LRB-	O
+or	O
+dark	O
+brown	O
+sugar	B-NAME
+-RRB-	O
+
+1	B-QUANTITY
+large	B-SIZE
+cucumber	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+diced	I-STATE
+-LRB-	O
+about	O
+.5	O
+cm	O
+size	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+canned	O
+bamboo	B-NAME
+shoot	I-NAME
+,	O
+shredded	B-STATE
+
+1	B-QUANTITY
+package	B-UNIT
+mozzarella	B-NAME
+cheese	I-NAME
+,	O
+shredded	B-STATE
+
+1/4	B-QUANTITY
+cup	B-UNIT
+fresh	O
+parsley	B-NAME
+leaves	B-FORM
+,	O
+a	O
+couple	O
+of	O
+handfuls	O
+
+2	B-QUANTITY
+salmon	B-NAME
+fillets	I-NAME
+-LRB-	O
+about	O
+1	O
+lb	O
+each	O
+-RRB-	O
+
+1	B-QUANTITY
+bunch	B-UNIT
+green	B-NAME
+onion	I-NAME
+,	O
+white	B-STATE
+parts	I-STATE
+chopped	O
+green	B-NAME
+parts	B-STATE
+cut	I-STATE
+on	I-STATE
+bias	I-STATE
+in	I-STATE
+1/4-inch	I-STATE
+lengths	O
+-LRB-	O
+divided	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+teaspoons	B-UNIT
+Dijon	B-NAME
+mustard	I-NAME
+-LRB-	O
+approx	O
+.	O
+-RRB-	O
+
+dried	B-DF
+Greek	B-NAME
+oregano	I-NAME
+
+herbs	B-NAME
+
+240	B-QUANTITY
+g	B-UNIT
+curry	B-NAME
+paste	I-NAME
+,	O
+Pad	B-STATE
+Thai	I-STATE
+
+4	B-QUANTITY
+anchovy	B-NAME
+fillets	I-NAME
+,	O
+minced	B-STATE
+
+2	O
+-3	O
+lbs	B-UNIT
+beef	B-NAME
+chuck	I-NAME
+
+1	B-QUANTITY
+cup	B-UNIT
+apple	B-NAME
+cider	I-NAME
+or	O
+1	B-QUANTITY
+cup	B-UNIT
+juice	O
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+onion	B-NAME
+powder	B-FORM
+
+8	B-QUANTITY
+ounces	B-UNIT
+bulk	B-NAME
+Italian	I-NAME
+sausage	I-NAME
+-LRB-	O
+sweet	O
+,	O
+traditional	O
+or	O
+hot	O
+-RRB-	O
+
+artichoke	B-NAME
+heart	I-NAME
+
+1	B-QUANTITY
+peeled	O
+cucumber	B-NAME
+,	O
+quartered	B-STATE
+lengthwise	I-STATE
+in	I-STATE
+3/4	I-STATE
+inch	I-STATE
+thick	I-STATE
+slices	I-STATE
+
+3	B-QUANTITY
+cups	B-UNIT
+mostaccioli	B-NAME
+pasta	I-NAME
+,	O
+cooked	B-STATE
+,	O
+drained	B-STATE
+
+3/4	B-QUANTITY
+cup	B-UNIT
+manioc	B-NAME
+flour	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+crushed	B-STATE
+red	B-NAME
+pepper	I-NAME
+flakes	B-FORM
+-LRB-	O
+more	O
+or	O
+less	O
+-RRB-	O
+
+750	B-QUANTITY
+ml	B-UNIT
+good	O
+chicken	B-NAME
+vegetable	I-NAME
+stock	I-NAME
+
+125	B-QUANTITY
+g	B-UNIT
+tuna	B-NAME
+-LRB-	O
+drained	B-STATE
+-RRB-	O
+
+2	B-QUANTITY
+liters	B-UNIT
+meat	B-NAME
+broth	I-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+gingerroot	B-NAME
+-LRB-	O
+grated	B-STATE
+-RRB-	O
+
+baked	B-STATE
+pita	B-NAME
+chips	I-NAME
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+carrots	B-NAME
+,	O
+Matchstick	O
+-LRB-	O
+I	O
+buy	O
+already	O
+cut	B-STATE
+,	O
+small	O
+package	O
+-RRB-	O
+
+1	B-QUANTITY
+1/2	I-QUANTITY
+ounces	B-UNIT
+Godiva	B-NAME
+original	I-NAME
+chocolate	I-NAME
+liqueur	I-NAME
+
+2	O
+-3	O
+tablespoons	B-UNIT
+fresh	B-DF
+coriander	B-NAME
+leaves	B-FORM
+,	O
+washed	O
+and	O
+finely	O
+chopped	O
+-LRB-	O
+to	O
+garnish	O
+-RRB-	O
+
+200	B-QUANTITY
+g	B-UNIT
+vermicelli	B-NAME
+
+12	B-QUANTITY
+ounces	B-UNIT
+asparagus	B-NAME
+,	O
+trimmed	B-STATE
+and	I-STATE
+cut	I-STATE
+into	I-STATE
+1-inch	I-STATE
+pieces	I-STATE
+
+lime	B-NAME
+,	O
+Wheels	O
+or	B-FORM
+Wedges	O
+-LRB-	O
+for	O
+Garnish	O
+-RRB-	O
+
+4	B-QUANTITY
+chicken	B-NAME
+thigh	I-NAME
+fillets	I-NAME
+
+4	B-QUANTITY
+cups	B-UNIT
+dry	O
+coconut	B-NAME
+powder	B-FORM
+
+4	B-QUANTITY
+shoulder	B-NAME
+lamb	I-NAME
+chops	I-NAME
+,	O
+trim	B-STATE
+off	I-STATE
+excess	I-STATE
+fat	O
+,	O
+slash	B-STATE
+the	I-STATE
+edges	I-STATE
+
+1	B-QUANTITY
+liter	B-UNIT
+good	O
+dry	B-DF
+red	B-NAME
+wine	I-NAME
+
+4	B-QUANTITY
+-5	O
+tablespoons	B-UNIT
+water	B-NAME
+
+1	B-QUANTITY
+lb	B-UNIT
+rhubarb	B-NAME
+,	O
+roughly	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+diced	B-STATE
+strawberry	B-NAME
+,	O
+about	O
+10	O
+large	O
+strawberries	O
+
+1	B-QUANTITY
+package	B-UNIT
+rolled	B-NAME
+puff	I-NAME
+pastry	I-NAME
+,	O
+cut	B-STATE
+in	I-STATE
+2	I-STATE
+equal	I-STATE
+squares	I-STATE
+
+2	B-QUANTITY
+avocados	B-NAME
+,	O
+halved	O
+pitted	O
+and	B-STATE
+diced	I-STATE
+into	I-STATE
+1/2	O
+inch	O
+pieces	B-STATE
+
+6	B-QUANTITY
+cups	B-UNIT
+eggplants	B-NAME
+-LRB-	O
+cut	B-STATE
+into	I-STATE
+1-inch	I-STATE
+cubes	I-STATE
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+snap	B-NAME
+peas	I-NAME
+
+4	B-QUANTITY
+tablespoons	B-UNIT
+fresh	B-DF
+corn	B-NAME
+kernels	I-NAME
+
+2	B-QUANTITY
+-3	O
+plum	B-NAME
+tomatoes	I-NAME
+,	O
+diced	B-STATE
+
+1	B-QUANTITY
+cup	B-UNIT
+thinly	B-STATE
+sliced	I-STATE
+napa	B-NAME
+cabbage	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+favourite	O
+barbecue	B-NAME
+sauce	I-NAME
+
+2	B-QUANTITY
+cups	B-UNIT
+sliced	B-STATE
+bananas	B-NAME
+-LRB-	O
+about	O
+3	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+basil	B-NAME
+leaves	B-FORM
+-LRB-	O
+optional	O
+-RRB-	O
+
+4	B-QUANTITY
+ounces	B-UNIT
+chihuahua	B-NAME
+cheese	I-NAME
+,	O
+crumbled	B-STATE
+-LRB-	O
+or	O
+other	O
+queso	O
+fresco	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+tomatoes	B-NAME
+,	O
+finely	B-STATE
+diced	I-STATE
+
+savory	B-NAME
+,	O
+-	O
+1	O
+tbsp	O
+.	O
+a	O
+spoon	O
+-LRB-	O
+dried	B-DF
+herbs	O
+-RRB-	O
+
+200	B-QUANTITY
+g	B-UNIT
+dried	B-DF
+green	B-NAME
+tea	I-NAME
+soba	I-NAME
+noodles	I-NAME
+
+1/2	B-QUANTITY
+lb	B-UNIT
+hot	B-STATE
+breakfast	B-NAME
+sausage	I-NAME
+
+5	B-QUANTITY
+lbs	B-UNIT
+sirloin	B-NAME
+,	O
+sliced	B-STATE
+thin	I-STATE
+
+chipolte	O
+chili	B-NAME
+powder	I-NAME
+,	O
+to	O
+taste	O
+
+2	B-QUANTITY
+cups	B-UNIT
+desiccated	B-NAME
+coconut	I-NAME
+
+1	B-QUANTITY
+habanero	B-NAME
+pepper	I-NAME
+,	O
+same	B-STATE
+thing	I-STATE
+
+1	B-QUANTITY
+small	B-SIZE
+onion	B-NAME
+-LRB-	O
+grated	B-STATE
+into	I-STATE
+liquid	I-STATE
+-RRB-	O
+
+50	B-QUANTITY
+g	B-UNIT
+70	O
+%	O
+chocolate	B-NAME
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+fresh	O
+ginger	B-NAME
+juice	B-FORM
+
+3/4	B-QUANTITY
+cup	B-UNIT
+grapes	B-NAME
+,	B-STATE
+your	O
+choice	O
+,	B-STATE
+seedless	I-STATE
+-LRB-	O
+halved	B-STATE
+-RRB-	O
+
+3	B-QUANTITY
+cups	B-UNIT
+cornmeal	B-NAME
+-LRB-	O
+plus	O
+extra	O
+cornmeal	B-NAME
+to	O
+dust	O
+baking	O
+sheet	O
+-RRB-	O
+or	O
+3	B-QUANTITY
+cups	B-UNIT
+polenta	O
+-LRB-	O
+plus	O
+extra	O
+cornmeal	B-NAME
+to	O
+dust	O
+baking	O
+sheet	O
+-RRB-	O
+
+2	B-QUANTITY
+large	B-SIZE
+Spanish	B-NAME
+onions	I-NAME
+-LRB-	O
+or	O
+a	O
+few	O
+more	O
+smaller	O
+ones	O
+You	O
+may	O
+use	O
+vidalia	O
+or	O
+the	O
+common	O
+yellow	O
+too	O
+.	O
+-RRB-	O
+
+Tabasco	B-NAME
+sauce	I-NAME
+,	O
+to	O
+taste	O
+-LRB-	O
+optional	O
+-RRB-	O
+
+2	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+cooked	B-STATE
+white	B-NAME
+rice	I-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+freshly	B-STATE
+grated	O
+gingerroot	B-NAME
+-LRB-	O
+divided	B-STATE
+-RRB-	O
+
+1	B-QUANTITY
+ounce	B-UNIT
+fresh	B-DF
+turmeric	B-NAME
+
+2	O
+-3	O
+large	B-SIZE
+green	B-NAME
+onions	I-NAME
+
+3	B-QUANTITY
+tablespoons	B-UNIT
+frozen	O
+orange	B-NAME
+juice	B-FORM
+concentrate	B-STATE
+,	O
+thawed	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+long-grain	O
+parboiled	B-NAME
+rice	I-NAME
+
+4	B-QUANTITY
+cashews	B-NAME
+
+1	B-QUANTITY
+large	O
+pinch	B-UNIT
+saffron	B-NAME
+thread	I-NAME
+,	O
+crushed	B-STATE
+
+1	B-QUANTITY
+1/4	I-QUANTITY
+cm	B-UNIT
+ginger	B-NAME
+,	O
+finely	B-STATE
+chopped	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+skim	B-NAME
+milk	I-NAME
+,	O
+for	O
+the	O
+finish	O
+with	O
+the	O
+egg	O
+
+2	B-QUANTITY
+whole	B-UNIT
+eggs	B-NAME
+-LRB-	O
+Beaten	O
+-RRB-	O
+
+1/2	B-QUANTITY
+kg	B-UNIT
+boneless	B-NAME
+chicken	I-NAME
+breast	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+3	I-STATE
+cm	I-STATE
+cubes	I-STATE
+
+assorted	B-STATE
+cracker	B-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+5	B-QUANTITY
+large	B-SIZE
+potatoes	B-NAME
+,	O
+peeled	B-STATE
+and	I-STATE
+sliced	I-STATE
+in	I-STATE
+half	I-STATE
+
+1/8	B-QUANTITY
+-	I-QUANTITY
+1/4	I-QUANTITY
+teaspoon	B-UNIT
+cinnamon	B-NAME
+
+15	B-QUANTITY
+ml	B-UNIT
+water	B-NAME
+
+5	B-QUANTITY
+lbs	B-UNIT
+small	B-SIZE
+red	B-NAME
+potatoes	I-NAME
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+fresh	B-DF
+gingerroot	B-NAME
+,	O
+spoon	O
+,	O
+chopped	B-STATE
+
+6	B-QUANTITY
+corn	B-NAME
+tostadas	I-NAME
+
+1/2	B-QUANTITY
+medium	B-SIZE
+head	B-NAME
+red	I-NAME
+cabbage	I-NAME
+,	O
+core	B-STATE
+removed	I-STATE
+and	I-STATE
+leaves	I-STATE
+finely	I-STATE
+shredded	I-STATE
+,	O
+about	O
+7	O
+cups	O
+
+2	B-QUANTITY
+lbs	B-UNIT
+navy	B-NAME
+beans	I-NAME
+-LRB-	O
+white	O
+,	O
+dry	O
+-RRB-	O
+
+5	B-QUANTITY
+sprigs	B-UNIT
+fresh	O
+summer	B-NAME
+savory	I-NAME
+-LRB-	O
+optional	O
+-RRB-	O
+
+1/8	B-QUANTITY
+cup	B-UNIT
+candied	B-NAME
+ginger	I-NAME
+,	O
+thinly	B-STATE
+shredded	I-STATE
+
+3	B-QUANTITY
+1/2	I-QUANTITY
+cups	B-UNIT
+bananas	B-NAME
+,	O
+diced	B-STATE
+-LRB-	O
+firm	O
+,	O
+ripe	O
+ones	O
+work	O
+best	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+stale	B-NAME
+bread	I-NAME
+,	O
+cut	B-STATE
+into	I-STATE
+1/2-inch	I-STATE
+cubes	I-STATE
+-LRB-	O
+use	O
+coarse	O
+,	O
+country-style	O
+bread	B-NAME
+-RRB-	O
+
+5	B-QUANTITY
+pinches	B-UNIT
+hot	B-STATE
+black	B-NAME
+pepper	I-NAME
+
+1	B-QUANTITY
+hot	B-NAME
+green	I-NAME
+chili	I-NAME
+pepper	I-NAME
+,	O
+chopped	B-STATE
+
+1/4	B-QUANTITY
+-	I-QUANTITY
+1/2	I-QUANTITY
+cup	B-UNIT
+canned	B-STATE
+corn	B-NAME
+niblet	I-NAME
+
+8	B-QUANTITY
+skinless	B-UNIT
+chicken	B-NAME
+thighs	I-NAME
+-LRB-	O
+about	O
+2	O
+pounds	O
+-RRB-	O
+
+2	B-QUANTITY
+tablespoons	B-UNIT
+sour	B-NAME
+cream	I-NAME
+-LRB-	O
+approx	O
+-RRB-	O
+
+1	B-QUANTITY
+onion	B-NAME
+,	O
+quartered	B-STATE
+and	I-STATE
+separated	I-STATE
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+dry	B-DF
+sherry	B-NAME
+,	O
+plus	O
+
+2	B-QUANTITY
+ounces	B-UNIT
+sliced	O
+deli	B-NAME
+pepperoni	I-NAME
+,	O
+halved	B-STATE
+
+1/3	B-QUANTITY
+cup	B-UNIT
+sweet	B-NAME
+white	I-NAME
+wine	I-NAME
+-LRB-	O
+such	O
+as	O
+Moscato	O
+-RRB-	O
+
+mint	B-NAME
+leaf	B-STATE
+-LRB-	O
+optional	O
+for	O
+garnish	O
+-RRB-	O
+
+1/2	B-QUANTITY
+cup	B-UNIT
+pine	B-NAME
+nuts	I-NAME
+,	I-NAME
+for	I-NAME
+garnishing	I-NAME
+
+1/4	B-QUANTITY
+bunch	B-UNIT
+fresh	B-DF
+oregano	B-NAME
+
+2	B-QUANTITY
+green	B-NAME
+chili	I-NAME
+peppers	I-NAME
+,	O
+deseeded	B-STATE
+and	I-STATE
+finely	I-STATE
+sliced	I-STATE
+
+2	B-QUANTITY
+stalks	B-UNIT
+celery	B-NAME
+,	O
+sliced	B-STATE
+1/4	I-STATE
+inch	I-STATE
+thick	I-STATE
+
+12	B-QUANTITY
+ounces	B-UNIT
+spicy	B-NAME
+vegetable	I-NAME
+juice	I-NAME
+,	O
+V8	O
+
+8	B-QUANTITY
+chicken	B-NAME
+thighs	I-NAME
+,	O
+skin	B-STATE
+on	I-STATE
+
+24	B-QUANTITY
+ounces	B-UNIT
+mixed	B-NAME
+dried	B-DF
+fruit	B-NAME
+-LRB-	O
+raisins	O
+,	O
+sultanas	O
+,	O
+currants	O
+,	O
+candied	B-STATE
+peel	O
+etc	O
+-RRB-	O
+
+3	B-QUANTITY
+cups	B-UNIT
+cooked	B-STATE
+rice	B-NAME
+-LRB-	O
+I	O
+use	O
+long	O
+grain	O
+boiled	O
+in	O
+chicken	O
+stock	O
+-RRB-	O
+
+1	B-QUANTITY
+bag	B-UNIT
+butter	B-NAME
+lettuce	I-NAME
+
+1	B-QUANTITY
+avocado	B-NAME
+-LRB-	O
+diced	B-STATE
+into	I-STATE
+1cm	I-STATE
+pieces	I-STATE
+-RRB-	O
+
+1	O
+-2	O
+teaspoon	B-UNIT
+crushed	B-STATE
+garlic	B-NAME
+
+1	B-QUANTITY
+teaspoon	B-UNIT
+cinnamon	B-NAME
+-LRB-	O
+ground	B-FORM
+-RRB-	O
+
+1/4	B-QUANTITY
+cup	B-UNIT
+crushed	B-STATE
+red	B-NAME
+pepper	I-NAME
+flakes	B-FORM
+
+1	B-QUANTITY
+cup	B-UNIT
+chocolate	B-NAME
+chips	I-NAME
+-LRB-	O
+or	O
+another	O
+kind	O
+of	O
+your	O
+liking	O
+-RRB-	O
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+coriander	B-NAME
+seeds	B-FORM
+,	O
+roasted	B-STATE
+in	O
+a	O
+dry	O
+pan	O
+until	O
+fragrant	O
+
+3	B-QUANTITY
+teaspoons	B-UNIT
+dark	B-NAME
+sesame	I-NAME
+oil	I-NAME
+
+1/2	B-QUANTITY
+cup	B-UNIT
+crumbled	B-STATE
+Cotija	B-NAME
+cheese	I-NAME
+-LRB-	O
+or	O
+another	O
+salty	O
+,	O
+crumbly	O
+cheese	B-NAME
+such	O
+as	O
+ricotta	O
+salata	O
+,	O
+feta	O
+-RRB-	O
+
+150	B-QUANTITY
+g	B-UNIT
+romaine	B-NAME
+lettuce	I-NAME
+
+500	B-QUANTITY
+g	B-UNIT
+golden	B-NAME
+unrefined	O
+unbleached	B-STATE
+cane	B-NAME
+sugar	I-NAME
+
+50	B-QUANTITY
+ml	B-UNIT
+vegetable	B-NAME
+oil	I-NAME
+
+12	B-QUANTITY
+slices	B-UNIT
+thinly	B-STATE
+sliced	I-STATE
+prosciutto	B-NAME
+-LRB-	O
+about	O
+6	O
+ounces	O
+-RRB-	O
+
+1	B-QUANTITY
+cup	B-UNIT
+spinach	B-NAME
+,	O
+shredded	B-STATE
+
+2	B-QUANTITY
+teaspoons	B-UNIT
+fresh	B-DF
+ginger	B-NAME
+-LRB-	O
+or	O
+more	O
+-RRB-	O
+
+1/4	B-QUANTITY
+teaspoon	B-UNIT
+saffron	B-NAME
+strand	I-NAME
+-LRB-	O
+kesar	O
+-RRB-	O
+
+1	B-QUANTITY
+tablespoon	B-UNIT
+cumin	B-NAME
+seed	B-FORM
+,	O
+roasted	B-STATE
+and	I-STATE
+powdered	I-STATE
+
