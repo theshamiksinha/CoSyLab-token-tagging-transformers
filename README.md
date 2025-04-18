@@ -110,7 +110,7 @@ Outputs:
 
 Full details, including experimental setup, results, training analysis, and key findings, are available in:
 
-[`NER_for_cooking_intructions_FINAL_REPORT.pdf`](./NER_for_cooking_intructions_FINAL_REPORT.pdf)
+[`report.pdf`](./report.pdf)
 
 ---
 
